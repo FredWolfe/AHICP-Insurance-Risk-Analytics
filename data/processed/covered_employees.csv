@@ -1,0 +1,1975 @@
+Employee_ID,Corporate_ID,Employee_Name,Employee_Title,Employee_Suffix,Occupation,Grade_Level,Monthly_Salary_GHS,Age,Gender,Gender_Guess,Dependents,Smoker
+EMP00001,CORP001,April Perez,,,Network Engineer,Mid,12000,43,Male,Female,2,Yes
+EMP00002,CORP001,Jonathan Morris,,,Software Engineer,Junior,8500,40,Female,Male,4,No
+EMP00003,CORP001,Kathryn Cook,,,Network Engineer,Junior,7500,40,Male,Female,4,No
+EMP00004,CORP001,Christopher Johnson,,,Software Engineer,Mid,13000,51,Female,Male,0,Yes
+EMP00005,CORP001,Kenneth Thompson,,,Software Engineer,Junior,8500,58,Female,Male,0,No
+EMP00006,CORP001,Wendy Kidd,,,Network Engineer,Junior,7500,26,Female,Female,2,Yes
+EMP00007,CORP001,John Smith,,,Software Engineer,Senior,19000,56,Male,Male,2,No
+EMP00008,CORP001,Timothy Callahan,,,Software Engineer,Mid,13000,40,Female,Male,1,No
+EMP00009,CORP001,Jessica Blanchard,,,Software Engineer,Senior,19000,23,Male,Female,2,No
+EMP00010,CORP001,Fernando Lara,,,Network Engineer,Senior,17000,41,Female,Male,3,Yes
+EMP00011,CORP001,Patricia Duncan,,,Software Engineer,Mid,13000,57,Female,Female,4,Yes
+EMP00012,CORP001,Melissa Cannon,,,Network Engineer,Junior,7500,46,Female,Female,1,No
+EMP00013,CORP001,Keith Allen,,,Software Engineer,Junior,8500,43,Female,Male,3,No
+EMP00014,CORP001,Brenda Griffin,,,Network Engineer,Mid,12000,39,Female,Female,2,Yes
+EMP00015,CORP001,Donna Johnson,,,Network Engineer,Mid,12000,48,Male,Female,4,Yes
+EMP00016,CORP001,Casey Miller,,,Network Engineer,Senior,17000,48,Female,Unknown,3,No
+EMP00017,CORP001,David Deleon,,,Network Engineer,Junior,7500,39,Male,Male,2,No
+EMP00018,CORP001,Christina Smith,,,Software Engineer,Senior,19000,23,Female,Female,3,No
+EMP00019,CORP001,Cathy Wilson,,,Network Engineer,Senior,17000,46,Female,Female,4,No
+EMP00020,CORP001,Nicholas Rhodes,,,Software Engineer,Mid,13000,51,Male,Male,3,No
+EMP00021,CORP001,Scott Haney,,,Network Engineer,Mid,12000,54,Female,Male,2,No
+EMP00022,CORP001,Jessica Smith,,,Software Engineer,Senior,19000,41,Male,Female,0,Yes
+EMP00023,CORP001,Kristin Anderson,,,Network Engineer,Junior,7500,43,Male,Female,2,Yes
+EMP00024,CORP001,John Mcdonald,,,Network Engineer,Junior,7500,40,Male,Male,1,Yes
+EMP00025,CORP001,Stephen Brown,,,Network Engineer,Mid,12000,39,Male,Male,3,Yes
+EMP00026,CORP001,Daniel Faulkner,,,Network Engineer,Senior,17000,33,Female,Male,1,Yes
+EMP00027,CORP001,Pamela Morales,,,Software Engineer,Junior,8500,40,Female,Female,2,Yes
+EMP00028,CORP001,Kenneth Torres,,,Software Engineer,Senior,19000,32,Female,Male,3,No
+EMP00029,CORP001,Ryan Sims,,,Software Engineer,Junior,8500,48,Female,Male,2,Yes
+EMP00030,CORP001,Aaron Whitaker,,,Software Engineer,Mid,13000,40,Male,Male,1,Yes
+EMP00031,CORP001,Ricardo Larson,,,Network Engineer,Junior,7500,42,Male,Male,0,Yes
+EMP00032,CORP001,Emily Johnson,,,Software Engineer,Mid,13000,53,Female,Female,0,Yes
+EMP00033,CORP002,Susan Jones,,,Network Engineer,Mid,12000,50,Female,Female,3,No
+EMP00034,CORP002,Amanda Thompson,,,Software Engineer,Junior,8500,49,Female,Female,0,Yes
+EMP00035,CORP002,Wanda Evans,,,Network Engineer,Senior,17000,37,Male,Female,0,No
+EMP00036,CORP002,Gabriel Hicks,,,Network Engineer,Junior,7500,26,Female,Male,2,No
+EMP00037,CORP002,Laura Harris,,,Software Engineer,Mid,13000,36,Female,Female,1,No
+EMP00038,CORP002,Michael Phillips,,,Software Engineer,Junior,8500,43,Female,Male,3,No
+EMP00039,CORP002,Laurie David,,,Network Engineer,Junior,7500,51,Female,Female,1,No
+EMP00040,CORP002,Amanda Rodriguez,,,Software Engineer,Mid,13000,37,Female,Female,0,No
+EMP00041,CORP002,Juan Ramirez,,,Software Engineer,Mid,13000,55,Female,Male,3,No
+EMP00042,CORP002,Jennifer Garcia,,,Network Engineer,Junior,7500,48,Male,Female,3,No
+EMP00043,CORP002,Thomas Taylor,,,Software Engineer,Junior,8500,34,Male,Male,0,Yes
+EMP00044,CORP002,Thomas Mendoza,,,Software Engineer,Junior,8500,33,Male,Male,4,No
+EMP00045,CORP002,Paul Horne,,,Network Engineer,Mid,12000,54,Female,Male,0,Yes
+EMP00046,CORP002,Larry Keller,,,Software Engineer,Senior,19000,33,Female,Male,3,No
+EMP00047,CORP002,Sarah Tanner,,,Network Engineer,Mid,12000,33,Female,Female,3,Yes
+EMP00048,CORP002,Valerie Barnett,,,Software Engineer,Mid,13000,40,Female,Female,0,No
+EMP00049,CORP002,Danielle Alexander,,,Software Engineer,Senior,19000,33,Female,Female,0,Yes
+EMP00050,CORP002,Rachel Smith,,,Software Engineer,Senior,19000,52,Male,Female,2,Yes
+EMP00051,CORP002,Charlene Goodwin,,,Software Engineer,Senior,19000,48,Male,Female,4,No
+EMP00052,CORP002,Steven Warren,,,Network Engineer,Junior,7500,43,Male,Male,2,Yes
+EMP00053,CORP002,Steven Mason,,,Software Engineer,Junior,8500,49,Male,Male,4,No
+EMP00054,CORP002,Carrie Miller,,,Software Engineer,Mid,13000,52,Male,Female,3,Yes
+EMP00055,CORP002,Frederick Nunez,,,Software Engineer,Mid,13000,54,Female,Male,3,No
+EMP00056,CORP002,Christopher Smith,,,Software Engineer,Mid,13000,35,Female,Male,3,No
+EMP00057,CORP002,Glenn Freeman,,,Software Engineer,Senior,19000,35,Male,Male,1,Yes
+EMP00058,CORP002,Anthony Russell,,,Software Engineer,Junior,8500,32,Male,Male,4,No
+EMP00059,CORP002,Stephanie Mcintyre,,,Network Engineer,Mid,12000,44,Female,Female,3,No
+EMP00060,CORP002,Christina Hogan,,,Software Engineer,Junior,8500,44,Female,Female,3,No
+EMP00061,CORP002,Jeffrey Baker,,,Software Engineer,Junior,8500,23,Female,Male,0,Yes
+EMP00062,CORP002,Kathleen Campbell,,,Software Engineer,Junior,8500,55,Male,Female,2,Yes
+EMP00063,CORP002,Deanna Potts,,,Network Engineer,Junior,7500,36,Female,Female,0,Yes
+EMP00064,CORP003,Alyssa Sharp,,,Network Engineer,Mid,12000,32,Male,Female,2,Yes
+EMP00065,CORP003,Jeremiah Burns,,,Software Engineer,Mid,13000,27,Female,Male,0,Yes
+EMP00066,CORP003,Joy Taylor,,,Network Engineer,Mid,12000,40,Male,Female,3,No
+EMP00067,CORP003,Diana Vaughn,,,Network Engineer,Senior,17000,39,Female,Female,3,No
+EMP00068,CORP003,Nicholas Jones,,,Software Engineer,Mid,13000,49,Male,Male,3,Yes
+EMP00069,CORP003,Charles Williams,,,Software Engineer,Junior,8500,30,Female,Male,0,Yes
+EMP00070,CORP003,Scott Kelly,,,Software Engineer,Senior,19000,57,Male,Male,1,No
+EMP00071,CORP003,Jane Scott,,,Software Engineer,Senior,19000,26,Male,Female,1,Yes
+EMP00072,CORP003,Terri Schroeder,,,Network Engineer,Junior,7500,32,Male,Female,0,No
+EMP00073,CORP003,Larry Stanton,,,Software Engineer,Junior,8500,27,Female,Male,3,No
+EMP00074,CORP003,Natalie Snow,,,Software Engineer,Senior,19000,49,Female,Female,0,No
+EMP00075,CORP003,Cynthia French,,,Network Engineer,Mid,12000,37,Female,Female,2,No
+EMP00076,CORP003,Francisco Hardin,,,Software Engineer,Mid,13000,40,Female,Male,2,Yes
+EMP00077,CORP003,Christopher Hernandez,,,Software Engineer,Senior,19000,41,Female,Male,1,Yes
+EMP00078,CORP003,Stephanie Wright,,,Software Engineer,Senior,19000,42,Male,Female,3,Yes
+EMP00079,CORP003,Christine Skinner,,,Network Engineer,Senior,17000,37,Male,Female,2,No
+EMP00080,CORP003,Richard Garcia,,,Software Engineer,Mid,13000,31,Male,Male,2,No
+EMP00081,CORP003,Stephanie Greene,,,Software Engineer,Senior,19000,55,Female,Female,1,Yes
+EMP00082,CORP003,Rachel Walker,,,Network Engineer,Senior,17000,39,Female,Female,0,No
+EMP00083,CORP003,Melissa Casey,,,Software Engineer,Mid,13000,46,Male,Female,1,Yes
+EMP00084,CORP003,Cynthia Anderson,,,Network Engineer,Junior,7500,30,Female,Female,1,Yes
+EMP00085,CORP003,April Sanchez,,,Network Engineer,Senior,17000,47,Female,Female,4,Yes
+EMP00086,CORP003,Brooke Ayers,,,Software Engineer,Junior,8500,29,Female,Female,2,No
+EMP00087,CORP003,Michelle Cox,,,Network Engineer,Senior,17000,48,Female,Female,3,Yes
+EMP00088,CORP003,Katherine Robinson,,,Network Engineer,Junior,7500,30,Female,Female,2,Yes
+EMP00089,CORP003,Christopher Martinez,,,Network Engineer,Mid,12000,26,Male,Male,3,Yes
+EMP00090,CORP003,Nicole Roberts,,,Software Engineer,Mid,13000,28,Male,Female,2,Yes
+EMP00091,CORP003,Laura Boone,,,Network Engineer,Mid,12000,50,Male,Female,0,Yes
+EMP00092,CORP003,Miranda Erickson,,,Network Engineer,Senior,17000,55,Male,Female,3,No
+EMP00093,CORP003,Holly Brown,,,Software Engineer,Junior,8500,48,Male,Female,4,Yes
+EMP00094,CORP003,Kelly Watkins,,,Network Engineer,Mid,12000,49,Female,Female,2,No
+EMP00095,CORP003,Earl Farley,,,Software Engineer,Junior,8500,56,Female,Male,2,Yes
+EMP00096,CORP003,Kathy Thompson,,,Network Engineer,Junior,7500,47,Female,Female,1,No
+EMP00097,CORP004,Michele Alexander,,,Network Engineer,Senior,17000,32,Female,Female,4,No
+EMP00098,CORP004,Sydney Gordon,,,Network Engineer,Mid,12000,23,Male,Male,4,Yes
+EMP00099,CORP004,Nathaniel Blair,,,Software Engineer,Junior,8500,31,Female,Male,4,Yes
+EMP00100,CORP004,Courtney Roberts,,,Network Engineer,Junior,7500,44,Female,Female,0,No
+EMP00101,CORP004,Keith Mathis,,,Software Engineer,Mid,13000,47,Female,Male,4,Yes
+EMP00102,CORP004,Joshua Bradley,,,Software Engineer,Senior,19000,46,Male,Male,4,Yes
+EMP00103,CORP004,Autumn Aguilar,,,Software Engineer,Junior,8500,44,Female,Female,4,No
+EMP00104,CORP004,Dale Morales,,,Software Engineer,Senior,19000,48,Female,Male,0,Yes
+EMP00105,CORP004,Tara Carter,,,Network Engineer,Senior,17000,54,Female,Female,1,Yes
+EMP00106,CORP004,Amber Hendricks,,,Network Engineer,Junior,7500,48,Female,Female,4,Yes
+EMP00107,CORP004,Richard Middleton,,,Network Engineer,Mid,12000,35,Male,Male,4,Yes
+EMP00108,CORP004,James Pena,,,Software Engineer,Senior,19000,23,Female,Male,1,No
+EMP00109,CORP004,William Dixon,,,Network Engineer,Mid,12000,44,Male,Male,1,No
+EMP00110,CORP004,Russell Powell,,,Software Engineer,Junior,8500,32,Male,Male,4,Yes
+EMP00111,CORP004,Samantha King,,,Software Engineer,Senior,19000,39,Female,Female,2,No
+EMP00112,CORP004,Taylor Stanley,,,Software Engineer,Junior,8500,37,Male,Male,0,No
+EMP00113,CORP004,Shane Lee,,,Network Engineer,Senior,17000,54,Male,Male,3,Yes
+EMP00114,CORP004,Lauren Mathews,,,Software Engineer,Mid,13000,54,Female,Female,2,No
+EMP00115,CORP004,James Torres,,,Network Engineer,Senior,17000,47,Male,Male,1,Yes
+EMP00116,CORP004,William Moreno,,,Network Engineer,Junior,7500,55,Male,Male,2,Yes
+EMP00117,CORP004,Tara Parker,,,Software Engineer,Mid,13000,56,Female,Female,1,Yes
+EMP00118,CORP004,Benjamin Moore,,,Software Engineer,Senior,19000,50,Female,Male,1,No
+EMP00119,CORP004,Theresa Lane,,,Software Engineer,Senior,19000,50,Male,Female,0,No
+EMP00120,CORP004,Clarence Anderson,,,Network Engineer,Junior,7500,32,Female,Male,4,Yes
+EMP00121,CORP004,Adam Brown,,,Software Engineer,Junior,8500,32,Male,Male,1,Yes
+EMP00122,CORP004,Ashley Jackson,,,Software Engineer,Mid,13000,39,Female,Female,0,Yes
+EMP00123,CORP004,Javier Contreras,,,Network Engineer,Junior,7500,46,Female,Male,0,Yes
+EMP00124,CORP004,Peter Jones,,,Software Engineer,Mid,13000,53,Male,Male,1,Yes
+EMP00125,CORP004,Michael Durham,,,Software Engineer,Senior,19000,50,Male,Male,2,No
+EMP00126,CORP004,Angela Wells,,,Software Engineer,Senior,19000,40,Female,Female,3,No
+EMP00127,CORP004,Christine Daniel,,,Network Engineer,Senior,17000,35,Male,Female,1,Yes
+EMP00128,CORP004,Kimberly Peters,,,Software Engineer,Junior,8500,51,Female,Female,1,Yes
+EMP00129,CORP004,Edward Webb,,,Software Engineer,Mid,13000,32,Female,Male,0,No
+EMP00130,CORP004,April Little,,,Network Engineer,Senior,17000,38,Male,Female,2,Yes
+EMP00131,CORP004,Jason Ramirez,,,Software Engineer,Junior,8500,33,Female,Male,1,Yes
+EMP00132,CORP004,Jennifer Davis,,,Software Engineer,Senior,19000,33,Female,Female,3,Yes
+EMP00133,CORP004,Jennifer Hicks,,,Network Engineer,Senior,17000,25,Male,Female,1,Yes
+EMP00134,CORP004,Amanda Cline,,,Software Engineer,Mid,13000,28,Female,Female,0,No
+EMP00135,CORP004,Jonathan Morales,,,Network Engineer,Mid,12000,44,Male,Male,1,Yes
+EMP00136,CORP005,Aaron Jacobs,,,Software Engineer,Senior,19000,39,Female,Male,0,No
+EMP00137,CORP005,Jamie Wright,,,Software Engineer,Senior,19000,45,Female,Female,3,Yes
+EMP00138,CORP005,Daniel Collins,,,Software Engineer,Mid,13000,57,Male,Male,0,Yes
+EMP00139,CORP005,Terri Cameron,,,Software Engineer,Senior,19000,28,Male,Female,0,Yes
+EMP00140,CORP005,Robert Choi,,,Network Engineer,Mid,12000,51,Female,Male,2,Yes
+EMP00141,CORP005,Amy Bishop,,,Network Engineer,Mid,12000,36,Male,Female,3,No
+EMP00142,CORP005,Dana Brock,,,Software Engineer,Junior,8500,36,Male,Female,3,No
+EMP00143,CORP005,Tiffany Weaver,,,Software Engineer,Mid,13000,46,Female,Female,1,No
+EMP00144,CORP005,Jessica Whitehead,,,Network Engineer,Mid,12000,53,Female,Female,3,No
+EMP00145,CORP005,Thomas Scott,,,Software Engineer,Senior,19000,42,Female,Male,3,Yes
+EMP00146,CORP005,Linda Lopez,,,Network Engineer,Senior,17000,56,Male,Female,1,Yes
+EMP00147,CORP005,James Young,,,Network Engineer,Mid,12000,55,Female,Male,1,Yes
+EMP00148,CORP005,Melissa Bush,,,Software Engineer,Mid,13000,57,Male,Female,3,Yes
+EMP00149,CORP005,Sarah Coffey,,,Software Engineer,Senior,19000,25,Female,Female,1,Yes
+EMP00150,CORP005,Kevin Jones,,,Software Engineer,Senior,19000,50,Male,Male,3,No
+EMP00151,CORP005,Carmen Holland,,,Network Engineer,Senior,17000,54,Female,Female,4,No
+EMP00152,CORP005,Kyle Torres,,,Software Engineer,Mid,13000,46,Male,Female,3,No
+EMP00153,CORP005,Trevor Carpenter,,,Network Engineer,Mid,12000,42,Male,Male,4,No
+EMP00154,CORP005,Ashley Parker,,,Network Engineer,Junior,7500,58,Female,Female,4,Yes
+EMP00155,CORP005,Thomas Gonzalez,,,Network Engineer,Junior,7500,32,Male,Male,1,No
+EMP00156,CORP005,Alison Blanchard,,,Software Engineer,Senior,19000,35,Male,Female,2,No
+EMP00157,CORP005,Krista Bond,,,Network Engineer,Senior,17000,27,Male,Female,3,No
+EMP00158,CORP006,Dave Rose,,,Relationship Manager,Senior,14500,35,Male,Male,3,No
+EMP00159,CORP006,Kaitlyn Mcgee,,,Accountant,Senior,13000,30,Male,Female,2,Yes
+EMP00160,CORP006,Jasmine Oconnell,,,Relationship Manager,Mid,9500,26,Male,Female,3,Yes
+EMP00161,CORP006,Jimmy House,,,Relationship Manager,Senior,14500,33,Male,Male,1,No
+EMP00162,CORP006,James Brennan,,,Relationship Manager,Junior,6000,42,Male,Male,2,No
+EMP00163,CORP006,Kristine Warren,,,Relationship Manager,Mid,9500,34,Female,Female,4,No
+EMP00164,CORP006,Michael Mills,,,Relationship Manager,Mid,9500,46,Female,Male,3,No
+EMP00165,CORP006,Seth Powell,,,Accountant,Senior,13000,47,Female,Male,1,Yes
+EMP00166,CORP006,Gregory Owen,,,Accountant,Junior,5500,34,Male,Male,1,No
+EMP00167,CORP006,Monica King,,,Accountant,Mid,8500,56,Female,Female,3,No
+EMP00168,CORP006,Renee Wood,,,Accountant,Junior,5500,43,Female,Female,4,No
+EMP00169,CORP006,Melissa Colon,,,Accountant,Junior,5500,48,Male,Female,4,No
+EMP00170,CORP006,David Ross,,DDS,Relationship Manager,Junior,6000,43,Female,Male,1,Yes
+EMP00171,CORP006,Robert Landry,,,Accountant,Mid,8500,43,Male,Male,2,Yes
+EMP00172,CORP006,Nathaniel Taylor,,,Relationship Manager,Junior,6000,30,Male,Male,4,No
+EMP00173,CORP006,Riley Ross,,,Relationship Manager,Senior,14500,54,Female,Male,2,Yes
+EMP00174,CORP007,Tammy Moore,,,Accountant,Mid,8500,33,Male,Female,1,Yes
+EMP00175,CORP007,Bryan Rogers,,,Relationship Manager,Mid,9500,51,Female,Male,1,Yes
+EMP00176,CORP007,Austin Adams,Mr.,,Relationship Manager,Mid,9500,37,Female,Male,0,No
+EMP00177,CORP007,Zachary Morris,,,Accountant,Junior,5500,41,Female,Male,3,No
+EMP00178,CORP007,Mark Knapp,,,Accountant,Junior,5500,53,Female,Male,2,No
+EMP00179,CORP007,Jennifer Dunn,,,Relationship Manager,Junior,6000,58,Male,Female,0,No
+EMP00180,CORP007,Teresa Poole,,,Accountant,Senior,13000,41,Female,Female,1,Yes
+EMP00181,CORP007,Katherine Wells,,,Accountant,Junior,5500,27,Female,Female,0,No
+EMP00182,CORP007,Benjamin Lowe,,,Relationship Manager,Senior,14500,50,Male,Male,3,Yes
+EMP00183,CORP007,Kimberly Stephens,,,Relationship Manager,Junior,6000,46,Male,Female,4,No
+EMP00184,CORP007,Steven Yang,,,Relationship Manager,Junior,6000,37,Male,Male,2,Yes
+EMP00185,CORP007,Cheryl Allen,,,Accountant,Mid,8500,26,Male,Female,2,No
+EMP00186,CORP007,Bonnie Nelson,,,Relationship Manager,Senior,14500,48,Male,Female,4,No
+EMP00187,CORP007,Christopher Grimes,,,Relationship Manager,Mid,9500,49,Female,Male,3,No
+EMP00188,CORP007,Ariel Raymond,,,Accountant,Mid,8500,55,Female,Male,1,No
+EMP00189,CORP008,Heather Wilson,,,Accountant,Mid,8500,51,Male,Female,2,No
+EMP00190,CORP008,April Powell,,,Accountant,Senior,13000,43,Female,Female,1,Yes
+EMP00191,CORP008,William Johnson,,,Accountant,Mid,8500,47,Female,Male,4,No
+EMP00192,CORP008,Deborah Jones,Mrs.,PhD,Accountant,Mid,8500,48,Female,Female,4,Yes
+EMP00193,CORP008,Elijah Ross,,,Relationship Manager,Junior,6000,47,Male,Male,3,No
+EMP00194,CORP008,Kelli Foster,,,Accountant,Junior,5500,43,Female,Female,0,Yes
+EMP00195,CORP008,Makayla Chung,,,Relationship Manager,Senior,14500,54,Male,Female,1,Yes
+EMP00196,CORP008,Lindsay Taylor,,DDS,Accountant,Senior,13000,23,Male,Female,0,No
+EMP00197,CORP008,Natalie Fox,,,Relationship Manager,Mid,9500,55,Female,Female,4,Yes
+EMP00198,CORP008,James Dennis,,,Relationship Manager,Mid,9500,29,Female,Male,1,Yes
+EMP00199,CORP008,Kimberly Thompson,,,Accountant,Mid,8500,53,Female,Female,2,No
+EMP00200,CORP008,Julie Jones,,MD,Relationship Manager,Mid,9500,32,Female,Female,3,No
+EMP00201,CORP008,Tracy Miller,,,Accountant,Senior,13000,57,Male,Female,1,No
+EMP00202,CORP008,Kyle Shelton,,,Relationship Manager,Mid,9500,29,Female,Female,1,No
+EMP00203,CORP008,Michelle Owens,,,Relationship Manager,Senior,14500,25,Male,Female,1,Yes
+EMP00204,CORP008,Kayla Brennan,,,Relationship Manager,Junior,6000,36,Female,Female,0,No
+EMP00205,CORP008,Tonya Mata,,,Relationship Manager,Senior,14500,32,Male,Female,2,Yes
+EMP00206,CORP008,Carlos Pope,,,Relationship Manager,Mid,9500,48,Female,Male,1,No
+EMP00207,CORP008,Jeffrey Mccoy,,,Relationship Manager,Senior,14500,34,Male,Male,2,Yes
+EMP00208,CORP008,Jade Rodriguez,,,Relationship Manager,Mid,9500,40,Female,Female,3,No
+EMP00209,CORP008,Lisa Caldwell,,,Accountant,Mid,8500,54,Female,Female,0,Yes
+EMP00210,CORP008,Robin Turner,,,Accountant,Junior,5500,25,Female,Male,3,No
+EMP00211,CORP008,Maurice Gregory,,,Relationship Manager,Junior,6000,34,Female,Male,0,No
+EMP00212,CORP008,Jessica Ward,,,Relationship Manager,Junior,6000,32,Male,Female,4,No
+EMP00213,CORP008,Robert Howard,,,Accountant,Mid,8500,53,Female,Male,0,No
+EMP00214,CORP008,Joyce Williams,,MD,Accountant,Junior,5500,34,Female,Female,1,Yes
+EMP00215,CORP008,Ashley Morris,,,Accountant,Senior,13000,44,Male,Female,2,No
+EMP00216,CORP008,Rebecca Miller,,,Accountant,Senior,13000,40,Female,Female,4,No
+EMP00217,CORP008,Jacqueline Maddox,,,Accountant,Senior,13000,46,Female,Female,3,Yes
+EMP00218,CORP008,Brenda Meyer,,,Accountant,Senior,13000,56,Female,Female,2,No
+EMP00219,CORP009,Theresa Vega,,,Relationship Manager,Junior,6000,40,Female,Female,1,No
+EMP00220,CORP009,Seth Moore,,,Accountant,Senior,13000,48,Female,Male,3,No
+EMP00221,CORP009,Roy Ferguson,,,Accountant,Senior,13000,33,Female,Male,2,No
+EMP00222,CORP009,Melissa Fisher,,,Relationship Manager,Mid,9500,24,Male,Female,2,No
+EMP00223,CORP009,Robert Ball,,,Relationship Manager,Junior,6000,42,Female,Male,0,No
+EMP00224,CORP009,George Velazquez,,,Accountant,Senior,13000,23,Female,Male,3,Yes
+EMP00225,CORP009,Dale Hill,,,Accountant,Senior,13000,40,Female,Male,3,No
+EMP00226,CORP009,Crystal Williams,,,Relationship Manager,Junior,6000,58,Female,Female,2,No
+EMP00227,CORP009,Christopher Green,,,Relationship Manager,Senior,14500,26,Male,Male,1,Yes
+EMP00228,CORP009,Jose Jones,,,Relationship Manager,Mid,9500,57,Female,Male,3,Yes
+EMP00229,CORP009,Sarah Byrd,,,Accountant,Junior,5500,58,Male,Female,4,No
+EMP00230,CORP009,Kimberly Barber,,,Accountant,Senior,13000,27,Female,Female,3,Yes
+EMP00231,CORP009,Matthew Lewis,,,Relationship Manager,Mid,9500,38,Female,Male,2,No
+EMP00232,CORP009,Timothy Hickman,,,Relationship Manager,Senior,14500,52,Female,Male,4,No
+EMP00233,CORP009,Johnathan Wiley,,,Accountant,Senior,13000,47,Female,Male,2,No
+EMP00234,CORP009,Jordan Flores,,,Relationship Manager,Junior,6000,30,Female,Male,2,Yes
+EMP00235,CORP009,Randy Gregory,,,Relationship Manager,Mid,9500,37,Male,Male,1,No
+EMP00236,CORP009,Shawn Jacobs,,,Accountant,Mid,8500,33,Female,Male,2,Yes
+EMP00237,CORP009,Jeffrey Roberts,,,Accountant,Junior,5500,24,Male,Male,0,Yes
+EMP00238,CORP010,Karl Davis,,,Accountant,Mid,8500,54,Male,Male,4,No
+EMP00239,CORP010,Stephanie Arias,,,Relationship Manager,Mid,9500,33,Male,Female,4,No
+EMP00240,CORP010,Jessica Wilson,,,Accountant,Senior,13000,56,Male,Female,3,Yes
+EMP00241,CORP010,Tiffany Ochoa,,MD,Relationship Manager,Mid,9500,29,Female,Female,4,No
+EMP00242,CORP010,Scott Torres,,,Accountant,Junior,5500,28,Female,Male,4,Yes
+EMP00243,CORP010,David Lyons,,,Relationship Manager,Senior,14500,31,Female,Male,4,No
+EMP00244,CORP010,Erin Stout,,,Accountant,Junior,5500,49,Male,Female,4,No
+EMP00245,CORP010,Dana Payne,,,Relationship Manager,Senior,14500,57,Female,Female,3,No
+EMP00246,CORP010,Jeffrey House,,,Accountant,Junior,5500,48,Female,Male,0,Yes
+EMP00247,CORP010,Bryan Johnson,,,Relationship Manager,Junior,6000,36,Female,Male,1,Yes
+EMP00248,CORP010,Laura Ruiz,,,Relationship Manager,Mid,9500,43,Female,Female,2,Yes
+EMP00249,CORP010,Lisa Barrera,,,Relationship Manager,Senior,14500,55,Male,Female,2,Yes
+EMP00250,CORP010,Ashley Vazquez,,,Relationship Manager,Senior,14500,53,Female,Female,0,No
+EMP00251,CORP010,Nicholas Daniels,,,Relationship Manager,Junior,6000,34,Male,Male,4,No
+EMP00252,CORP010,Kristen Henderson,,,Relationship Manager,Junior,6000,49,Male,Female,1,Yes
+EMP00253,CORP010,Rodney Martinez,,,Accountant,Senior,13000,23,Male,Male,4,Yes
+EMP00254,CORP010,Douglas White,,,Accountant,Mid,8500,30,Male,Male,0,No
+EMP00255,CORP010,Karina Lowe,,,Relationship Manager,Junior,6000,35,Female,Female,1,Yes
+EMP00256,CORP010,Lindsay Brown,,,Relationship Manager,Junior,6000,50,Female,Female,4,Yes
+EMP00257,CORP010,Nicole Mckinney,,,Accountant,Mid,8500,36,Male,Female,2,No
+EMP00258,CORP010,Daniel Anderson,,,Relationship Manager,Mid,9500,30,Male,Male,3,No
+EMP00259,CORP010,Stephen Fernandez,,,Accountant,Junior,5500,25,Male,Male,4,No
+EMP00260,CORP011,Michael Mcfarland,,,Production Supervisor,Junior,5000,28,Female,Male,3,No
+EMP00261,CORP011,Lisa Lee,,,Machine Operator,Mid,5000,24,Female,Female,1,No
+EMP00262,CORP011,Kristopher Lynn,,,Machine Operator,Mid,5000,28,Female,Male,1,No
+EMP00263,CORP011,Angela Jackson,,,Production Supervisor,Mid,7000,55,Female,Female,3,No
+EMP00264,CORP011,Stephanie Lewis,,,Machine Operator,Senior,7000,24,Male,Female,3,Yes
+EMP00265,CORP011,Erin Morales,,,Machine Operator,Junior,3500,54,Female,Female,0,Yes
+EMP00266,CORP011,Matthew Collins,,,Production Supervisor,Mid,7000,39,Female,Male,0,Yes
+EMP00267,CORP011,Rebecca Lopez,,,Production Supervisor,Mid,7000,23,Male,Female,3,Yes
+EMP00268,CORP011,Kimberly Crane,,,Production Supervisor,Mid,7000,37,Female,Female,2,Yes
+EMP00269,CORP011,Julie Hendricks,,,Production Supervisor,Mid,7000,51,Male,Female,0,Yes
+EMP00270,CORP011,John Thomas,,,Machine Operator,Senior,7000,32,Male,Male,0,No
+EMP00271,CORP011,Robert Andrews,,,Machine Operator,Mid,5000,49,Female,Male,1,Yes
+EMP00272,CORP011,Maria Lynch,,,Machine Operator,Junior,3500,38,Male,Female,2,No
+EMP00273,CORP011,Kelly Ortega,,,Machine Operator,Junior,3500,44,Female,Female,3,No
+EMP00274,CORP011,Lori Ward,,,Production Supervisor,Junior,5000,57,Female,Female,4,No
+EMP00275,CORP011,Susan Hobbs,,,Machine Operator,Junior,3500,29,Male,Female,4,Yes
+EMP00276,CORP011,David Atkins,,,Machine Operator,Mid,5000,28,Female,Male,1,Yes
+EMP00277,CORP011,Melissa Miller,,,Machine Operator,Senior,7000,32,Female,Female,2,Yes
+EMP00278,CORP011,Kevin Dixon,,,Machine Operator,Senior,7000,25,Female,Male,2,Yes
+EMP00279,CORP011,Daniel Craig,,,Machine Operator,Mid,5000,49,Female,Male,4,No
+EMP00280,CORP011,Jeanne Gay,,,Machine Operator,Senior,7000,52,Male,Female,3,Yes
+EMP00281,CORP011,Matthew Daugherty,,,Machine Operator,Junior,3500,48,Female,Male,4,No
+EMP00282,CORP011,Mark Burns,,,Machine Operator,Mid,5000,54,Male,Male,2,Yes
+EMP00283,CORP011,Robert Lewis,,,Machine Operator,Mid,5000,57,Male,Male,1,Yes
+EMP00284,CORP011,Ashley Gonzalez,,,Production Supervisor,Senior,9500,47,Female,Female,0,Yes
+EMP00285,CORP011,April Lowe,,,Production Supervisor,Mid,7000,32,Male,Female,4,Yes
+EMP00286,CORP011,Jennifer Rivas,,,Production Supervisor,Mid,7000,24,Male,Female,1,Yes
+EMP00287,CORP011,Kayla Ali,,,Production Supervisor,Junior,5000,30,Female,Female,1,No
+EMP00288,CORP011,Michelle Adams,,,Production Supervisor,Junior,5000,57,Female,Female,3,No
+EMP00289,CORP011,Karen Greer,,,Machine Operator,Senior,7000,45,Female,Female,4,No
+EMP00290,CORP011,Bradley Wilkinson,,,Machine Operator,Senior,7000,48,Male,Male,4,No
+EMP00291,CORP011,Janet Smith,,,Production Supervisor,Junior,5000,58,Male,Female,3,Yes
+EMP00292,CORP012,Jennifer Carter,,,Machine Operator,Junior,3500,33,Female,Female,0,Yes
+EMP00293,CORP012,Todd Johnson,,,Machine Operator,Junior,3500,57,Female,Male,4,Yes
+EMP00294,CORP012,Kenneth Jimenez,,,Machine Operator,Senior,7000,49,Female,Male,0,No
+EMP00295,CORP012,Kimberly Barnes,,,Production Supervisor,Senior,9500,52,Female,Female,2,Yes
+EMP00296,CORP012,Sean Ruiz,,,Machine Operator,Senior,7000,54,Male,Male,1,Yes
+EMP00297,CORP012,Timothy Calhoun,,,Production Supervisor,Senior,9500,33,Male,Male,1,No
+EMP00298,CORP012,Christine Montgomery,,,Production Supervisor,Mid,7000,39,Female,Female,3,Yes
+EMP00299,CORP012,Kristin Jacobs,Dr.,,Production Supervisor,Junior,5000,43,Male,Female,0,Yes
+EMP00300,CORP012,Crystal Chapman,,,Production Supervisor,Mid,7000,33,Male,Female,4,Yes
+EMP00301,CORP012,William Green,,,Production Supervisor,Senior,9500,32,Female,Male,3,No
+EMP00302,CORP012,Karen Nelson,,,Production Supervisor,Junior,5000,36,Female,Female,0,Yes
+EMP00303,CORP012,Brittney Hall,,,Machine Operator,Mid,5000,56,Female,Female,2,Yes
+EMP00304,CORP012,Edward Bush,,,Production Supervisor,Mid,7000,52,Male,Male,4,No
+EMP00305,CORP012,Ashley Jones,,,Production Supervisor,Senior,9500,48,Female,Female,2,No
+EMP00306,CORP012,Charles Bell,,,Machine Operator,Mid,5000,23,Male,Male,0,No
+EMP00307,CORP012,Christian Morales,,,Machine Operator,Junior,3500,45,Male,Male,4,No
+EMP00308,CORP012,Andrew Mack,,,Machine Operator,Senior,7000,47,Female,Male,3,No
+EMP00309,CORP013,James Tran,,,Production Supervisor,Mid,7000,51,Female,Male,0,No
+EMP00310,CORP013,Curtis Martin,,,Production Supervisor,Mid,7000,38,Male,Male,2,Yes
+EMP00311,CORP013,Jennifer Jones,,,Production Supervisor,Senior,9500,31,Female,Female,3,Yes
+EMP00312,CORP013,Michael Saunders,,,Production Supervisor,Mid,7000,40,Female,Male,3,No
+EMP00313,CORP013,Vincent Peters,,,Production Supervisor,Senior,9500,49,Male,Male,1,No
+EMP00314,CORP013,Ashley Smith,,,Production Supervisor,Junior,5000,45,Male,Female,3,Yes
+EMP00315,CORP013,Scott Moore,,,Machine Operator,Mid,5000,26,Female,Male,0,Yes
+EMP00316,CORP013,Virginia Pena,,,Machine Operator,Junior,3500,52,Male,Female,2,No
+EMP00317,CORP013,Judy Medina,,,Machine Operator,Mid,5000,55,Male,Female,2,Yes
+EMP00318,CORP013,Joseph Stephenson,,,Production Supervisor,Junior,5000,58,Female,Male,0,Yes
+EMP00319,CORP013,Thomas Davis,,,Production Supervisor,Senior,9500,26,Female,Male,3,No
+EMP00320,CORP013,William Adams,,,Machine Operator,Senior,7000,31,Female,Male,4,Yes
+EMP00321,CORP013,Shannon Stephenson,,,Production Supervisor,Senior,9500,39,Male,Female,4,Yes
+EMP00322,CORP013,Ashley Collins,,,Production Supervisor,Senior,9500,54,Female,Female,1,No
+EMP00323,CORP013,Pamela Jimenez,,,Machine Operator,Mid,5000,54,Male,Female,4,Yes
+EMP00324,CORP013,Katherine Allen,,,Machine Operator,Mid,5000,34,Male,Female,1,No
+EMP00325,CORP013,Jessica Williams,,,Machine Operator,Senior,7000,30,Male,Female,1,No
+EMP00326,CORP013,Tracey Young,,,Machine Operator,Junior,3500,37,Female,Female,4,Yes
+EMP00327,CORP013,Christopher Brown,,,Machine Operator,Junior,3500,40,Female,Male,4,Yes
+EMP00328,CORP013,Michael Thompson,,,Production Supervisor,Junior,5000,27,Female,Male,4,Yes
+EMP00329,CORP013,Brian Flowers,Mr.,,Production Supervisor,Mid,7000,44,Female,Male,1,Yes
+EMP00330,CORP013,Bradley Ortega,,,Machine Operator,Junior,3500,48,Female,Male,2,No
+EMP00331,CORP013,Peter Bates,,,Machine Operator,Junior,3500,50,Male,Male,0,Yes
+EMP00332,CORP013,Robert Ball,,,Production Supervisor,Senior,9500,45,Male,Male,0,Yes
+EMP00333,CORP013,Gloria Cooper,,,Production Supervisor,Senior,9500,33,Female,Female,4,No
+EMP00334,CORP013,Jessica Estrada,,,Machine Operator,Mid,5000,44,Male,Female,4,Yes
+EMP00335,CORP013,Jimmy Huff,,,Machine Operator,Senior,7000,40,Male,Male,4,No
+EMP00336,CORP013,Scott Chung,,,Machine Operator,Junior,3500,53,Female,Male,4,Yes
+EMP00337,CORP013,Troy Schmidt,,,Production Supervisor,Junior,5000,39,Female,Male,1,Yes
+EMP00338,CORP013,Donald Perez,,,Production Supervisor,Junior,5000,51,Female,Male,0,Yes
+EMP00339,CORP013,Luis Martin,,,Machine Operator,Senior,7000,51,Male,Male,4,Yes
+EMP00340,CORP014,Michael Davis,,,Safety Officer,Junior,7000,24,Female,Male,2,No
+EMP00341,CORP014,Jeffrey Solis,,,Mining Engineer,Mid,16000,29,Female,Male,4,No
+EMP00342,CORP014,April Powell,,,Mining Engineer,Junior,11000,29,Male,Female,1,No
+EMP00343,CORP014,Tammy Hayes,,,Safety Officer,Junior,7000,31,Female,Female,1,Yes
+EMP00344,CORP014,Christian Bean,,,Safety Officer,Junior,7000,55,Male,Male,1,Yes
+EMP00345,CORP014,Christopher Sanchez,,,Safety Officer,Senior,14000,37,Male,Male,0,No
+EMP00346,CORP014,Shelley Saunders,,,Mining Engineer,Mid,16000,45,Male,Female,3,Yes
+EMP00347,CORP014,Gail Jensen,,,Mining Engineer,Junior,11000,26,Male,Female,4,Yes
+EMP00348,CORP014,Nicole Adams,,,Mining Engineer,Junior,11000,32,Female,Female,4,No
+EMP00349,CORP014,Heather Mcguire,,,Safety Officer,Junior,7000,46,Female,Female,4,No
+EMP00350,CORP014,Christian Gallagher,,,Safety Officer,Junior,7000,46,Male,Male,2,No
+EMP00351,CORP014,Richard Vaughn,Mr.,,Mining Engineer,Senior,24000,56,Male,Male,2,Yes
+EMP00352,CORP014,Jeffrey Graham,,,Mining Engineer,Senior,24000,57,Male,Male,3,No
+EMP00353,CORP014,Rachel Noble,,,Mining Engineer,Junior,11000,44,Male,Female,4,No
+EMP00354,CORP014,Arthur Rice,,,Mining Engineer,Junior,11000,58,Female,Male,0,No
+EMP00355,CORP014,Dennis Werner,,,Mining Engineer,Junior,11000,31,Female,Male,0,Yes
+EMP00356,CORP014,Gregory Daniels,,,Mining Engineer,Mid,16000,30,Male,Male,1,No
+EMP00357,CORP014,Brian Patterson,,,Mining Engineer,Senior,24000,33,Male,Male,1,Yes
+EMP00358,CORP014,Brandi Brewer,,,Safety Officer,Mid,10000,24,Female,Female,1,No
+EMP00359,CORP014,Cory Reid,,,Mining Engineer,Senior,24000,47,Female,Male,1,Yes
+EMP00360,CORP014,Zachary Ryan,,MD,Mining Engineer,Junior,11000,58,Female,Male,0,No
+EMP00361,CORP014,Luis Brown,,,Mining Engineer,Mid,16000,33,Female,Male,4,Yes
+EMP00362,CORP014,Luis Woods,,,Mining Engineer,Mid,16000,29,Male,Male,0,Yes
+EMP00363,CORP014,Grace Pierce,,,Mining Engineer,Mid,16000,46,Male,Female,2,Yes
+EMP00364,CORP014,Gregory Norman,,,Mining Engineer,Junior,11000,50,Female,Male,3,Yes
+EMP00365,CORP014,Lindsey Peck,,,Safety Officer,Junior,7000,32,Female,Female,4,Yes
+EMP00366,CORP014,Logan Mckee,,,Safety Officer,Mid,10000,27,Female,Male,2,No
+EMP00367,CORP014,Vickie Mclaughlin,,,Mining Engineer,Junior,11000,28,Male,Female,1,Yes
+EMP00368,CORP014,William Evans,,,Mining Engineer,Mid,16000,26,Female,Male,1,No
+EMP00369,CORP014,Melanie Johnson,,,Safety Officer,Junior,7000,45,Female,Female,1,No
+EMP00370,CORP014,Michael Stevens,,,Safety Officer,Junior,7000,36,Male,Male,0,No
+EMP00371,CORP014,Sarah Lambert,,,Safety Officer,Junior,7000,58,Male,Female,2,No
+EMP00372,CORP014,Brett Diaz,,DVM,Mining Engineer,Junior,11000,53,Male,Male,0,Yes
+EMP00373,CORP014,Courtney Johnston,,,Mining Engineer,Mid,16000,37,Male,Female,1,No
+EMP00374,CORP014,Benjamin Taylor,,,Mining Engineer,Mid,16000,35,Male,Male,0,No
+EMP00375,CORP014,Shelly Smith,,,Mining Engineer,Senior,24000,27,Female,Female,3,Yes
+EMP00376,CORP015,John Moore,,,Safety Officer,Senior,14000,42,Female,Male,3,No
+EMP00377,CORP015,Ronald Smith,,,Safety Officer,Mid,10000,27,Female,Male,3,Yes
+EMP00378,CORP015,Wanda Neal,,,Safety Officer,Mid,10000,28,Male,Female,2,Yes
+EMP00379,CORP015,Michelle Holder,,DDS,Safety Officer,Mid,10000,43,Female,Female,1,No
+EMP00380,CORP015,Sean Chapman,,,Safety Officer,Junior,7000,24,Female,Male,4,No
+EMP00381,CORP015,Karen Brennan,,,Safety Officer,Junior,7000,52,Female,Female,0,Yes
+EMP00382,CORP015,Michael Valenzuela,,,Safety Officer,Mid,10000,26,Female,Male,1,No
+EMP00383,CORP015,Jeremy Benson,,,Safety Officer,Senior,14000,55,Male,Male,2,No
+EMP00384,CORP015,Jay Martinez,,,Mining Engineer,Senior,24000,52,Female,Male,0,No
+EMP00385,CORP015,Joseph Bond,,PhD,Mining Engineer,Senior,24000,42,Female,Male,4,Yes
+EMP00386,CORP015,Christine Best,,,Safety Officer,Junior,7000,38,Male,Female,1,No
+EMP00387,CORP015,Stacey Maynard,Ms.,DVM,Safety Officer,Mid,10000,35,Male,Female,2,Yes
+EMP00388,CORP015,Richard Escobar,,,Mining Engineer,Mid,16000,34,Female,Male,3,Yes
+EMP00389,CORP015,Frank Harrison,,,Mining Engineer,Mid,16000,28,Female,Male,0,No
+EMP00390,CORP015,Douglas Smith,,,Safety Officer,Mid,10000,48,Female,Male,1,Yes
+EMP00391,CORP015,Diane Scott,,,Mining Engineer,Senior,24000,37,Female,Female,4,Yes
+EMP00392,CORP015,Anthony Gonzales,,,Safety Officer,Mid,10000,48,Male,Male,1,No
+EMP00393,CORP015,Donald Cox,,,Mining Engineer,Senior,24000,58,Female,Male,3,Yes
+EMP00394,CORP015,Sheryl Chase,,,Mining Engineer,Junior,11000,23,Male,Female,0,Yes
+EMP00395,CORP015,Dennis Smith,,,Safety Officer,Senior,14000,23,Male,Male,0,No
+EMP00396,CORP015,Stephen Johnson,,,Mining Engineer,Junior,11000,34,Female,Male,1,No
+EMP00397,CORP015,Melissa Parker,,,Mining Engineer,Mid,16000,46,Male,Female,0,Yes
+EMP00398,CORP015,Robert Chavez,,,Mining Engineer,Junior,11000,44,Male,Male,0,Yes
+EMP00399,CORP015,Emma Travis,,,Safety Officer,Senior,14000,23,Female,Female,0,No
+EMP00400,CORP015,Ashley Jackson,,,Safety Officer,Mid,10000,44,Male,Female,1,No
+EMP00401,CORP015,Heather Bailey,,,Mining Engineer,Mid,16000,41,Male,Female,1,Yes
+EMP00402,CORP015,Alexandra Whitaker,,,Safety Officer,Mid,10000,24,Male,Female,0,No
+EMP00403,CORP015,David Pruitt,,,Safety Officer,Junior,7000,58,Female,Male,2,Yes
+EMP00404,CORP015,Linda Miller,,,Mining Engineer,Mid,16000,47,Male,Female,0,No
+EMP00405,CORP015,Theresa Meyer,,,Safety Officer,Junior,7000,31,Male,Female,1,No
+EMP00406,CORP015,Marcus Brock,,,Mining Engineer,Junior,11000,36,Female,Male,4,No
+EMP00407,CORP015,Darrell Sims,,,Safety Officer,Junior,7000,39,Female,Male,0,Yes
+EMP00408,CORP015,Christopher Riddle,,,Mining Engineer,Senior,24000,35,Male,Male,3,No
+EMP00409,CORP015,Antonio Thompson,Dr.,,Safety Officer,Senior,14000,39,Female,Male,2,Yes
+EMP00410,CORP015,Crystal Wells,,,Safety Officer,Junior,7000,47,Female,Female,1,Yes
+EMP00411,CORP015,Jennifer Ramos,,,Mining Engineer,Junior,11000,44,Male,Female,2,No
+EMP00412,CORP015,Christopher Conley,,DDS,Mining Engineer,Mid,16000,41,Female,Male,0,Yes
+EMP00413,CORP015,Jennifer Benitez,,,Safety Officer,Junior,7000,57,Male,Female,1,Yes
+EMP00414,CORP015,Steven Lawson,,,Safety Officer,Junior,7000,29,Male,Male,3,Yes
+EMP00415,CORP015,Amy Bishop,,,Safety Officer,Junior,7000,54,Male,Female,4,No
+EMP00416,CORP016,Roy Brown,,,Lecturer,Junior,6000,41,Male,Male,3,No
+EMP00417,CORP016,Emily Johnson,,,Teacher,Junior,3500,43,Female,Female,4,Yes
+EMP00418,CORP016,Sherry Williams,,,Teacher,Mid,5000,28,Female,Female,1,Yes
+EMP00419,CORP016,Lindsey Robinson,,,Teacher,Senior,7000,48,Male,Female,3,Yes
+EMP00420,CORP016,Sonya Miller,,,Lecturer,Junior,6000,30,Male,Female,0,No
+EMP00421,CORP016,Timothy Thomas,,,Teacher,Junior,3500,36,Female,Male,4,No
+EMP00422,CORP016,Patrick Martinez,,,Lecturer,Senior,13000,44,Male,Male,4,No
+EMP00423,CORP016,David Russo,,,Teacher,Junior,3500,24,Male,Male,0,No
+EMP00424,CORP016,James Warren,,,Lecturer,Mid,9000,53,Female,Male,2,No
+EMP00425,CORP016,Christy Solis,,,Teacher,Mid,5000,34,Female,Female,2,No
+EMP00426,CORP016,Heather Ray,,,Lecturer,Mid,9000,33,Female,Female,0,Yes
+EMP00427,CORP016,Yvette Parsons,,,Lecturer,Mid,9000,49,Male,Female,1,Yes
+EMP00428,CORP016,David Russell,,,Lecturer,Junior,6000,37,Male,Male,4,No
+EMP00429,CORP016,David Singh,,,Teacher,Mid,5000,53,Female,Male,4,Yes
+EMP00430,CORP016,Marvin Lewis,,,Teacher,Senior,7000,46,Female,Male,3,No
+EMP00431,CORP016,Evan May,,,Lecturer,Senior,13000,35,Female,Male,3,No
+EMP00432,CORP016,Benjamin Rios,,,Lecturer,Mid,9000,29,Male,Male,0,No
+EMP00433,CORP016,Jennifer Thornton,,,Lecturer,Mid,9000,52,Female,Female,1,Yes
+EMP00434,CORP016,Kaylee Short,,,Teacher,Junior,3500,27,Male,Female,4,No
+EMP00435,CORP016,Karen Owens,,,Lecturer,Mid,9000,42,Male,Female,1,Yes
+EMP00436,CORP016,Olivia Ferguson,,,Teacher,Mid,5000,54,Male,Female,0,No
+EMP00437,CORP016,Lisa Harris,,,Lecturer,Senior,13000,43,Female,Female,0,No
+EMP00438,CORP016,Candace Davis,,,Teacher,Junior,3500,36,Female,Female,3,No
+EMP00439,CORP016,Jesse Anderson,,,Teacher,Senior,7000,49,Male,Male,3,No
+EMP00440,CORP016,Natalie Robinson,,,Lecturer,Junior,6000,55,Male,Female,3,Yes
+EMP00441,CORP016,Carol Smith,,,Lecturer,Junior,6000,41,Female,Female,2,Yes
+EMP00442,CORP016,Steven Rodriguez,,,Lecturer,Junior,6000,43,Male,Male,1,No
+EMP00443,CORP017,Karen Shields,,,Fleet Manager,Junior,6000,57,Male,Female,0,No
+EMP00444,CORP017,Cody Giles,,,Warehouse Officer,Mid,5000,54,Female,Male,0,No
+EMP00445,CORP017,Kyle Ruiz,,,Fleet Manager,Junior,6000,25,Female,Female,2,Yes
+EMP00446,CORP017,Latasha Wolfe,,,Warehouse Officer,Senior,7000,31,Male,Female,3,No
+EMP00447,CORP017,Jeffrey Adkins,,,Warehouse Officer,Junior,3500,57,Female,Male,3,No
+EMP00448,CORP017,Melissa Perez,,,Fleet Manager,Junior,6000,27,Male,Female,0,No
+EMP00449,CORP017,Patrick Anderson,,,Warehouse Officer,Junior,3500,58,Female,Male,4,Yes
+EMP00450,CORP017,Brooke Maynard,,,Fleet Manager,Senior,12000,35,Male,Female,0,Yes
+EMP00451,CORP017,Kristina Peck,,,Warehouse Officer,Senior,7000,39,Female,Female,4,No
+EMP00452,CORP017,Kevin Nichols,,,Warehouse Officer,Junior,3500,43,Female,Male,0,No
+EMP00453,CORP017,Albert Sexton,,,Warehouse Officer,Junior,3500,48,Male,Male,4,No
+EMP00454,CORP017,Christopher Pearson,,,Fleet Manager,Mid,8500,45,Male,Male,2,No
+EMP00455,CORP017,Donald Garrett,,,Fleet Manager,Senior,12000,37,Male,Male,1,No
+EMP00456,CORP017,Jennifer Ross,,,Fleet Manager,Mid,8500,43,Male,Female,1,Yes
+EMP00457,CORP017,Daniel Hobbs,,,Warehouse Officer,Junior,3500,31,Male,Male,2,Yes
+EMP00458,CORP017,Kimberly Barnett,,,Fleet Manager,Senior,12000,32,Male,Female,3,Yes
+EMP00459,CORP018,Samuel Young,,,Warehouse Officer,Senior,7000,41,Female,Male,3,No
+EMP00460,CORP018,Sierra Miller,,,Fleet Manager,Senior,12000,40,Female,Female,3,Yes
+EMP00461,CORP018,Scott Jacobson,,,Warehouse Officer,Senior,7000,23,Female,Male,3,No
+EMP00462,CORP018,Natasha Hall,,,Warehouse Officer,Junior,3500,34,Female,Female,4,Yes
+EMP00463,CORP018,Jason Rogers,,,Fleet Manager,Senior,12000,35,Male,Male,2,No
+EMP00464,CORP018,Madison Baker,,,Warehouse Officer,Junior,3500,25,Female,Female,0,Yes
+EMP00465,CORP018,James Parker,,,Fleet Manager,Junior,6000,39,Male,Male,0,Yes
+EMP00466,CORP018,John Campos,,,Warehouse Officer,Junior,3500,30,Female,Male,2,Yes
+EMP00467,CORP018,John Butler,,,Warehouse Officer,Junior,3500,53,Male,Male,4,No
+EMP00468,CORP018,Nicholas Taylor,,,Fleet Manager,Junior,6000,29,Female,Male,2,Yes
+EMP00469,CORP018,Michael Scott,,,Fleet Manager,Junior,6000,38,Male,Male,0,No
+EMP00470,CORP018,Brendan Carroll,,,Warehouse Officer,Junior,3500,37,Female,Male,4,Yes
+EMP00471,CORP018,Mariah Vazquez,,,Fleet Manager,Junior,6000,32,Female,Female,0,Yes
+EMP00472,CORP018,Richard Silva,,,Fleet Manager,Mid,8500,56,Male,Male,0,No
+EMP00473,CORP018,Nicole Jennings,,,Warehouse Officer,Senior,7000,50,Female,Female,3,Yes
+EMP00474,CORP018,Joann Gregory,,,Warehouse Officer,Mid,5000,23,Female,Female,0,No
+EMP00475,CORP018,Christy Dawson,,,Fleet Manager,Mid,8500,29,Female,Female,0,No
+EMP00476,CORP018,Elizabeth Morse,,,Fleet Manager,Junior,6000,44,Male,Female,2,Yes
+EMP00477,CORP018,Cody Hall,,,Warehouse Officer,Mid,5000,30,Female,Male,3,No
+EMP00478,CORP018,James Espinoza,,,Fleet Manager,Junior,6000,44,Male,Male,4,Yes
+EMP00479,CORP018,Jamie Hoffman,,,Fleet Manager,Mid,8500,53,Male,Female,4,No
+EMP00480,CORP018,April Bradford,,,Warehouse Officer,Senior,7000,29,Female,Female,3,No
+EMP00481,CORP018,Kathy Wilkins,,,Fleet Manager,Senior,12000,39,Female,Female,4,No
+EMP00482,CORP018,Marvin Gonzalez,,,Warehouse Officer,Senior,7000,24,Female,Male,1,No
+EMP00483,CORP018,Andrea Coleman,,,Warehouse Officer,Mid,5000,27,Male,Female,4,Yes
+EMP00484,CORP018,Michael Torres,,,Warehouse Officer,Mid,5000,31,Male,Male,4,Yes
+EMP00485,CORP018,Spencer Smith,,,Fleet Manager,Senior,12000,29,Male,Male,1,No
+EMP00486,CORP018,Lori Mcgee,,,Warehouse Officer,Senior,7000,44,Female,Female,0,Yes
+EMP00487,CORP019,Sherry Carter,,PhD,Warehouse Officer,Junior,3500,48,Male,Female,0,Yes
+EMP00488,CORP019,Sara Jones,,,Fleet Manager,Junior,6000,43,Female,Female,4,Yes
+EMP00489,CORP019,Michael Brown,,,Warehouse Officer,Mid,5000,49,Male,Male,1,No
+EMP00490,CORP019,Sabrina Zimmerman,,,Warehouse Officer,Mid,5000,27,Male,Female,1,Yes
+EMP00491,CORP019,Kathryn Fields,,,Fleet Manager,Senior,12000,25,Male,Female,2,Yes
+EMP00492,CORP019,Cynthia Fischer,,,Fleet Manager,Junior,6000,44,Male,Female,0,No
+EMP00493,CORP019,Jacob Roberts,,,Fleet Manager,Mid,8500,25,Female,Male,4,Yes
+EMP00494,CORP019,Taylor Gutierrez,,,Warehouse Officer,Junior,3500,26,Male,Male,2,No
+EMP00495,CORP019,Vincent Mccoy,,,Fleet Manager,Junior,6000,30,Female,Male,1,No
+EMP00496,CORP019,Matthew Maldonado,,,Fleet Manager,Junior,6000,52,Male,Male,1,Yes
+EMP00497,CORP019,Victor Briggs,,,Warehouse Officer,Junior,3500,36,Female,Male,3,Yes
+EMP00498,CORP019,Stacey Wagner,,,Fleet Manager,Mid,8500,50,Female,Female,3,Yes
+EMP00499,CORP019,Philip Larson,,,Warehouse Officer,Junior,3500,34,Male,Male,3,Yes
+EMP00500,CORP019,Christina Garrett,,,Fleet Manager,Junior,6000,25,Male,Female,3,Yes
+EMP00501,CORP019,Mary Owens,,,Warehouse Officer,Mid,5000,49,Male,Female,3,Yes
+EMP00502,CORP019,James Mcmahon,,,Fleet Manager,Junior,6000,31,Female,Male,3,Yes
+EMP00503,CORP019,Frederick Jordan,,,Fleet Manager,Mid,8500,56,Female,Male,4,No
+EMP00504,CORP019,Kristen Smith,,,Warehouse Officer,Junior,3500,27,Female,Female,4,Yes
+EMP00505,CORP019,Dustin Reynolds,,,Fleet Manager,Senior,12000,51,Male,Male,4,Yes
+EMP00506,CORP019,Troy Velazquez,,,Fleet Manager,Junior,6000,33,Male,Male,1,No
+EMP00507,CORP019,Kent Rocha,,,Fleet Manager,Junior,6000,54,Male,Male,1,Yes
+EMP00508,CORP019,Ashley Price,,,Fleet Manager,Senior,12000,52,Male,Female,0,Yes
+EMP00509,CORP019,Michael Smith,,,Warehouse Officer,Mid,5000,52,Male,Male,4,No
+EMP00510,CORP019,Diane Contreras,,,Fleet Manager,Mid,8500,57,Female,Female,4,No
+EMP00511,CORP019,Lauren Hale,,,Fleet Manager,Senior,12000,26,Female,Female,3,No
+EMP00512,CORP020,Eric Ferguson,,,Insurance Officer,Senior,12000,40,Female,Male,2,Yes
+EMP00513,CORP020,Amber Stevens,,,Claims Analyst,Senior,14000,27,Male,Female,4,No
+EMP00514,CORP020,Benjamin Eaton,,,Claims Analyst,Junior,6000,56,Female,Male,2,Yes
+EMP00515,CORP020,Matthew Morgan,,,Insurance Officer,Mid,8000,40,Male,Male,2,No
+EMP00516,CORP020,Matthew Smith,,,Insurance Officer,Mid,8000,42,Male,Male,4,No
+EMP00517,CORP020,Carol Montgomery,,,Insurance Officer,Junior,5000,48,Female,Female,4,No
+EMP00518,CORP020,Adrian Jackson,,,Claims Analyst,Junior,6000,54,Female,Male,4,No
+EMP00519,CORP020,Charles Brown,,,Insurance Officer,Mid,8000,41,Male,Male,3,Yes
+EMP00520,CORP020,Emily Hill,,,Claims Analyst,Junior,6000,55,Female,Female,3,Yes
+EMP00521,CORP020,Mary Scott,,,Claims Analyst,Mid,9000,25,Male,Female,3,Yes
+EMP00522,CORP020,Hannah Young,,,Insurance Officer,Junior,5000,39,Female,Female,3,No
+EMP00523,CORP020,Joseph Brown,,,Insurance Officer,Junior,5000,33,Female,Male,1,No
+EMP00524,CORP020,Peggy Anderson,,,Insurance Officer,Senior,12000,24,Male,Female,0,No
+EMP00525,CORP020,Philip Williams,,,Claims Analyst,Junior,6000,39,Male,Male,4,No
+EMP00526,CORP020,Sarah Daniels,,,Claims Analyst,Mid,9000,45,Male,Female,0,No
+EMP00527,CORP020,April Parker,,,Insurance Officer,Senior,12000,29,Female,Female,2,Yes
+EMP00528,CORP020,Bridget Mckenzie,,,Insurance Officer,Mid,8000,36,Male,Female,4,Yes
+EMP00529,CORP020,John Aguilar,,,Claims Analyst,Junior,6000,24,Female,Male,2,No
+EMP00530,CORP020,Belinda Ellis,,,Claims Analyst,Mid,9000,45,Female,Female,3,No
+EMP00531,CORP020,Paul Holloway,,,Claims Analyst,Mid,9000,37,Female,Male,3,No
+EMP00532,CORP020,Ryan Bailey,,,Claims Analyst,Mid,9000,32,Female,Male,0,No
+EMP00533,CORP020,Joseph Smith,,,Claims Analyst,Mid,9000,58,Male,Male,3,Yes
+EMP00534,CORP020,John Campos,,,Insurance Officer,Junior,5000,56,Male,Male,2,No
+EMP00535,CORP021,Christopher Diaz,,,Claims Analyst,Junior,6000,47,Female,Male,2,No
+EMP00536,CORP021,Sarah Aguilar,,,Insurance Officer,Mid,8000,24,Male,Female,0,No
+EMP00537,CORP021,Paul Lee,,,Insurance Officer,Senior,12000,32,Female,Male,1,No
+EMP00538,CORP021,Michelle Fleming,,,Claims Analyst,Senior,14000,43,Female,Female,4,No
+EMP00539,CORP021,Ryan Ryan,,,Insurance Officer,Mid,8000,43,Male,Male,4,Yes
+EMP00540,CORP021,Stephen Jackson,,,Claims Analyst,Mid,9000,54,Female,Male,3,Yes
+EMP00541,CORP021,William Bradley,,,Insurance Officer,Junior,5000,31,Male,Male,1,No
+EMP00542,CORP021,Kevin Williams,,,Insurance Officer,Mid,8000,27,Male,Male,2,No
+EMP00543,CORP021,Robert Bennett,,,Insurance Officer,Senior,12000,42,Female,Male,4,No
+EMP00544,CORP021,Melissa Williams,,,Insurance Officer,Mid,8000,32,Male,Female,2,No
+EMP00545,CORP021,Cathy Lloyd,,,Claims Analyst,Mid,9000,29,Male,Female,1,Yes
+EMP00546,CORP021,David Wolfe,,,Insurance Officer,Mid,8000,40,Female,Male,0,No
+EMP00547,CORP021,Kyle Wilson,,,Claims Analyst,Senior,14000,27,Female,Female,1,Yes
+EMP00548,CORP021,Barbara Pierce,,,Insurance Officer,Mid,8000,50,Female,Female,0,Yes
+EMP00549,CORP021,Ebony Williams,,,Claims Analyst,Senior,14000,39,Male,Female,3,Yes
+EMP00550,CORP021,Melissa Murray,,,Insurance Officer,Junior,5000,48,Male,Female,2,No
+EMP00551,CORP021,Juan Mckee,,,Insurance Officer,Junior,5000,48,Male,Male,0,No
+EMP00552,CORP021,Joshua Compton,,,Claims Analyst,Senior,14000,45,Female,Male,1,No
+EMP00553,CORP021,Warren Walker,,,Claims Analyst,Mid,9000,37,Male,Male,0,No
+EMP00554,CORP021,Jack West,,,Claims Analyst,Senior,14000,45,Female,Male,0,Yes
+EMP00555,CORP021,Kendra Fernandez,,,Claims Analyst,Mid,9000,37,Male,Female,4,No
+EMP00556,CORP021,Laura Bell,,,Insurance Officer,Senior,12000,34,Male,Female,4,No
+EMP00557,CORP021,Patricia Washington,,,Insurance Officer,Senior,12000,40,Female,Female,4,Yes
+EMP00558,CORP021,Lisa Davis,,,Claims Analyst,Senior,14000,26,Female,Female,1,No
+EMP00559,CORP021,Matthew Dawson,,,Insurance Officer,Mid,8000,52,Male,Male,1,No
+EMP00560,CORP022,Katelyn Barnes,,,Claims Analyst,Junior,6000,33,Male,Female,4,No
+EMP00561,CORP022,Bradley Ross,,,Claims Analyst,Junior,6000,39,Male,Male,2,Yes
+EMP00562,CORP022,Shaun Hendrix,,,Insurance Officer,Junior,5000,29,Female,Male,0,No
+EMP00563,CORP022,Joseph Haynes,,,Claims Analyst,Junior,6000,39,Female,Male,4,Yes
+EMP00564,CORP022,Peter Smith,,,Insurance Officer,Senior,12000,27,Male,Male,1,Yes
+EMP00565,CORP022,Gail Lee,,,Insurance Officer,Senior,12000,29,Female,Female,1,No
+EMP00566,CORP022,Manuel Porter,,,Insurance Officer,Junior,5000,53,Female,Male,2,Yes
+EMP00567,CORP022,Alexander Mendoza,,,Insurance Officer,Senior,12000,26,Male,Male,3,No
+EMP00568,CORP022,John Walker,,,Insurance Officer,Junior,5000,40,Female,Male,3,Yes
+EMP00569,CORP022,Jamie Smith,Mrs.,,Claims Analyst,Senior,14000,53,Male,Female,0,No
+EMP00570,CORP022,Stacey Holland,,,Claims Analyst,Senior,14000,57,Male,Female,2,No
+EMP00571,CORP022,Ashley Hester,,,Insurance Officer,Mid,8000,58,Male,Female,2,Yes
+EMP00572,CORP022,Larry Moore,,,Insurance Officer,Mid,8000,58,Male,Male,1,No
+EMP00573,CORP022,Monica Nguyen,,,Insurance Officer,Senior,12000,43,Female,Female,4,No
+EMP00574,CORP022,James Clayton,,,Insurance Officer,Mid,8000,36,Male,Male,3,Yes
+EMP00575,CORP022,Judith Foster,,,Insurance Officer,Senior,12000,23,Male,Female,0,No
+EMP00576,CORP022,Natasha Nelson,,,Insurance Officer,Junior,5000,49,Female,Female,0,No
+EMP00577,CORP022,Kathleen Martinez,,,Claims Analyst,Junior,6000,48,Male,Female,3,Yes
+EMP00578,CORP022,Randall Atkinson,,,Insurance Officer,Junior,5000,32,Male,Male,4,No
+EMP00579,CORP022,Kristi Harris,,,Claims Analyst,Senior,14000,39,Female,Female,4,No
+EMP00580,CORP022,Ryan Thornton,,,Insurance Officer,Mid,8000,23,Male,Male,2,Yes
+EMP00581,CORP022,Jacob Allen,,,Claims Analyst,Senior,14000,37,Male,Male,4,Yes
+EMP00582,CORP022,Kimberly Brooks,,,Insurance Officer,Junior,5000,23,Female,Female,2,Yes
+EMP00583,CORP022,David Vega,,,Insurance Officer,Senior,12000,44,Male,Male,4,Yes
+EMP00584,CORP022,Melanie Walsh,,,Insurance Officer,Junior,5000,32,Male,Female,1,No
+EMP00585,CORP022,Brianna Harris,,,Claims Analyst,Mid,9000,54,Male,Female,1,Yes
+EMP00586,CORP022,Jenna Garcia,,,Claims Analyst,Junior,6000,31,Male,Female,3,Yes
+EMP00587,CORP022,Russell Page,,,Claims Analyst,Senior,14000,58,Male,Male,0,Yes
+EMP00588,CORP023,Nicole Garcia,,,Software Engineer,Mid,13000,33,Male,Female,0,Yes
+EMP00589,CORP023,Thomas Cantu,,,Software Engineer,Junior,8500,34,Female,Male,4,No
+EMP00590,CORP023,Eugene Foster,,,Network Engineer,Senior,17000,39,Male,Male,4,Yes
+EMP00591,CORP023,Brandon Erickson,,,Software Engineer,Mid,13000,42,Male,Male,3,Yes
+EMP00592,CORP023,Javier Hall,,DDS,Network Engineer,Junior,7500,25,Female,Male,2,No
+EMP00593,CORP023,Aaron Cross,,,Network Engineer,Senior,17000,26,Male,Male,2,No
+EMP00594,CORP023,Jennifer Smith,,,Software Engineer,Mid,13000,38,Female,Female,0,Yes
+EMP00595,CORP023,Kenneth Lopez,,,Software Engineer,Junior,8500,23,Male,Male,4,Yes
+EMP00596,CORP023,Jonathan Bridges,,,Network Engineer,Mid,12000,48,Male,Male,0,No
+EMP00597,CORP023,Maurice Rodriguez,,,Software Engineer,Mid,13000,33,Male,Male,4,Yes
+EMP00598,CORP023,Stephanie Davidson,,,Network Engineer,Mid,12000,54,Female,Female,0,Yes
+EMP00599,CORP023,Patricia Hall,,,Network Engineer,Junior,7500,26,Female,Female,2,Yes
+EMP00600,CORP023,Charles Wilson,,,Network Engineer,Mid,12000,31,Female,Male,4,Yes
+EMP00601,CORP023,Carol Hernandez,,,Software Engineer,Junior,8500,58,Female,Female,2,No
+EMP00602,CORP023,Courtney Cortez,,,Software Engineer,Senior,19000,45,Male,Female,0,No
+EMP00603,CORP024,Cynthia Vaughn,,,Network Engineer,Mid,12000,54,Male,Female,1,Yes
+EMP00604,CORP024,Sheri Torres,,,Network Engineer,Junior,7500,41,Female,Female,3,Yes
+EMP00605,CORP024,Earl Russell,,,Network Engineer,Senior,17000,38,Male,Male,1,Yes
+EMP00606,CORP024,Sara Bennett,,,Software Engineer,Junior,8500,23,Male,Female,3,No
+EMP00607,CORP024,Megan Miller,,,Software Engineer,Junior,8500,48,Male,Female,0,Yes
+EMP00608,CORP024,Bryan Mcknight,,,Software Engineer,Mid,13000,32,Female,Male,1,Yes
+EMP00609,CORP024,Eric Moore,,,Network Engineer,Senior,17000,53,Male,Male,2,Yes
+EMP00610,CORP024,Justin Russell,,,Software Engineer,Mid,13000,45,Female,Male,3,Yes
+EMP00611,CORP024,John Figueroa,,,Network Engineer,Senior,17000,37,Male,Male,4,Yes
+EMP00612,CORP024,Joseph Reed,,,Software Engineer,Junior,8500,30,Female,Male,1,Yes
+EMP00613,CORP024,Amber Hutchinson,,,Network Engineer,Junior,7500,23,Male,Female,2,No
+EMP00614,CORP024,Philip Roberts,,,Software Engineer,Mid,13000,47,Female,Male,0,No
+EMP00615,CORP024,Martin Orozco,,,Software Engineer,Junior,8500,42,Female,Male,3,No
+EMP00616,CORP024,Andrew Finley,,,Software Engineer,Junior,8500,38,Male,Male,0,Yes
+EMP00617,CORP024,Travis Sweeney,,,Software Engineer,Mid,13000,39,Female,Male,1,Yes
+EMP00618,CORP024,Anna Edwards,,,Software Engineer,Junior,8500,57,Female,Female,3,No
+EMP00619,CORP024,Stacy Martin,,,Software Engineer,Mid,13000,56,Male,Female,4,No
+EMP00620,CORP024,Patricia Smith,,,Network Engineer,Senior,17000,37,Male,Female,1,Yes
+EMP00621,CORP024,Eric Walker,,,Software Engineer,Mid,13000,54,Male,Male,2,Yes
+EMP00622,CORP024,Oscar King,,,Network Engineer,Mid,12000,31,Male,Male,2,No
+EMP00623,CORP024,James Torres,,,Network Engineer,Mid,12000,41,Male,Male,0,Yes
+EMP00624,CORP024,Yvonne Jensen,,,Network Engineer,Junior,7500,29,Male,Female,2,No
+EMP00625,CORP024,Robert Jackson,,,Network Engineer,Senior,17000,49,Female,Male,0,No
+EMP00626,CORP024,Lori Hernandez,,,Network Engineer,Junior,7500,41,Female,Female,2,No
+EMP00627,CORP024,Steven Wilson,,,Software Engineer,Senior,19000,58,Male,Male,0,No
+EMP00628,CORP024,James Graham,,,Network Engineer,Senior,17000,31,Male,Male,1,No
+EMP00629,CORP024,John Mack,,,Network Engineer,Mid,12000,33,Female,Male,1,Yes
+EMP00630,CORP024,Brandy Pena,,,Software Engineer,Mid,13000,39,Female,Female,3,No
+EMP00631,CORP025,Debra Warren,,,Network Engineer,Junior,7500,39,Female,Female,1,No
+EMP00632,CORP025,Cynthia Schaefer,,,Network Engineer,Junior,7500,23,Male,Female,4,No
+EMP00633,CORP025,Brittney Jenkins,,,Software Engineer,Senior,19000,41,Male,Female,2,Yes
+EMP00634,CORP025,Barbara Winters,,,Network Engineer,Junior,7500,51,Female,Female,4,No
+EMP00635,CORP025,Meghan Lewis,,,Software Engineer,Mid,13000,34,Female,Female,4,No
+EMP00636,CORP025,Danny Walsh,,,Software Engineer,Senior,19000,45,Male,Male,4,Yes
+EMP00637,CORP025,Andrea Carter,Miss,,Software Engineer,Junior,8500,44,Male,Female,2,No
+EMP00638,CORP025,Tanya Kennedy,,,Network Engineer,Junior,7500,30,Male,Female,3,No
+EMP00639,CORP025,Michelle Burke,,,Network Engineer,Mid,12000,51,Male,Female,0,Yes
+EMP00640,CORP025,Jacob Alvarado,,,Software Engineer,Mid,13000,54,Female,Male,1,Yes
+EMP00641,CORP025,Martha Smith,,,Software Engineer,Senior,19000,40,Male,Female,2,Yes
+EMP00642,CORP025,David Howe,,,Network Engineer,Mid,12000,48,Male,Male,4,No
+EMP00643,CORP025,Anthony Hayden,,,Software Engineer,Mid,13000,53,Female,Male,2,No
+EMP00644,CORP025,Joseph Gomez,,,Software Engineer,Mid,13000,26,Male,Male,4,No
+EMP00645,CORP025,Sabrina Bryant,,,Network Engineer,Junior,7500,25,Female,Female,3,Yes
+EMP00646,CORP025,Jerry Russell,,,Software Engineer,Junior,8500,25,Male,Male,1,No
+EMP00647,CORP025,Amanda Mason,,,Software Engineer,Senior,19000,30,Female,Female,4,Yes
+EMP00648,CORP025,Charles Farmer,,,Software Engineer,Junior,8500,41,Female,Male,4,Yes
+EMP00649,CORP025,Shari Johnson,,,Software Engineer,Mid,13000,44,Female,Female,0,Yes
+EMP00650,CORP025,Wendy Smith,,,Software Engineer,Mid,13000,40,Female,Female,2,Yes
+EMP00651,CORP025,Jeffrey Smith,,,Software Engineer,Senior,19000,51,Male,Male,4,No
+EMP00652,CORP025,Catherine Kim,,,Software Engineer,Junior,8500,50,Male,Female,3,Yes
+EMP00653,CORP025,Rebecca Mora,,,Software Engineer,Junior,8500,34,Male,Female,0,Yes
+EMP00654,CORP025,Brianna Coleman,,,Software Engineer,Senior,19000,46,Female,Female,4,Yes
+EMP00655,CORP025,Wayne Rogers,,,Software Engineer,Mid,13000,44,Female,Male,0,Yes
+EMP00656,CORP025,Linda Calderon,,,Network Engineer,Senior,17000,47,Female,Female,3,Yes
+EMP00657,CORP025,Christine Jones,,,Software Engineer,Mid,13000,37,Female,Female,3,Yes
+EMP00658,CORP025,Nathaniel Wagner,,,Software Engineer,Junior,8500,34,Male,Male,4,Yes
+EMP00659,CORP025,Christine Taylor,,,Software Engineer,Junior,8500,46,Male,Female,1,Yes
+EMP00660,CORP025,Brett Nichols,,,Software Engineer,Mid,13000,58,Male,Male,3,No
+EMP00661,CORP025,Margaret Torres,,,Network Engineer,Senior,17000,33,Female,Female,2,Yes
+EMP00662,CORP025,Alexis Alexander,,,Software Engineer,Senior,19000,38,Female,Male,1,No
+EMP00663,CORP026,Kelly Johnson,,,Software Engineer,Junior,8500,53,Male,Female,3,Yes
+EMP00664,CORP026,Steven Reid,,,Network Engineer,Mid,12000,35,Male,Male,3,No
+EMP00665,CORP026,Timothy Choi,,,Software Engineer,Mid,13000,47,Male,Male,3,No
+EMP00666,CORP026,Brandon Hudson,,,Network Engineer,Mid,12000,58,Male,Male,1,No
+EMP00667,CORP026,Patricia Pierce,,,Network Engineer,Mid,12000,51,Female,Female,1,Yes
+EMP00668,CORP026,Jeffrey Lynch,,,Network Engineer,Junior,7500,28,Female,Male,0,Yes
+EMP00669,CORP026,Timothy Rodriguez,,,Software Engineer,Junior,8500,46,Male,Male,0,No
+EMP00670,CORP026,Greg Harris,,,Software Engineer,Junior,8500,43,Female,Male,1,Yes
+EMP00671,CORP026,Abigail Owen,,,Network Engineer,Mid,12000,25,Male,Female,1,No
+EMP00672,CORP026,Katherine Wright,,,Software Engineer,Junior,8500,31,Female,Female,4,No
+EMP00673,CORP026,Christina Love,,,Software Engineer,Senior,19000,39,Female,Female,0,Yes
+EMP00674,CORP026,Brenda Watkins,,,Software Engineer,Mid,13000,37,Male,Female,3,Yes
+EMP00675,CORP026,Lindsay Mercado,,,Software Engineer,Mid,13000,38,Male,Female,2,No
+EMP00676,CORP026,Dylan Oconnor,,,Software Engineer,Senior,19000,40,Female,Male,4,Yes
+EMP00677,CORP026,Jason Stevens,,,Software Engineer,Junior,8500,31,Female,Male,1,Yes
+EMP00678,CORP026,Shawn Ryan,,,Software Engineer,Junior,8500,41,Female,Male,2,No
+EMP00679,CORP026,Ronald Pruitt,,,Software Engineer,Senior,19000,47,Female,Male,2,No
+EMP00680,CORP026,Roy Adams,,,Software Engineer,Senior,19000,26,Male,Male,4,Yes
+EMP00681,CORP026,Joyce Rivera,,,Network Engineer,Junior,7500,48,Male,Female,3,Yes
+EMP00682,CORP026,Emily Buckley,,DDS,Software Engineer,Mid,13000,25,Male,Female,4,Yes
+EMP00683,CORP026,Larry Carrillo,,,Software Engineer,Mid,13000,52,Male,Male,4,No
+EMP00684,CORP026,Chelsea Sosa,,,Software Engineer,Senior,19000,43,Female,Female,0,No
+EMP00685,CORP026,Samantha Williams,,,Network Engineer,Mid,12000,56,Male,Female,1,Yes
+EMP00686,CORP026,Danielle Davis,,,Network Engineer,Senior,17000,50,Female,Female,0,Yes
+EMP00687,CORP026,Edward Hernandez,,,Software Engineer,Junior,8500,39,Female,Male,1,No
+EMP00688,CORP026,Michael Conway,,,Software Engineer,Mid,13000,43,Male,Male,4,Yes
+EMP00689,CORP026,Emily Maxwell,,,Software Engineer,Junior,8500,28,Female,Female,0,No
+EMP00690,CORP026,Shannon Oliver,,,Network Engineer,Junior,7500,58,Female,Female,2,Yes
+EMP00691,CORP026,Diane Cox,,,Software Engineer,Senior,19000,28,Female,Female,4,No
+EMP00692,CORP026,Nicholas Knapp,,,Software Engineer,Mid,13000,41,Female,Male,0,Yes
+EMP00693,CORP026,Andrew Sandoval,,,Network Engineer,Junior,7500,25,Female,Male,0,No
+EMP00694,CORP026,Cathy Wang,,,Network Engineer,Mid,12000,29,Female,Female,3,Yes
+EMP00695,CORP026,Mason Tapia,,,Software Engineer,Junior,8500,43,Female,Male,3,No
+EMP00696,CORP026,Jessica Jenkins,,,Network Engineer,Mid,12000,27,Female,Female,2,No
+EMP00697,CORP026,Austin Nunez,,,Network Engineer,Mid,12000,26,Male,Male,3,Yes
+EMP00698,CORP026,Emily Thomas,,,Software Engineer,Mid,13000,25,Male,Female,0,Yes
+EMP00699,CORP026,Dustin Hahn,Dr.,,Network Engineer,Senior,17000,56,Male,Male,0,No
+EMP00700,CORP026,Lee Clay,,,Network Engineer,Junior,7500,57,Male,Male,0,No
+EMP00701,CORP026,Ronald Jackson,,,Software Engineer,Mid,13000,31,Female,Male,1,Yes
+EMP00702,CORP026,Dana Newman,,,Network Engineer,Junior,7500,36,Male,Female,3,No
+EMP00703,CORP027,April Hill,Mrs.,MD,Software Engineer,Junior,8500,37,Female,Female,2,No
+EMP00704,CORP027,Jennifer Lopez,,,Software Engineer,Senior,19000,33,Male,Female,1,Yes
+EMP00705,CORP027,Stephen May,,,Software Engineer,Senior,19000,52,Female,Male,1,No
+EMP00706,CORP027,Gina Hoffman,,,Software Engineer,Senior,19000,26,Female,Female,2,Yes
+EMP00707,CORP027,Leonard Sullivan,,,Network Engineer,Senior,17000,33,Female,Male,4,Yes
+EMP00708,CORP027,Alicia Nguyen,,,Network Engineer,Senior,17000,49,Female,Female,0,Yes
+EMP00709,CORP027,Shelby Bell,,,Network Engineer,Mid,12000,36,Female,Female,0,No
+EMP00710,CORP027,Ashley Shah,,,Software Engineer,Junior,8500,43,Male,Female,1,No
+EMP00711,CORP027,Kevin Peterson,,,Software Engineer,Senior,19000,42,Female,Male,4,No
+EMP00712,CORP027,Alexander Roth,,,Software Engineer,Junior,8500,42,Male,Male,2,Yes
+EMP00713,CORP027,Julie Wright,,,Network Engineer,Mid,12000,23,Female,Female,2,No
+EMP00714,CORP027,Marcus Johnson,,,Network Engineer,Mid,12000,38,Female,Male,0,Yes
+EMP00715,CORP027,Kelly Bell,,,Software Engineer,Junior,8500,32,Female,Female,2,Yes
+EMP00716,CORP027,Mary Williamson,,,Network Engineer,Senior,17000,52,Male,Female,1,Yes
+EMP00717,CORP027,Marco Jones,,,Software Engineer,Mid,13000,56,Female,Male,3,No
+EMP00718,CORP027,Christopher Martinez,,,Software Engineer,Mid,13000,42,Male,Male,4,No
+EMP00719,CORP027,Tyler Johnson,,,Software Engineer,Senior,19000,25,Male,Male,1,Yes
+EMP00720,CORP027,David Nelson,,,Software Engineer,Senior,19000,36,Male,Male,0,No
+EMP00721,CORP027,Adrian Gutierrez,Dr.,,Software Engineer,Senior,19000,57,Female,Male,2,Yes
+EMP00722,CORP027,Daniel Gomez,,,Software Engineer,Junior,8500,55,Female,Male,4,Yes
+EMP00723,CORP027,April Meyer,,,Software Engineer,Senior,19000,56,Male,Female,0,Yes
+EMP00724,CORP027,Joyce Hansen,,,Network Engineer,Junior,7500,48,Female,Female,4,No
+EMP00725,CORP027,Mark Reyes,,,Software Engineer,Senior,19000,58,Male,Male,3,No
+EMP00726,CORP027,Justin Hernandez,,,Software Engineer,Junior,8500,36,Male,Male,4,Yes
+EMP00727,CORP027,Chase Lee,,,Network Engineer,Junior,7500,44,Male,Male,1,No
+EMP00728,CORP028,Justin Rojas,,,Accountant,Senior,13000,26,Female,Male,3,Yes
+EMP00729,CORP028,Sheila Hansen,,,Accountant,Mid,8500,42,Male,Female,1,No
+EMP00730,CORP028,Paul Strickland,,,Relationship Manager,Senior,14500,29,Female,Male,0,Yes
+EMP00731,CORP028,Holly Conway,,,Relationship Manager,Junior,6000,26,Male,Female,3,No
+EMP00732,CORP028,Latoya Smith,,,Accountant,Mid,8500,58,Female,Unknown,1,Yes
+EMP00733,CORP028,Robert Mckinney,,,Accountant,Junior,5500,53,Male,Male,4,No
+EMP00734,CORP028,Robert Terry,,,Accountant,Senior,13000,56,Male,Male,4,No
+EMP00735,CORP028,Jason Jordan,,,Accountant,Mid,8500,43,Male,Male,4,Yes
+EMP00736,CORP028,Stacey Mcguire,,,Accountant,Mid,8500,28,Female,Female,4,No
+EMP00737,CORP028,Michael Daniels,,,Accountant,Senior,13000,49,Male,Male,3,No
+EMP00738,CORP028,Erin Pacheco,,,Relationship Manager,Mid,9500,30,Female,Female,4,No
+EMP00739,CORP028,David Griffin,,,Relationship Manager,Senior,14500,48,Female,Male,4,Yes
+EMP00740,CORP028,Michael Morris,,,Relationship Manager,Mid,9500,55,Male,Male,0,No
+EMP00741,CORP028,David Perkins,,,Accountant,Senior,13000,25,Female,Male,1,Yes
+EMP00742,CORP028,Sandra Barr,,,Relationship Manager,Mid,9500,27,Female,Female,4,Yes
+EMP00743,CORP028,Kathleen Brock,,,Relationship Manager,Senior,14500,34,Male,Female,1,No
+EMP00744,CORP028,Louis Mayer,,,Relationship Manager,Mid,9500,38,Female,Male,0,Yes
+EMP00745,CORP028,Tammy Thompson,,,Relationship Manager,Junior,6000,51,Male,Female,4,Yes
+EMP00746,CORP028,Kenneth Bautista,,,Relationship Manager,Senior,14500,23,Female,Male,4,Yes
+EMP00747,CORP028,Christopher Webb,,,Accountant,Junior,5500,28,Female,Male,1,Yes
+EMP00748,CORP028,Ronald Wolf,,,Accountant,Mid,8500,31,Female,Male,1,Yes
+EMP00749,CORP028,Zachary Meyer,,,Relationship Manager,Junior,6000,26,Male,Male,0,Yes
+EMP00750,CORP028,Edward Riley,,,Relationship Manager,Junior,6000,40,Female,Male,3,Yes
+EMP00751,CORP028,Kristin Park,,,Accountant,Mid,8500,49,Male,Female,3,No
+EMP00752,CORP028,Alexandra Brooks,,,Relationship Manager,Mid,9500,45,Male,Female,3,Yes
+EMP00753,CORP028,Kelly Lam,,,Accountant,Mid,8500,53,Male,Female,1,Yes
+EMP00754,CORP028,Patricia Lee,,,Relationship Manager,Junior,6000,37,Male,Female,2,No
+EMP00755,CORP028,Luis Koch,,,Accountant,Junior,5500,26,Male,Male,2,Yes
+EMP00756,CORP028,Nathan Curtis,,,Accountant,Mid,8500,54,Male,Male,4,No
+EMP00757,CORP028,Alicia Cooper,,,Relationship Manager,Junior,6000,38,Female,Female,4,Yes
+EMP00758,CORP028,Eric Wood,,,Relationship Manager,Mid,9500,41,Female,Male,1,No
+EMP00759,CORP028,Brad Kelley,,,Accountant,Junior,5500,36,Male,Male,0,Yes
+EMP00760,CORP028,Sergio Walters,,,Accountant,Senior,13000,28,Male,Male,1,No
+EMP00761,CORP028,Savannah Russell,,,Accountant,Junior,5500,32,Male,Female,2,No
+EMP00762,CORP028,Katie Howard,,,Relationship Manager,Mid,9500,42,Female,Female,4,No
+EMP00763,CORP028,Colleen Flynn,,,Accountant,Senior,13000,36,Male,Female,1,Yes
+EMP00764,CORP028,Karen Villarreal,,,Accountant,Junior,5500,52,Male,Female,1,No
+EMP00765,CORP028,Erika Mejia,,,Relationship Manager,Mid,9500,48,Female,Female,4,No
+EMP00766,CORP028,Matthew Martin,,,Relationship Manager,Senior,14500,23,Female,Male,3,Yes
+EMP00767,CORP029,Joseph Martin,,,Relationship Manager,Mid,9500,29,Female,Male,1,Yes
+EMP00768,CORP029,Dana Miller,,,Relationship Manager,Senior,14500,40,Male,Female,3,No
+EMP00769,CORP029,Gregory Campos,,,Relationship Manager,Mid,9500,35,Female,Male,0,Yes
+EMP00770,CORP029,Adam Aguirre,,,Accountant,Junior,5500,58,Male,Male,4,No
+EMP00771,CORP029,Jeremy Alexander,,,Relationship Manager,Mid,9500,30,Female,Male,2,No
+EMP00772,CORP029,Patrick Casey,,,Accountant,Mid,8500,36,Male,Male,0,No
+EMP00773,CORP029,Patrick Kaufman,,,Accountant,Mid,8500,23,Male,Male,1,No
+EMP00774,CORP029,Carol Wallace,,,Accountant,Senior,13000,37,Female,Female,2,Yes
+EMP00775,CORP029,Dakota Miller,,,Relationship Manager,Junior,6000,51,Male,Male,3,No
+EMP00776,CORP029,Kelli Castillo,,,Relationship Manager,Mid,9500,33,Male,Female,4,Yes
+EMP00777,CORP029,Cynthia Holmes,,,Accountant,Junior,5500,23,Female,Female,0,No
+EMP00778,CORP029,Christina Clarke,,,Relationship Manager,Senior,14500,29,Male,Female,0,No
+EMP00779,CORP029,Melissa Thompson,,,Relationship Manager,Senior,14500,33,Female,Female,4,No
+EMP00780,CORP029,Angela Ray,,,Relationship Manager,Senior,14500,44,Female,Female,1,No
+EMP00781,CORP029,Cynthia Burns,,,Accountant,Mid,8500,29,Female,Female,4,Yes
+EMP00782,CORP029,Monica Rodriguez,,,Relationship Manager,Mid,9500,31,Male,Female,1,Yes
+EMP00783,CORP029,Alexis Simmons,,,Relationship Manager,Mid,9500,42,Male,Male,0,Yes
+EMP00784,CORP029,Richard Nelson,,,Relationship Manager,Senior,14500,39,Female,Male,1,Yes
+EMP00785,CORP029,Melissa Sloan,,,Relationship Manager,Senior,14500,55,Male,Female,2,No
+EMP00786,CORP029,Katrina Miller,,,Relationship Manager,Junior,6000,31,Male,Female,0,Yes
+EMP00787,CORP029,Jessica Willis,,,Relationship Manager,Senior,14500,25,Female,Female,4,No
+EMP00788,CORP029,Jimmy Leach,,,Accountant,Mid,8500,27,Female,Male,4,No
+EMP00789,CORP029,Mackenzie Castillo,,,Accountant,Mid,8500,32,Male,Female,1,No
+EMP00790,CORP029,Joshua Allen,,,Relationship Manager,Junior,6000,26,Male,Male,4,No
+EMP00791,CORP029,Brian Foster,,,Accountant,Junior,5500,41,Female,Male,3,Yes
+EMP00792,CORP029,Dennis Clarke,,,Accountant,Junior,5500,46,Female,Male,3,No
+EMP00793,CORP029,Timothy Humphrey,,,Relationship Manager,Senior,14500,23,Male,Male,0,Yes
+EMP00794,CORP029,Alec Hoffman,,,Relationship Manager,Senior,14500,40,Female,Male,4,Yes
+EMP00795,CORP029,Debbie Johnson,,,Accountant,Senior,13000,32,Male,Female,3,No
+EMP00796,CORP029,Dennis Watkins,,,Accountant,Junior,5500,25,Male,Male,2,No
+EMP00797,CORP029,Karen Smith,,,Accountant,Senior,13000,28,Male,Female,0,Yes
+EMP00798,CORP029,Alexis Martinez,,,Relationship Manager,Senior,14500,36,Male,Male,1,No
+EMP00799,CORP029,Holly Richmond,,,Relationship Manager,Senior,14500,26,Male,Female,0,No
+EMP00800,CORP029,Jacob Garcia,,,Relationship Manager,Junior,6000,45,Female,Male,3,Yes
+EMP00801,CORP029,Jorge Thomas,,,Relationship Manager,Junior,6000,45,Female,Male,4,No
+EMP00802,CORP029,Jason Goodman,,,Relationship Manager,Senior,14500,45,Female,Male,3,No
+EMP00803,CORP029,Lisa Mendez,,,Accountant,Mid,8500,54,Female,Female,3,No
+EMP00804,CORP029,Richard Moran,,,Accountant,Mid,8500,26,Male,Male,3,No
+EMP00805,CORP029,Brandi Bautista,,,Relationship Manager,Senior,14500,30,Female,Female,2,Yes
+EMP00806,CORP029,Kimberly Norton,,,Relationship Manager,Mid,9500,45,Male,Female,1,No
+EMP00807,CORP030,Ann Frost,,,Accountant,Mid,8500,45,Male,Female,1,Yes
+EMP00808,CORP030,Todd Barnett,,,Relationship Manager,Junior,6000,28,Male,Male,1,No
+EMP00809,CORP030,Tracey Collier,,,Relationship Manager,Junior,6000,31,Female,Female,1,Yes
+EMP00810,CORP030,Daniel Rodriguez,,,Accountant,Mid,8500,40,Female,Male,2,No
+EMP00811,CORP030,Stacey Armstrong,,,Relationship Manager,Mid,9500,26,Female,Female,0,No
+EMP00812,CORP030,Susan Miller,,,Relationship Manager,Senior,14500,25,Male,Female,3,Yes
+EMP00813,CORP030,Luke Erickson,,,Accountant,Senior,13000,42,Female,Male,2,Yes
+EMP00814,CORP030,Haley Moon,,,Accountant,Senior,13000,38,Female,Female,1,No
+EMP00815,CORP030,William Norman,,,Relationship Manager,Senior,14500,54,Female,Male,3,Yes
+EMP00816,CORP030,Christopher Ramos,,,Accountant,Junior,5500,38,Male,Male,1,No
+EMP00817,CORP030,Tracy Mendoza,,,Accountant,Junior,5500,42,Male,Female,4,No
+EMP00818,CORP030,Jeffrey Osborne,,,Relationship Manager,Mid,9500,42,Male,Male,1,No
+EMP00819,CORP030,Nathaniel Goodwin,,,Accountant,Senior,13000,48,Male,Male,4,Yes
+EMP00820,CORP030,Alicia Mcdowell,,,Relationship Manager,Mid,9500,48,Female,Female,1,No
+EMP00821,CORP030,Michael Walker,,,Relationship Manager,Senior,14500,31,Female,Male,1,No
+EMP00822,CORP030,Maria Gaines,,,Accountant,Mid,8500,47,Female,Female,0,No
+EMP00823,CORP030,Angela Curry,,,Accountant,Mid,8500,52,Female,Female,3,No
+EMP00824,CORP030,Antonio Mejia,,,Relationship Manager,Junior,6000,23,Female,Male,3,No
+EMP00825,CORP030,Andrew Roy,,,Relationship Manager,Junior,6000,57,Male,Male,0,Yes
+EMP00826,CORP030,Randall Little,,,Accountant,Senior,13000,40,Male,Male,1,No
+EMP00827,CORP030,Matthew Wang,,,Accountant,Senior,13000,51,Female,Male,4,No
+EMP00828,CORP030,Jason Davis,,,Relationship Manager,Mid,9500,35,Female,Male,4,No
+EMP00829,CORP030,Catherine Campbell,,,Accountant,Junior,5500,51,Male,Female,2,Yes
+EMP00830,CORP030,Erik Torres,,,Accountant,Junior,5500,38,Male,Male,0,No
+EMP00831,CORP030,Joshua Wilson,,,Relationship Manager,Junior,6000,35,Male,Male,2,No
+EMP00832,CORP030,Stephen Beasley,,,Relationship Manager,Senior,14500,45,Male,Male,1,No
+EMP00833,CORP030,Laura Stanton,,,Accountant,Mid,8500,30,Male,Female,4,Yes
+EMP00834,CORP030,Kevin Bennett,,,Accountant,Senior,13000,33,Female,Male,3,No
+EMP00835,CORP030,Tony Zuniga,,,Accountant,Senior,13000,42,Female,Male,4,No
+EMP00836,CORP031,Kevin Shah,,,Relationship Manager,Junior,6000,44,Male,Male,2,Yes
+EMP00837,CORP031,Emily Phillips,,,Relationship Manager,Mid,9500,37,Male,Female,2,Yes
+EMP00838,CORP031,Cesar Stein,,,Accountant,Mid,8500,27,Male,Male,1,Yes
+EMP00839,CORP031,Lisa Stokes,,,Accountant,Junior,5500,58,Male,Female,3,Yes
+EMP00840,CORP031,Austin Henry,,,Relationship Manager,Mid,9500,25,Male,Male,0,Yes
+EMP00841,CORP031,Katherine Robertson,Mrs.,,Accountant,Junior,5500,41,Female,Female,1,Yes
+EMP00842,CORP031,Robert Perez,,,Relationship Manager,Junior,6000,29,Male,Male,3,No
+EMP00843,CORP031,Nicholas Smith,,,Relationship Manager,Mid,9500,37,Female,Male,4,Yes
+EMP00844,CORP031,Seth Novak,,,Accountant,Mid,8500,45,Male,Male,2,Yes
+EMP00845,CORP031,Troy Velez,,,Relationship Manager,Senior,14500,28,Female,Male,2,No
+EMP00846,CORP031,Cathy Ford,,,Relationship Manager,Senior,14500,38,Female,Female,2,No
+EMP00847,CORP031,James Villa,,,Accountant,Mid,8500,32,Male,Male,3,Yes
+EMP00848,CORP031,Lance Burke,,,Accountant,Junior,5500,50,Female,Male,2,Yes
+EMP00849,CORP031,Ashley Cherry,,,Relationship Manager,Mid,9500,27,Male,Female,4,No
+EMP00850,CORP031,Eric Robbins,,,Relationship Manager,Mid,9500,41,Male,Male,0,No
+EMP00851,CORP031,Dawn Rogers,,,Relationship Manager,Junior,6000,29,Male,Female,4,Yes
+EMP00852,CORP031,Tara Wagner,,,Relationship Manager,Mid,9500,29,Female,Female,4,Yes
+EMP00853,CORP031,Nancy Burns,,,Accountant,Junior,5500,56,Female,Female,0,Yes
+EMP00854,CORP031,Lawrence Willis,,,Relationship Manager,Senior,14500,40,Female,Male,0,Yes
+EMP00855,CORP031,Richard Flores,,,Relationship Manager,Mid,9500,55,Male,Male,2,No
+EMP00856,CORP031,Andrew Acosta,,,Accountant,Junior,5500,54,Female,Male,0,No
+EMP00857,CORP031,Ashley Smith,,,Accountant,Junior,5500,40,Female,Female,3,No
+EMP00858,CORP031,James Montoya,,,Accountant,Mid,8500,57,Female,Male,3,Yes
+EMP00859,CORP031,James Clark,,,Accountant,Mid,8500,41,Male,Male,4,No
+EMP00860,CORP031,Jesus Hall,,,Relationship Manager,Senior,14500,58,Male,Male,4,No
+EMP00861,CORP031,Andrea Ball,,,Relationship Manager,Senior,14500,49,Male,Female,2,Yes
+EMP00862,CORP031,Heather White,,,Relationship Manager,Junior,6000,57,Female,Female,1,No
+EMP00863,CORP031,Jeremy Gamble,,,Accountant,Mid,8500,40,Female,Male,0,Yes
+EMP00864,CORP031,Michael Barry,,,Accountant,Senior,13000,42,Male,Male,4,Yes
+EMP00865,CORP031,Steve Chavez,,,Accountant,Mid,8500,57,Male,Male,1,Yes
+EMP00866,CORP031,Terry Harris,,,Accountant,Mid,8500,24,Female,Male,4,No
+EMP00867,CORP031,Scott Good,,,Accountant,Senior,13000,28,Male,Male,0,Yes
+EMP00868,CORP031,Edward Cook,,,Accountant,Senior,13000,27,Female,Male,1,No
+EMP00869,CORP031,William Hahn,,,Relationship Manager,Junior,6000,36,Male,Male,2,Yes
+EMP00870,CORP031,Joseph Clements,,,Relationship Manager,Senior,14500,35,Male,Male,0,No
+EMP00871,CORP031,Phillip Lowe,,,Relationship Manager,Junior,6000,42,Male,Male,2,No
+EMP00872,CORP031,David Thomas,,,Relationship Manager,Mid,9500,30,Male,Male,0,No
+EMP00873,CORP031,Gina Henry,,,Relationship Manager,Mid,9500,56,Female,Female,4,Yes
+EMP00874,CORP032,Gary Bartlett,,,Relationship Manager,Mid,9500,39,Male,Male,0,No
+EMP00875,CORP032,Harry Jordan,,,Accountant,Senior,13000,30,Female,Male,3,Yes
+EMP00876,CORP032,Robert Bell,,,Relationship Manager,Senior,14500,24,Male,Male,2,No
+EMP00877,CORP032,Meghan Gould,,,Accountant,Mid,8500,53,Female,Female,1,No
+EMP00878,CORP032,Craig Roberts,,,Relationship Manager,Senior,14500,42,Male,Male,3,No
+EMP00879,CORP032,Brandy Thomas,,,Accountant,Junior,5500,43,Male,Female,3,No
+EMP00880,CORP032,Cristina Perez,,,Relationship Manager,Mid,9500,45,Female,Female,1,No
+EMP00881,CORP032,Stephen Escobar,,,Accountant,Junior,5500,54,Female,Male,4,Yes
+EMP00882,CORP032,James Rogers,,,Accountant,Senior,13000,58,Female,Male,1,Yes
+EMP00883,CORP032,Timothy Hall,,,Relationship Manager,Junior,6000,51,Female,Male,2,No
+EMP00884,CORP032,Christopher Hill,,,Accountant,Junior,5500,23,Female,Male,0,Yes
+EMP00885,CORP032,Darius Petty,,,Accountant,Senior,13000,48,Female,Male,3,No
+EMP00886,CORP032,Patty Vang,,,Accountant,Mid,8500,36,Female,Female,0,No
+EMP00887,CORP032,Thomas Rosario,,,Accountant,Senior,13000,23,Female,Male,1,Yes
+EMP00888,CORP032,Adam Zamora,,,Accountant,Senior,13000,44,Female,Male,0,Yes
+EMP00889,CORP032,Andrea Williams,,,Accountant,Junior,5500,48,Male,Female,4,No
+EMP00890,CORP032,Peter Morgan,,,Accountant,Senior,13000,45,Male,Male,1,Yes
+EMP00891,CORP032,Ronald Sims,,,Relationship Manager,Senior,14500,39,Male,Male,1,Yes
+EMP00892,CORP032,Samantha Walls,,,Accountant,Senior,13000,55,Male,Female,1,Yes
+EMP00893,CORP032,Wayne Ward,,,Accountant,Mid,8500,47,Female,Male,1,No
+EMP00894,CORP032,David Gonzalez,,,Relationship Manager,Senior,14500,27,Female,Male,0,No
+EMP00895,CORP032,John Hodges,,,Relationship Manager,Mid,9500,58,Female,Male,3,Yes
+EMP00896,CORP032,Dustin Smith,,,Relationship Manager,Mid,9500,35,Female,Male,4,Yes
+EMP00897,CORP032,Kathy Romero,,,Relationship Manager,Mid,9500,40,Female,Female,2,No
+EMP00898,CORP032,Peter Newton,,,Accountant,Junior,5500,48,Female,Male,4,Yes
+EMP00899,CORP032,Stephanie Woodard,,,Relationship Manager,Mid,9500,24,Female,Female,1,Yes
+EMP00900,CORP032,Melissa Perry,,,Relationship Manager,Junior,6000,42,Male,Female,2,Yes
+EMP00901,CORP032,Lori Morgan,,,Relationship Manager,Senior,14500,31,Female,Female,1,Yes
+EMP00902,CORP032,Mary King,,,Accountant,Mid,8500,45,Male,Female,1,No
+EMP00903,CORP032,Wendy Stewart,Mrs.,,Relationship Manager,Junior,6000,46,Male,Female,0,Yes
+EMP00904,CORP033,John Johnson,,,Machine Operator,Mid,5000,51,Male,Male,0,No
+EMP00905,CORP033,Mark Hawkins,,,Machine Operator,Mid,5000,37,Female,Male,4,Yes
+EMP00906,CORP033,Annette Jordan,,,Machine Operator,Senior,7000,43,Male,Female,4,No
+EMP00907,CORP033,Linda Rose,,,Machine Operator,Mid,5000,50,Female,Female,0,No
+EMP00908,CORP033,Aaron Jones,,,Production Supervisor,Junior,5000,51,Female,Male,1,Yes
+EMP00909,CORP033,Lisa Camacho,,,Production Supervisor,Junior,5000,54,Female,Female,4,Yes
+EMP00910,CORP033,Sharon Lee,,,Production Supervisor,Mid,7000,54,Male,Female,3,No
+EMP00911,CORP033,Laura Bruce,,MD,Machine Operator,Senior,7000,49,Male,Female,2,No
+EMP00912,CORP033,Jennifer Yang,,,Production Supervisor,Senior,9500,50,Female,Female,3,No
+EMP00913,CORP033,Kenneth Lowery,,,Production Supervisor,Senior,9500,26,Male,Male,3,No
+EMP00914,CORP033,Andrew Duncan,,,Production Supervisor,Junior,5000,34,Male,Male,2,Yes
+EMP00915,CORP033,Patrick Warren,,,Machine Operator,Mid,5000,29,Female,Male,4,No
+EMP00916,CORP033,Kristen Sullivan,,,Production Supervisor,Junior,5000,48,Male,Female,2,No
+EMP00917,CORP033,Caleb Nunez,,,Production Supervisor,Junior,5000,24,Male,Male,0,Yes
+EMP00918,CORP033,Scott Gray,,,Machine Operator,Junior,3500,48,Female,Male,0,No
+EMP00919,CORP033,Jason Franklin,,,Production Supervisor,Senior,9500,37,Male,Male,0,No
+EMP00920,CORP033,Kaitlin Silva,,,Machine Operator,Mid,5000,49,Female,Female,0,No
+EMP00921,CORP033,Alexander Whitehead,,,Machine Operator,Mid,5000,30,Male,Male,2,No
+EMP00922,CORP033,Teresa Orozco,,,Machine Operator,Senior,7000,31,Male,Female,3,Yes
+EMP00923,CORP033,Eddie Shaw,,,Machine Operator,Mid,5000,37,Female,Male,0,No
+EMP00924,CORP033,Erin Robinson,,,Production Supervisor,Junior,5000,46,Female,Female,0,Yes
+EMP00925,CORP033,Corey Short,,,Production Supervisor,Senior,9500,43,Male,Male,4,Yes
+EMP00926,CORP033,Jeffery Perez,,,Production Supervisor,Senior,9500,44,Female,Male,0,Yes
+EMP00927,CORP033,Megan Price,,,Production Supervisor,Senior,9500,23,Male,Female,3,No
+EMP00928,CORP033,Jennifer Gonzalez,,,Production Supervisor,Mid,7000,44,Female,Female,2,No
+EMP00929,CORP033,Olivia Salazar,,,Production Supervisor,Mid,7000,28,Male,Female,2,No
+EMP00930,CORP033,Lisa Weiss,,,Machine Operator,Senior,7000,33,Female,Female,0,No
+EMP00931,CORP033,Justin Gilmore,,,Machine Operator,Senior,7000,58,Female,Male,2,No
+EMP00932,CORP033,Danielle Aguilar,,,Machine Operator,Senior,7000,53,Female,Female,1,No
+EMP00933,CORP033,Zachary Wilson,,,Production Supervisor,Senior,9500,58,Male,Male,3,Yes
+EMP00934,CORP033,Ashley Miller,,DVM,Production Supervisor,Junior,5000,25,Female,Female,2,Yes
+EMP00935,CORP033,Grace Jones,,,Production Supervisor,Mid,7000,30,Male,Female,1,No
+EMP00936,CORP033,Amy Lawrence,,,Production Supervisor,Senior,9500,35,Female,Female,0,Yes
+EMP00937,CORP033,Victoria Stout,,,Machine Operator,Junior,3500,57,Male,Female,3,No
+EMP00938,CORP033,Diana Morrison,,,Production Supervisor,Mid,7000,41,Female,Female,1,No
+EMP00939,CORP033,Christopher Nielsen,Mr.,,Machine Operator,Junior,3500,25,Male,Male,4,Yes
+EMP00940,CORP033,Jennifer Hubbard,Mrs.,,Production Supervisor,Mid,7000,48,Female,Female,4,No
+EMP00941,CORP033,Christina Anderson,,,Production Supervisor,Junior,5000,50,Male,Female,2,Yes
+EMP00942,CORP033,Laura Berger,,,Machine Operator,Senior,7000,40,Male,Female,3,No
+EMP00943,CORP034,Justin White,,,Production Supervisor,Senior,9500,54,Female,Male,0,No
+EMP00944,CORP034,Madeline Jackson,,,Production Supervisor,Junior,5000,27,Female,Female,1,No
+EMP00945,CORP034,Anthony Thompson,,,Production Supervisor,Junior,5000,35,Male,Male,1,Yes
+EMP00946,CORP034,Jeanne Nichols,,,Machine Operator,Senior,7000,44,Female,Female,1,No
+EMP00947,CORP034,Sandra Mercer,,,Machine Operator,Senior,7000,48,Male,Female,3,No
+EMP00948,CORP034,Regina Johnson,,,Production Supervisor,Mid,7000,24,Female,Female,1,Yes
+EMP00949,CORP034,April Huffman,,,Machine Operator,Mid,5000,58,Male,Female,1,Yes
+EMP00950,CORP034,Jean White,,,Production Supervisor,Junior,5000,42,Female,Male,3,Yes
+EMP00951,CORP034,Brandi Shields,,,Machine Operator,Senior,7000,51,Male,Female,1,Yes
+EMP00952,CORP034,Karen Leonard,,,Production Supervisor,Mid,7000,57,Female,Female,3,No
+EMP00953,CORP034,Jasmine Serrano,,,Production Supervisor,Mid,7000,48,Female,Female,4,Yes
+EMP00954,CORP034,Tiffany Adams,,,Production Supervisor,Mid,7000,38,Female,Female,2,Yes
+EMP00955,CORP034,Monique Yates,,,Machine Operator,Senior,7000,57,Male,Female,3,No
+EMP00956,CORP034,Kelly Flowers,,,Machine Operator,Junior,3500,26,Female,Female,2,Yes
+EMP00957,CORP034,Kevin Burnett,,,Production Supervisor,Senior,9500,23,Female,Male,1,No
+EMP00958,CORP034,Roger Jones,,,Machine Operator,Senior,7000,34,Female,Male,0,No
+EMP00959,CORP034,Joseph Schroeder,,,Machine Operator,Junior,3500,33,Female,Male,1,No
+EMP00960,CORP034,Teresa Clark,,,Production Supervisor,Junior,5000,36,Male,Female,0,Yes
+EMP00961,CORP034,Michael Garza,,,Production Supervisor,Mid,7000,39,Female,Male,0,No
+EMP00962,CORP034,Lisa Evans,,,Machine Operator,Junior,3500,32,Female,Female,1,No
+EMP00963,CORP034,Wendy Williams,,,Production Supervisor,Junior,5000,23,Female,Female,2,Yes
+EMP00964,CORP034,Stephanie Stewart,,,Machine Operator,Junior,3500,28,Female,Female,4,Yes
+EMP00965,CORP035,Nichole Brewer,,,Production Supervisor,Senior,9500,27,Female,Female,2,Yes
+EMP00966,CORP035,Kelly Ortiz,Miss,,Production Supervisor,Junior,5000,24,Male,Female,4,No
+EMP00967,CORP035,Barry Alvarez,Mr.,,Machine Operator,Junior,3500,28,Female,Male,0,Yes
+EMP00968,CORP035,Raymond Vincent,,,Machine Operator,Junior,3500,47,Male,Male,1,Yes
+EMP00969,CORP035,Joan Walter,,,Production Supervisor,Junior,5000,47,Male,Female,4,Yes
+EMP00970,CORP035,Sean Erickson,,,Machine Operator,Junior,3500,23,Female,Male,4,No
+EMP00971,CORP035,Justin Juarez,,,Production Supervisor,Mid,7000,41,Male,Male,0,Yes
+EMP00972,CORP035,Brandon Huynh,,,Production Supervisor,Junior,5000,26,Female,Male,0,Yes
+EMP00973,CORP035,Jean Lin,,,Production Supervisor,Mid,7000,46,Female,Male,4,Yes
+EMP00974,CORP035,Patricia Arnold,,,Machine Operator,Mid,5000,58,Female,Female,1,No
+EMP00975,CORP035,Timothy Davis,,,Production Supervisor,Senior,9500,39,Female,Male,0,No
+EMP00976,CORP035,Joshua Lewis,,,Production Supervisor,Junior,5000,56,Male,Male,0,No
+EMP00977,CORP035,John Howard,,,Production Supervisor,Junior,5000,27,Male,Male,2,Yes
+EMP00978,CORP035,Courtney Martin,,,Machine Operator,Senior,7000,45,Male,Female,0,Yes
+EMP00979,CORP035,Jessica Chang,,,Production Supervisor,Senior,9500,53,Female,Female,0,No
+EMP00980,CORP035,Michelle Ball,,,Production Supervisor,Junior,5000,23,Female,Female,3,No
+EMP00981,CORP035,Wendy Bowen,,,Machine Operator,Senior,7000,35,Female,Female,0,Yes
+EMP00982,CORP035,Lisa Reed,,,Production Supervisor,Junior,5000,36,Female,Female,4,Yes
+EMP00983,CORP035,Jesse Shaw,,,Machine Operator,Mid,5000,23,Female,Male,1,No
+EMP00984,CORP035,Danielle Torres,,,Production Supervisor,Mid,7000,33,Male,Female,3,Yes
+EMP00985,CORP036,Christopher Black,,,Safety Officer,Senior,14000,52,Male,Male,3,Yes
+EMP00986,CORP036,Michele Norton,,,Safety Officer,Senior,14000,41,Female,Female,4,No
+EMP00987,CORP036,Colleen Martinez,,,Mining Engineer,Senior,24000,29,Female,Female,2,No
+EMP00988,CORP036,Melissa Perry,,,Safety Officer,Senior,14000,42,Female,Female,0,Yes
+EMP00989,CORP036,Jessica Mclean,,,Mining Engineer,Junior,11000,58,Female,Female,0,Yes
+EMP00990,CORP036,Joshua Stokes,,,Safety Officer,Mid,10000,52,Female,Male,4,Yes
+EMP00991,CORP036,Richard Sullivan,,,Safety Officer,Junior,7000,54,Female,Male,3,Yes
+EMP00992,CORP036,Corey Hernandez,,,Mining Engineer,Senior,24000,36,Female,Male,1,No
+EMP00993,CORP036,Megan Bauer,,,Safety Officer,Senior,14000,24,Female,Female,0,Yes
+EMP00994,CORP036,Lorraine Fuller,,,Safety Officer,Junior,7000,44,Male,Female,2,Yes
+EMP00995,CORP036,Natalie Waters,,,Mining Engineer,Junior,11000,36,Male,Female,2,Yes
+EMP00996,CORP036,Tracy Cooke,,,Mining Engineer,Mid,16000,45,Female,Female,2,No
+EMP00997,CORP036,Tammy Johnson,,,Safety Officer,Senior,14000,29,Female,Female,0,Yes
+EMP00998,CORP036,Margaret Fletcher,,,Mining Engineer,Junior,11000,37,Female,Female,2,No
+EMP00999,CORP036,Linda Cobb,,,Mining Engineer,Senior,24000,30,Male,Female,4,Yes
+EMP01000,CORP036,Marcus Hughes,,,Mining Engineer,Junior,11000,49,Female,Male,4,No
+EMP01001,CORP036,Laura Wright,,,Safety Officer,Junior,7000,30,Female,Female,4,No
+EMP01002,CORP036,Rodney Wells,,,Safety Officer,Senior,14000,55,Female,Male,4,Yes
+EMP01003,CORP036,Tammy Pittman,,,Safety Officer,Senior,14000,30,Male,Female,4,Yes
+EMP01004,CORP036,Melanie Maynard,,,Mining Engineer,Junior,11000,50,Female,Female,4,No
+EMP01005,CORP036,Ryan Smith,,,Safety Officer,Senior,14000,50,Male,Male,1,No
+EMP01006,CORP036,Elizabeth Vazquez,,,Mining Engineer,Mid,16000,26,Female,Female,3,No
+EMP01007,CORP036,Carlos Pitts,,,Safety Officer,Junior,7000,40,Male,Male,2,Yes
+EMP01008,CORP036,Tonya Gordon,,,Mining Engineer,Senior,24000,38,Female,Female,2,Yes
+EMP01009,CORP037,Tiffany Jackson,,,Safety Officer,Senior,14000,51,Male,Female,4,Yes
+EMP01010,CORP037,Michael Gallagher,,,Mining Engineer,Senior,24000,47,Male,Male,4,Yes
+EMP01011,CORP037,Daniel Dunn,,,Mining Engineer,Senior,24000,50,Female,Male,3,No
+EMP01012,CORP037,Angela Robinson,,,Safety Officer,Mid,10000,24,Female,Female,2,Yes
+EMP01013,CORP037,Katherine Ball,,,Mining Engineer,Mid,16000,27,Female,Female,4,Yes
+EMP01014,CORP037,Benjamin Rogers,,,Mining Engineer,Senior,24000,48,Male,Male,2,Yes
+EMP01015,CORP037,Tyler Guerrero,,,Mining Engineer,Mid,16000,54,Male,Male,2,Yes
+EMP01016,CORP037,Ashley Marshall,,,Mining Engineer,Mid,16000,46,Male,Female,4,No
+EMP01017,CORP037,Chelsea Smith,,,Mining Engineer,Junior,11000,33,Male,Female,2,No
+EMP01018,CORP037,Samantha Jarvis,,,Safety Officer,Senior,14000,56,Male,Female,2,Yes
+EMP01019,CORP037,Jacob West,,,Mining Engineer,Senior,24000,37,Female,Male,1,Yes
+EMP01020,CORP037,Whitney Thomas,,,Safety Officer,Mid,10000,33,Male,Male,1,Yes
+EMP01021,CORP037,David Edwards,,,Safety Officer,Mid,10000,56,Male,Male,1,Yes
+EMP01022,CORP037,Nancy Howard,,,Safety Officer,Senior,14000,52,Male,Female,0,Yes
+EMP01023,CORP037,Sydney Campos,,,Mining Engineer,Mid,16000,42,Male,Male,3,Yes
+EMP01024,CORP037,Kelly Watkins,,,Mining Engineer,Junior,11000,57,Female,Female,0,Yes
+EMP01025,CORP037,Daniel Silva,,,Safety Officer,Junior,7000,45,Male,Male,0,Yes
+EMP01026,CORP037,Marie Jackson,,,Mining Engineer,Mid,16000,54,Female,Female,0,No
+EMP01027,CORP037,Karen Walker,,,Mining Engineer,Junior,11000,34,Male,Female,4,No
+EMP01028,CORP037,Catherine Chavez,,,Safety Officer,Junior,7000,31,Female,Female,4,Yes
+EMP01029,CORP037,Scott Carpenter,,,Safety Officer,Mid,10000,40,Female,Male,4,No
+EMP01030,CORP037,Paul Clark,,,Safety Officer,Senior,14000,52,Female,Male,3,Yes
+EMP01031,CORP037,Colin Cooper,,,Safety Officer,Junior,7000,45,Male,Male,4,No
+EMP01032,CORP037,Melanie Garcia,,,Safety Officer,Senior,14000,24,Male,Female,2,No
+EMP01033,CORP037,Nathan Bradley,,,Mining Engineer,Junior,11000,26,Female,Male,3,Yes
+EMP01034,CORP037,Andrew Lopez,,,Mining Engineer,Senior,24000,25,Male,Male,3,Yes
+EMP01035,CORP037,Richard Kerr,,,Safety Officer,Mid,10000,33,Female,Male,2,No
+EMP01036,CORP037,Charles Snyder,,MD,Safety Officer,Junior,7000,34,Female,Male,4,No
+EMP01037,CORP037,Valerie Shaw,,,Safety Officer,Junior,7000,51,Male,Female,3,Yes
+EMP01038,CORP037,Chad Ellis,,,Mining Engineer,Senior,24000,56,Male,Male,1,No
+EMP01039,CORP037,Michael Gonzales,,,Mining Engineer,Junior,11000,51,Female,Male,1,Yes
+EMP01040,CORP037,Andrew Brown,,,Safety Officer,Junior,7000,41,Female,Male,4,No
+EMP01041,CORP037,Nicholas Wilson,,,Mining Engineer,Junior,11000,28,Female,Male,3,Yes
+EMP01042,CORP037,Steven Peterson,,,Safety Officer,Mid,10000,23,Female,Male,4,No
+EMP01043,CORP037,Patrick Garcia,,,Safety Officer,Junior,7000,50,Male,Male,0,Yes
+EMP01044,CORP037,Donald Black,,,Mining Engineer,Junior,11000,24,Female,Male,2,Yes
+EMP01045,CORP037,Theresa Molina,,,Mining Engineer,Junior,11000,44,Female,Female,1,Yes
+EMP01046,CORP038,Gabrielle Ortiz,,,Lecturer,Senior,13000,36,Male,Female,0,Yes
+EMP01047,CORP038,Martin Hood,,,Teacher,Senior,7000,53,Male,Male,2,Yes
+EMP01048,CORP038,Nicole Hicks,,,Lecturer,Junior,6000,38,Male,Female,0,Yes
+EMP01049,CORP038,Nathan Hawkins,,,Lecturer,Mid,9000,38,Male,Male,3,No
+EMP01050,CORP038,Michael Smith,Mr.,Jr.,Teacher,Mid,5000,53,Male,Male,2,No
+EMP01051,CORP038,Dennis Williamson,,,Teacher,Junior,3500,42,Female,Male,1,Yes
+EMP01052,CORP038,Colin Osborne,Mr.,,Lecturer,Mid,9000,45,Male,Male,0,No
+EMP01053,CORP038,Debra Benson,,,Lecturer,Senior,13000,51,Male,Female,2,Yes
+EMP01054,CORP038,David Rice,,,Teacher,Junior,3500,56,Male,Male,1,Yes
+EMP01055,CORP038,Audrey Delgado,,,Teacher,Junior,3500,35,Female,Female,3,Yes
+EMP01056,CORP038,Jessica Brown,,,Teacher,Senior,7000,44,Female,Female,2,No
+EMP01057,CORP038,Donald Olsen,,,Lecturer,Junior,6000,36,Male,Male,2,Yes
+EMP01058,CORP038,Teresa Smith,,,Teacher,Senior,7000,50,Female,Female,2,No
+EMP01059,CORP038,Kendra Miller,,,Teacher,Mid,5000,46,Male,Female,2,No
+EMP01060,CORP038,Craig Allen,,,Lecturer,Mid,9000,38,Female,Male,4,No
+EMP01061,CORP038,Susan Anderson,,,Teacher,Senior,7000,27,Male,Female,0,No
+EMP01062,CORP038,James Lee,,,Lecturer,Junior,6000,36,Male,Male,3,No
+EMP01063,CORP038,Christopher Ross,,,Teacher,Senior,7000,56,Female,Male,1,No
+EMP01064,CORP038,Stephanie Lopez,,,Lecturer,Senior,13000,45,Female,Female,2,Yes
+EMP01065,CORP038,Nathan King,,,Lecturer,Senior,13000,25,Male,Male,4,Yes
+EMP01066,CORP038,Mallory Brown,,,Teacher,Senior,7000,41,Male,Female,2,No
+EMP01067,CORP038,Elizabeth Gonzales,,,Teacher,Junior,3500,50,Female,Female,2,Yes
+EMP01068,CORP038,Brett Lee,,,Lecturer,Mid,9000,56,Male,Male,1,Yes
+EMP01069,CORP038,Eduardo Best,,,Lecturer,Senior,13000,39,Male,Male,4,No
+EMP01070,CORP039,Mario Austin,,,Fleet Manager,Junior,6000,31,Female,Male,2,Yes
+EMP01071,CORP039,Rita Ortega,,,Fleet Manager,Senior,12000,53,Female,Female,2,No
+EMP01072,CORP039,Julie Stokes,,,Fleet Manager,Junior,6000,31,Male,Female,4,Yes
+EMP01073,CORP039,Erica Gomez,,,Warehouse Officer,Mid,5000,47,Male,Female,3,Yes
+EMP01074,CORP039,Amanda Rios,,,Warehouse Officer,Senior,7000,39,Female,Female,4,Yes
+EMP01075,CORP039,Charles Harrison,,,Fleet Manager,Mid,8500,35,Male,Male,3,Yes
+EMP01076,CORP039,Stacey Carey,,,Fleet Manager,Junior,6000,25,Male,Female,3,No
+EMP01077,CORP039,Ryan Jones,,,Warehouse Officer,Junior,3500,56,Male,Male,4,No
+EMP01078,CORP039,Andrew Lloyd,,,Warehouse Officer,Senior,7000,30,Male,Male,4,No
+EMP01079,CORP039,Nathan Williamson,,,Fleet Manager,Junior,6000,36,Male,Male,0,No
+EMP01080,CORP039,Pamela Maldonado,,,Warehouse Officer,Senior,7000,58,Male,Female,2,Yes
+EMP01081,CORP039,Adam Bowman,,,Fleet Manager,Senior,12000,44,Male,Male,2,Yes
+EMP01082,CORP039,Steven Johnson,,,Warehouse Officer,Junior,3500,31,Male,Male,3,No
+EMP01083,CORP039,Kristie Carroll,,,Warehouse Officer,Junior,3500,27,Male,Female,0,No
+EMP01084,CORP039,Monica Young,,,Fleet Manager,Mid,8500,51,Male,Female,0,No
+EMP01085,CORP039,Kathy Anderson,,,Fleet Manager,Senior,12000,57,Female,Female,4,No
+EMP01086,CORP039,Bruce Sutton,,,Fleet Manager,Junior,6000,54,Male,Male,1,No
+EMP01087,CORP039,Cheryl Brown,,,Fleet Manager,Mid,8500,39,Male,Female,3,Yes
+EMP01088,CORP039,Martin Norris,,,Warehouse Officer,Mid,5000,49,Male,Male,1,No
+EMP01089,CORP039,Amy Sanchez,,,Fleet Manager,Mid,8500,25,Female,Female,0,Yes
+EMP01090,CORP039,Samuel Edwards,,,Warehouse Officer,Mid,5000,38,Female,Male,1,Yes
+EMP01091,CORP039,Edward Lawrence,,,Warehouse Officer,Senior,7000,44,Female,Male,1,No
+EMP01092,CORP039,Bryan Hickman,Mr.,,Warehouse Officer,Senior,7000,40,Female,Male,0,No
+EMP01093,CORP039,Kyle Nixon,,,Warehouse Officer,Junior,3500,43,Male,Female,2,Yes
+EMP01094,CORP039,Jason Jackson,,MD,Warehouse Officer,Mid,5000,53,Female,Male,1,No
+EMP01095,CORP039,William Clayton,,,Warehouse Officer,Junior,3500,48,Male,Male,0,Yes
+EMP01096,CORP039,Steven White,,,Fleet Manager,Senior,12000,33,Female,Male,3,Yes
+EMP01097,CORP040,Mary Sanders,,,Warehouse Officer,Junior,3500,38,Male,Female,0,No
+EMP01098,CORP040,William Cox,,,Fleet Manager,Junior,6000,41,Female,Male,0,Yes
+EMP01099,CORP040,Melissa Dunn,,,Warehouse Officer,Mid,5000,36,Female,Female,4,Yes
+EMP01100,CORP040,Desiree Fitzgerald,,,Warehouse Officer,Junior,3500,27,Male,Female,2,No
+EMP01101,CORP040,Craig Daugherty,,,Warehouse Officer,Senior,7000,45,Female,Male,0,Yes
+EMP01102,CORP040,Danielle Rivera,,,Fleet Manager,Senior,12000,37,Male,Female,1,Yes
+EMP01103,CORP040,Rebecca Morris,,,Warehouse Officer,Junior,3500,38,Male,Female,4,Yes
+EMP01104,CORP040,Amanda Thomas,,,Fleet Manager,Mid,8500,50,Male,Female,3,Yes
+EMP01105,CORP040,Stephen Roberts,,,Fleet Manager,Mid,8500,37,Female,Male,3,No
+EMP01106,CORP040,Travis Sparks,,,Fleet Manager,Junior,6000,39,Male,Male,4,No
+EMP01107,CORP040,David Parrish,,,Warehouse Officer,Senior,7000,57,Male,Male,2,No
+EMP01108,CORP040,April Robbins,,,Fleet Manager,Mid,8500,36,Male,Female,4,No
+EMP01109,CORP040,Alyssa Cortez,,,Fleet Manager,Mid,8500,50,Female,Female,2,Yes
+EMP01110,CORP040,Debra Garcia,,,Warehouse Officer,Senior,7000,24,Female,Female,4,No
+EMP01111,CORP040,Anthony Molina,,,Fleet Manager,Mid,8500,55,Male,Male,3,No
+EMP01112,CORP040,Jill Welch,,,Warehouse Officer,Mid,5000,51,Female,Female,2,No
+EMP01113,CORP040,Shane Moran,,,Warehouse Officer,Junior,3500,26,Female,Male,3,No
+EMP01114,CORP040,Pedro Shepherd,,,Fleet Manager,Mid,8500,30,Male,Male,2,Yes
+EMP01115,CORP040,Amy Watson,,,Warehouse Officer,Senior,7000,24,Male,Female,2,No
+EMP01116,CORP040,Rebecca Brady,,,Fleet Manager,Mid,8500,36,Female,Female,4,Yes
+EMP01117,CORP040,Holly Reyes,,,Fleet Manager,Junior,6000,47,Male,Female,3,No
+EMP01118,CORP040,Mark Taylor,,,Warehouse Officer,Junior,3500,37,Male,Male,3,No
+EMP01119,CORP040,Melissa Taylor,,,Fleet Manager,Senior,12000,28,Male,Female,0,No
+EMP01120,CORP040,Christopher Brown,,,Fleet Manager,Junior,6000,33,Male,Male,1,Yes
+EMP01121,CORP040,Ronnie Moreno,,,Fleet Manager,Senior,12000,41,Female,Male,3,Yes
+EMP01122,CORP040,Christopher Castro,,,Warehouse Officer,Senior,7000,41,Male,Male,1,No
+EMP01123,CORP040,Casey Johnson,,,Warehouse Officer,Junior,3500,33,Female,Unknown,0,Yes
+EMP01124,CORP040,Tyler Powell,,,Warehouse Officer,Senior,7000,27,Male,Male,2,Yes
+EMP01125,CORP040,Anthony Torres,,,Warehouse Officer,Senior,7000,42,Female,Male,0,Yes
+EMP01126,CORP040,Caroline Turner,,,Fleet Manager,Mid,8500,42,Female,Female,2,Yes
+EMP01127,CORP040,Warren Taylor,,,Warehouse Officer,Junior,3500,29,Female,Male,3,Yes
+EMP01128,CORP040,Kevin Best,,,Fleet Manager,Junior,6000,41,Female,Male,0,Yes
+EMP01129,CORP040,Shawn Russell,,,Fleet Manager,Senior,12000,50,Male,Male,0,No
+EMP01130,CORP040,Seth Gomez,,,Warehouse Officer,Senior,7000,57,Female,Male,2,Yes
+EMP01131,CORP040,Michelle Lynch,,,Fleet Manager,Senior,12000,53,Female,Female,4,Yes
+EMP01132,CORP040,Heather Allen,,,Warehouse Officer,Senior,7000,36,Male,Female,1,No
+EMP01133,CORP040,Brenda Simon,,,Warehouse Officer,Mid,5000,53,Male,Female,4,No
+EMP01134,CORP040,Kathy Acosta,,,Fleet Manager,Senior,12000,36,Female,Female,0,No
+EMP01135,CORP041,Adrienne Kaufman,,,Fleet Manager,Junior,6000,48,Female,Female,1,Yes
+EMP01136,CORP041,Timothy Adkins,,,Warehouse Officer,Mid,5000,52,Male,Male,4,No
+EMP01137,CORP041,Charles Prince,,,Warehouse Officer,Senior,7000,48,Male,Male,1,Yes
+EMP01138,CORP041,Daniel Hoffman,,,Fleet Manager,Senior,12000,35,Male,Male,4,No
+EMP01139,CORP041,Teresa Baker,,,Fleet Manager,Mid,8500,39,Male,Female,1,No
+EMP01140,CORP041,Richard Gross,,,Warehouse Officer,Mid,5000,38,Male,Male,3,No
+EMP01141,CORP041,Amy Edwards,,,Warehouse Officer,Junior,3500,33,Female,Female,3,Yes
+EMP01142,CORP041,Cheryl Chandler,,,Fleet Manager,Mid,8500,39,Male,Female,0,No
+EMP01143,CORP041,Steven Cruz,,,Fleet Manager,Senior,12000,52,Female,Male,0,Yes
+EMP01144,CORP041,Erin Rivera,,,Fleet Manager,Mid,8500,54,Male,Female,4,No
+EMP01145,CORP041,Robert Zimmerman,,,Warehouse Officer,Senior,7000,49,Female,Male,3,Yes
+EMP01146,CORP041,Cheryl Lewis,,,Fleet Manager,Junior,6000,24,Female,Female,0,No
+EMP01147,CORP041,George Simmons,,,Warehouse Officer,Senior,7000,35,Female,Male,3,No
+EMP01148,CORP041,Teresa Ross,,,Fleet Manager,Mid,8500,23,Female,Female,1,Yes
+EMP01149,CORP041,Jennifer Shaffer,,,Fleet Manager,Junior,6000,53,Female,Female,3,Yes
+EMP01150,CORP041,Bradley Wilson,,,Fleet Manager,Junior,6000,32,Female,Male,2,Yes
+EMP01151,CORP041,Marie Tucker,,MD,Fleet Manager,Senior,12000,35,Male,Female,1,No
+EMP01152,CORP041,John Martinez,,,Warehouse Officer,Senior,7000,53,Male,Male,2,No
+EMP01153,CORP041,Susan Bryant,,,Fleet Manager,Junior,6000,27,Male,Female,3,No
+EMP01154,CORP041,Maria Perez,,,Warehouse Officer,Senior,7000,36,Female,Female,4,Yes
+EMP01155,CORP041,John Graham,,,Fleet Manager,Mid,8500,38,Male,Male,0,Yes
+EMP01156,CORP041,Bryan Deleon,,,Fleet Manager,Junior,6000,26,Female,Male,1,Yes
+EMP01157,CORP041,Kristina Edwards,,,Fleet Manager,Junior,6000,50,Female,Female,3,No
+EMP01158,CORP041,Alicia Atkins,,,Warehouse Officer,Mid,5000,53,Female,Female,1,Yes
+EMP01159,CORP041,Susan Cox,,,Fleet Manager,Junior,6000,48,Male,Female,4,No
+EMP01160,CORP041,Aaron Davidson,,,Warehouse Officer,Senior,7000,46,Female,Male,3,No
+EMP01161,CORP041,Richard Barr,,,Warehouse Officer,Mid,5000,42,Male,Male,1,Yes
+EMP01162,CORP041,Laura Mathis,,,Warehouse Officer,Mid,5000,57,Female,Female,4,No
+EMP01163,CORP041,Kristin Norman,,,Warehouse Officer,Senior,7000,53,Female,Female,2,No
+EMP01164,CORP041,Michele Leon,,,Fleet Manager,Junior,6000,51,Female,Female,0,No
+EMP01165,CORP041,Danielle Peterson,,,Fleet Manager,Senior,12000,33,Male,Female,1,Yes
+EMP01166,CORP041,Brian Richmond,,,Warehouse Officer,Senior,7000,41,Female,Male,2,No
+EMP01167,CORP041,Ethan Harrison,,,Warehouse Officer,Mid,5000,53,Male,Male,3,Yes
+EMP01168,CORP041,Courtney Kelly,,,Warehouse Officer,Junior,3500,34,Female,Female,1,No
+EMP01169,CORP041,Christopher Williams,,,Warehouse Officer,Junior,3500,42,Female,Male,4,No
+EMP01170,CORP041,Robert Cervantes,,,Warehouse Officer,Mid,5000,29,Female,Male,0,No
+EMP01171,CORP042,Laura Crawford,,,Claims Analyst,Senior,14000,38,Female,Female,4,No
+EMP01172,CORP042,Sherry Rocha,,,Insurance Officer,Mid,8000,33,Male,Female,0,No
+EMP01173,CORP042,Julia Martinez,,,Claims Analyst,Senior,14000,27,Female,Female,2,No
+EMP01174,CORP042,Willie Rodriguez,,,Claims Analyst,Junior,6000,25,Male,Male,3,No
+EMP01175,CORP042,Nicole Steele,,,Insurance Officer,Senior,12000,35,Female,Female,2,No
+EMP01176,CORP042,Deborah Bond,,,Claims Analyst,Senior,14000,41,Female,Female,3,No
+EMP01177,CORP042,Justin Wilson,,,Insurance Officer,Junior,5000,31,Female,Male,4,Yes
+EMP01178,CORP042,Rhonda Martin,,,Claims Analyst,Senior,14000,51,Female,Female,0,No
+EMP01179,CORP042,Mark Chan,,,Claims Analyst,Junior,6000,44,Male,Male,4,No
+EMP01180,CORP042,Ronald Parks,,,Claims Analyst,Mid,9000,29,Male,Male,4,Yes
+EMP01181,CORP042,Samantha Park,,,Claims Analyst,Mid,9000,48,Female,Female,4,Yes
+EMP01182,CORP042,David Stevens,,,Insurance Officer,Junior,5000,55,Male,Male,1,Yes
+EMP01183,CORP042,Angelica Morrison,,,Claims Analyst,Junior,6000,48,Male,Female,4,No
+EMP01184,CORP042,Stacy Johnson,,,Claims Analyst,Junior,6000,54,Female,Female,1,Yes
+EMP01185,CORP042,Kristen Scott,,,Insurance Officer,Senior,12000,50,Male,Female,0,No
+EMP01186,CORP042,Terry Brown,,,Insurance Officer,Senior,12000,44,Male,Male,1,No
+EMP01187,CORP042,Frank Adams,,,Claims Analyst,Junior,6000,49,Female,Male,3,No
+EMP01188,CORP042,Jack Moore,,,Claims Analyst,Junior,6000,29,Male,Male,3,No
+EMP01189,CORP042,David Paul,,,Insurance Officer,Junior,5000,31,Male,Male,0,No
+EMP01190,CORP042,Elizabeth Mills,,,Claims Analyst,Senior,14000,24,Male,Female,1,No
+EMP01191,CORP042,Lauren Costa,,,Insurance Officer,Junior,5000,42,Female,Female,3,Yes
+EMP01192,CORP042,Daniel Martinez,,,Insurance Officer,Mid,8000,38,Female,Male,2,Yes
+EMP01193,CORP042,Emily Evans,,,Insurance Officer,Senior,12000,51,Female,Female,4,No
+EMP01194,CORP042,Chris Owens,,,Insurance Officer,Junior,5000,39,Male,Male,4,No
+EMP01195,CORP042,Ronnie Warren,,,Claims Analyst,Junior,6000,46,Female,Male,0,No
+EMP01196,CORP042,Zachary West,,,Claims Analyst,Junior,6000,45,Male,Male,4,No
+EMP01197,CORP042,Aaron Moss,,,Insurance Officer,Mid,8000,32,Female,Male,3,No
+EMP01198,CORP043,Luke Murray,,,Claims Analyst,Junior,6000,35,Male,Male,3,No
+EMP01199,CORP043,Brian Garcia,,,Insurance Officer,Senior,12000,30,Female,Male,2,Yes
+EMP01200,CORP043,Kevin Quinn,,,Claims Analyst,Senior,14000,29,Male,Male,1,Yes
+EMP01201,CORP043,John Wilkinson,,,Claims Analyst,Senior,14000,47,Male,Male,0,Yes
+EMP01202,CORP043,David Meza,,,Insurance Officer,Mid,8000,51,Male,Male,4,No
+EMP01203,CORP043,Sherry Lang,,,Claims Analyst,Mid,9000,57,Male,Female,0,Yes
+EMP01204,CORP043,Mary Mathis,,,Insurance Officer,Junior,5000,27,Male,Female,0,Yes
+EMP01205,CORP043,Shirley Harper,,,Claims Analyst,Junior,6000,46,Male,Female,4,Yes
+EMP01206,CORP043,Caroline Gray,,,Insurance Officer,Junior,5000,47,Female,Female,0,Yes
+EMP01207,CORP043,Lisa Harris,,,Claims Analyst,Senior,14000,55,Female,Female,0,No
+EMP01208,CORP043,Nicole Rodriguez,,,Insurance Officer,Mid,8000,25,Male,Female,0,Yes
+EMP01209,CORP043,Nicholas Martin,,Jr.,Claims Analyst,Senior,14000,48,Male,Male,4,Yes
+EMP01210,CORP043,Charles Jackson,,,Claims Analyst,Senior,14000,45,Female,Male,0,Yes
+EMP01211,CORP043,Dylan Christensen,,,Insurance Officer,Junior,5000,32,Female,Male,1,Yes
+EMP01212,CORP043,Joshua Hoffman,,,Insurance Officer,Senior,12000,27,Male,Male,2,No
+EMP01213,CORP043,Olivia Robertson,,,Insurance Officer,Junior,5000,37,Female,Female,0,No
+EMP01214,CORP043,Kevin Williamson,,,Claims Analyst,Mid,9000,37,Female,Male,3,No
+EMP01215,CORP043,Joseph Stanton,,,Claims Analyst,Mid,9000,46,Female,Male,3,Yes
+EMP01216,CORP043,Amanda Hall,,,Insurance Officer,Mid,8000,57,Female,Female,0,No
+EMP01217,CORP043,Jason Peters,,,Insurance Officer,Mid,8000,27,Female,Male,2,Yes
+EMP01218,CORP043,James Clark,,,Claims Analyst,Senior,14000,26,Female,Male,2,No
+EMP01219,CORP043,Anthony Summers,,,Insurance Officer,Mid,8000,40,Male,Male,0,Yes
+EMP01220,CORP043,Timothy Rose,,,Claims Analyst,Senior,14000,24,Male,Male,3,No
+EMP01221,CORP043,Mason Gonzales,,,Insurance Officer,Mid,8000,35,Female,Male,4,Yes
+EMP01222,CORP043,Elijah Murray,,,Claims Analyst,Mid,9000,24,Female,Male,2,No
+EMP01223,CORP043,Lisa Gonzalez,,,Insurance Officer,Senior,12000,50,Female,Female,3,Yes
+EMP01224,CORP043,Randy Greene,,,Insurance Officer,Senior,12000,30,Female,Male,4,Yes
+EMP01225,CORP043,Arthur Harvey,,,Claims Analyst,Senior,14000,38,Male,Male,0,No
+EMP01226,CORP043,Karen Diaz,,,Insurance Officer,Mid,8000,46,Male,Female,2,No
+EMP01227,CORP043,Regina Rodriguez,,,Insurance Officer,Junior,5000,38,Female,Female,1,Yes
+EMP01228,CORP043,Dana Kelly,,,Insurance Officer,Mid,8000,43,Female,Female,3,No
+EMP01229,CORP043,Leslie Garcia,,,Claims Analyst,Junior,6000,52,Female,Female,0,Yes
+EMP01230,CORP044,Samantha Perez,,,Insurance Officer,Junior,5000,25,Female,Female,1,Yes
+EMP01231,CORP044,Lisa Gallagher,,,Insurance Officer,Senior,12000,52,Male,Female,4,Yes
+EMP01232,CORP044,James Jordan,,,Insurance Officer,Mid,8000,42,Female,Male,3,No
+EMP01233,CORP044,Nicholas Dunn,,,Claims Analyst,Senior,14000,29,Female,Male,3,Yes
+EMP01234,CORP044,Carrie Conner,,,Claims Analyst,Junior,6000,39,Female,Female,4,Yes
+EMP01235,CORP044,Thomas Powell,,,Claims Analyst,Junior,6000,32,Female,Male,0,Yes
+EMP01236,CORP044,Maria Patterson,Mrs.,,Claims Analyst,Mid,9000,39,Male,Female,3,No
+EMP01237,CORP044,George Rollins,,,Insurance Officer,Senior,12000,58,Male,Male,0,No
+EMP01238,CORP044,Jessica Alexander,,,Claims Analyst,Mid,9000,39,Female,Female,4,No
+EMP01239,CORP044,Julie Webb,,,Insurance Officer,Mid,8000,27,Male,Female,1,Yes
+EMP01240,CORP044,Christopher Spencer,,,Claims Analyst,Junior,6000,28,Female,Male,4,No
+EMP01241,CORP044,Michael Davis,,,Claims Analyst,Senior,14000,39,Male,Male,1,Yes
+EMP01242,CORP044,Michelle Miller,,,Insurance Officer,Junior,5000,57,Male,Female,2,Yes
+EMP01243,CORP044,Jeffrey Miller,,,Insurance Officer,Junior,5000,42,Male,Male,0,Yes
+EMP01244,CORP044,Adam Burton,,,Insurance Officer,Junior,5000,29,Female,Male,4,Yes
+EMP01245,CORP044,Ashley Garrett,,,Insurance Officer,Junior,5000,50,Female,Female,4,No
+EMP01246,CORP044,Christopher Galvan,,,Insurance Officer,Senior,12000,41,Female,Male,2,No
+EMP01247,CORP044,Sheila Barrett,,,Claims Analyst,Mid,9000,53,Female,Female,3,Yes
+EMP01248,CORP044,Susan May,,,Insurance Officer,Junior,5000,57,Male,Female,1,Yes
+EMP01249,CORP044,Michael Weaver,,,Insurance Officer,Junior,5000,34,Female,Male,0,Yes
+EMP01250,CORP044,Angela Braun,,,Claims Analyst,Senior,14000,53,Male,Female,4,Yes
+EMP01251,CORP044,Robin Wilson,,,Insurance Officer,Junior,5000,30,Male,Male,1,Yes
+EMP01252,CORP044,Ryan Rose,,,Claims Analyst,Mid,9000,32,Male,Male,1,Yes
+EMP01253,CORP044,Gail Bishop,,,Claims Analyst,Junior,6000,28,Female,Female,0,Yes
+EMP01254,CORP044,Martin Navarro,,,Insurance Officer,Junior,5000,42,Female,Male,3,Yes
+EMP01255,CORP044,Michele Taylor,Dr.,,Claims Analyst,Senior,14000,35,Female,Female,3,No
+EMP01256,CORP044,Kim Williams,,,Insurance Officer,Senior,12000,31,Female,Female,2,No
+EMP01257,CORP044,Brent Fry,,,Claims Analyst,Mid,9000,56,Male,Male,3,Yes
+EMP01258,CORP044,Michael Arias,,,Insurance Officer,Mid,8000,47,Male,Male,3,No
+EMP01259,CORP044,Melissa Miller,Mrs.,DVM,Claims Analyst,Junior,6000,33,Female,Female,2,Yes
+EMP01260,CORP044,Angela Yang,,,Insurance Officer,Mid,8000,54,Male,Female,3,Yes
+EMP01261,CORP044,Mary Adkins,,,Claims Analyst,Senior,14000,58,Male,Female,4,No
+EMP01262,CORP044,Samuel Meyer,,,Insurance Officer,Junior,5000,37,Male,Male,4,Yes
+EMP01263,CORP045,Brian Sutton,,,Network Engineer,Junior,7500,55,Male,Male,0,Yes
+EMP01264,CORP045,Michael May,,,Software Engineer,Junior,8500,26,Female,Male,3,Yes
+EMP01265,CORP045,Stephen Mcgrath,,,Software Engineer,Junior,8500,40,Female,Male,2,Yes
+EMP01266,CORP045,Paul Smith,,,Network Engineer,Senior,17000,40,Male,Male,1,No
+EMP01267,CORP045,Marco Martin,,,Network Engineer,Mid,12000,34,Female,Male,4,No
+EMP01268,CORP045,Joseph Short,,,Software Engineer,Junior,8500,27,Male,Male,0,No
+EMP01269,CORP045,Jennifer Ponce,,,Network Engineer,Mid,12000,43,Male,Female,1,Yes
+EMP01270,CORP045,Rebecca Woods,,,Network Engineer,Mid,12000,40,Male,Female,4,Yes
+EMP01271,CORP045,Christy Owens,,,Software Engineer,Mid,13000,28,Male,Female,4,Yes
+EMP01272,CORP045,Justin Alvarado,,,Network Engineer,Mid,12000,34,Female,Male,2,No
+EMP01273,CORP045,Todd Nelson,,,Network Engineer,Senior,17000,23,Female,Male,3,Yes
+EMP01274,CORP045,Jeff Gomez,Mr.,,Software Engineer,Junior,8500,41,Male,Male,4,No
+EMP01275,CORP045,Jennifer Jackson,,,Network Engineer,Mid,12000,33,Female,Female,0,Yes
+EMP01276,CORP045,Lisa Pugh,,,Network Engineer,Junior,7500,44,Female,Female,4,Yes
+EMP01277,CORP045,Kathleen Reynolds,,,Software Engineer,Junior,8500,49,Male,Female,0,Yes
+EMP01278,CORP045,Teresa Johnson,Mrs.,,Network Engineer,Mid,12000,55,Female,Female,1,Yes
+EMP01279,CORP045,Kim Montes,,,Software Engineer,Mid,13000,25,Male,Female,0,No
+EMP01280,CORP045,Amanda Brown,,,Software Engineer,Senior,19000,42,Male,Female,1,No
+EMP01281,CORP045,Gabriela Weaver,,,Software Engineer,Senior,19000,51,Female,Female,1,Yes
+EMP01282,CORP045,Anthony Ross,,,Software Engineer,Senior,19000,52,Female,Male,1,Yes
+EMP01283,CORP045,Connie Ward,Dr.,,Software Engineer,Senior,19000,53,Male,Female,0,Yes
+EMP01284,CORP045,Austin Moore,,,Software Engineer,Senior,19000,46,Male,Male,4,No
+EMP01285,CORP045,Evan Johnson,,,Software Engineer,Mid,13000,56,Male,Male,2,Yes
+EMP01286,CORP045,Ryan Michael,,,Network Engineer,Mid,12000,33,Female,Male,1,No
+EMP01287,CORP045,Jimmy Miller,,,Network Engineer,Senior,17000,29,Male,Male,1,No
+EMP01288,CORP045,William Robinson,,,Software Engineer,Mid,13000,43,Male,Male,4,Yes
+EMP01289,CORP045,Jeffrey Lara,,,Network Engineer,Senior,17000,53,Male,Male,4,No
+EMP01290,CORP045,Daniel Meyer,,,Network Engineer,Junior,7500,39,Female,Male,3,Yes
+EMP01291,CORP045,Jonathan Mendez,,,Network Engineer,Senior,17000,38,Male,Male,1,No
+EMP01292,CORP046,Anthony Coleman,,,Network Engineer,Mid,12000,52,Male,Male,2,No
+EMP01293,CORP046,Matthew Smith,,,Software Engineer,Junior,8500,45,Female,Male,3,No
+EMP01294,CORP046,William Robertson,,,Software Engineer,Mid,13000,34,Female,Male,2,Yes
+EMP01295,CORP046,Michelle Espinoza,,,Software Engineer,Senior,19000,41,Female,Female,3,No
+EMP01296,CORP046,Diane Pittman,,,Network Engineer,Mid,12000,50,Female,Female,4,No
+EMP01297,CORP046,Chad Taylor,Mr.,,Software Engineer,Mid,13000,36,Female,Male,2,Yes
+EMP01298,CORP046,Gloria Gentry,,,Software Engineer,Senior,19000,43,Female,Female,1,Yes
+EMP01299,CORP046,William Walker,,,Network Engineer,Senior,17000,39,Female,Male,3,Yes
+EMP01300,CORP046,Jonathan Acevedo,,,Network Engineer,Junior,7500,50,Female,Male,2,No
+EMP01301,CORP046,Christopher Smith,,,Network Engineer,Senior,17000,46,Male,Male,4,No
+EMP01302,CORP046,Adrian Cain,,,Network Engineer,Senior,17000,33,Male,Male,0,No
+EMP01303,CORP046,Chelsea Johnson,,,Network Engineer,Mid,12000,46,Female,Female,1,Yes
+EMP01304,CORP046,Lisa Hayes,,,Software Engineer,Senior,19000,27,Female,Female,2,Yes
+EMP01305,CORP046,Anthony Riley,,,Software Engineer,Senior,19000,36,Male,Male,3,Yes
+EMP01306,CORP046,Paul Webb,,,Network Engineer,Mid,12000,37,Female,Male,1,Yes
+EMP01307,CORP046,William Huffman,,,Network Engineer,Junior,7500,52,Male,Male,4,No
+EMP01308,CORP046,Ashley Mccarty,,,Network Engineer,Senior,17000,28,Male,Female,1,No
+EMP01309,CORP046,Allen Chavez,,,Network Engineer,Mid,12000,25,Male,Male,0,Yes
+EMP01310,CORP046,Amy Benton,,,Network Engineer,Junior,7500,28,Male,Female,4,Yes
+EMP01311,CORP046,Joshua Larson,,,Software Engineer,Mid,13000,47,Female,Male,2,No
+EMP01312,CORP046,Joshua Thompson,,,Network Engineer,Senior,17000,40,Male,Male,2,No
+EMP01313,CORP046,Rhonda Torres,,,Network Engineer,Mid,12000,45,Male,Female,2,No
+EMP01314,CORP046,Alicia Lloyd,,,Network Engineer,Junior,7500,34,Male,Female,4,No
+EMP01315,CORP046,Tracy Stanton,,,Network Engineer,Senior,17000,49,Female,Female,0,No
+EMP01316,CORP046,Lisa Brooks,,,Software Engineer,Mid,13000,37,Male,Female,2,No
+EMP01317,CORP046,Elizabeth Baker,,,Software Engineer,Senior,19000,44,Female,Female,4,No
+EMP01318,CORP046,Manuel Carey,,,Network Engineer,Junior,7500,30,Female,Male,0,Yes
+EMP01319,CORP046,Nicole Smith,,,Software Engineer,Senior,19000,41,Female,Female,2,No
+EMP01320,CORP046,Patrick Davenport,,,Software Engineer,Junior,8500,55,Female,Male,3,No
+EMP01321,CORP046,Cassandra Harrison,,,Software Engineer,Junior,8500,46,Male,Female,0,Yes
+EMP01322,CORP046,April Perry,,,Software Engineer,Junior,8500,37,Male,Female,1,Yes
+EMP01323,CORP046,Vincent Brown,,,Network Engineer,Junior,7500,55,Female,Male,4,Yes
+EMP01324,CORP046,Jessica Ross,,,Network Engineer,Mid,12000,34,Male,Female,0,No
+EMP01325,CORP046,Jennifer Pugh,,,Software Engineer,Senior,19000,56,Female,Female,1,Yes
+EMP01326,CORP046,Amanda Henson,,,Software Engineer,Mid,13000,33,Female,Female,2,Yes
+EMP01327,CORP046,Kristen Cooper,,,Software Engineer,Junior,8500,34,Female,Female,0,Yes
+EMP01328,CORP046,Jordan Barnett,,,Network Engineer,Senior,17000,31,Male,Male,1,No
+EMP01329,CORP046,Melissa Jenkins,,,Software Engineer,Senior,19000,56,Male,Female,4,Yes
+EMP01330,CORP046,Michael Chandler,,,Software Engineer,Mid,13000,58,Female,Male,2,No
+EMP01331,CORP047,Jenna Cook,,,Network Engineer,Mid,12000,33,Female,Female,0,No
+EMP01332,CORP047,Regina Taylor,,,Software Engineer,Junior,8500,23,Male,Female,2,No
+EMP01333,CORP047,Emily Rose,,,Software Engineer,Junior,8500,51,Female,Female,2,Yes
+EMP01334,CORP047,James Randolph,,,Network Engineer,Mid,12000,37,Male,Male,2,No
+EMP01335,CORP047,Amy Vargas,,,Network Engineer,Senior,17000,40,Female,Female,2,No
+EMP01336,CORP047,Tina Adams,,,Network Engineer,Senior,17000,27,Male,Female,1,No
+EMP01337,CORP047,Tiffany Hardy,,,Network Engineer,Senior,17000,53,Female,Female,0,No
+EMP01338,CORP047,Christopher Love,,,Software Engineer,Mid,13000,44,Male,Male,0,Yes
+EMP01339,CORP047,Nicholas Hays,,,Software Engineer,Senior,19000,49,Female,Male,1,Yes
+EMP01340,CORP047,Jacob Francis,,,Network Engineer,Junior,7500,42,Male,Male,2,Yes
+EMP01341,CORP047,Lisa Sanchez,,,Network Engineer,Mid,12000,30,Female,Female,4,Yes
+EMP01342,CORP047,Michael Jones,,,Software Engineer,Senior,19000,27,Female,Male,2,No
+EMP01343,CORP047,Krystal Ramirez,,,Software Engineer,Junior,8500,48,Female,Female,0,No
+EMP01344,CORP047,Hannah Hughes,,,Software Engineer,Junior,8500,32,Female,Female,3,Yes
+EMP01345,CORP047,Christopher Ho,,,Network Engineer,Senior,17000,23,Male,Male,1,No
+EMP01346,CORP047,Katherine Ayala,,,Software Engineer,Mid,13000,31,Male,Female,1,Yes
+EMP01347,CORP047,Lisa Brown,,,Network Engineer,Junior,7500,58,Female,Female,1,No
+EMP01348,CORP047,Joseph Hansen,,,Network Engineer,Senior,17000,40,Female,Male,1,No
+EMP01349,CORP048,Madison Garner,,,Network Engineer,Mid,12000,33,Female,Female,0,No
+EMP01350,CORP048,Grant Newman,,,Software Engineer,Senior,19000,36,Female,Male,3,No
+EMP01351,CORP048,Mary Williams,,,Network Engineer,Senior,17000,35,Male,Female,4,Yes
+EMP01352,CORP048,Amanda Patel,,,Software Engineer,Mid,13000,29,Female,Female,2,No
+EMP01353,CORP048,William Young,,,Software Engineer,Mid,13000,56,Female,Male,4,Yes
+EMP01354,CORP048,Shelia Gillespie,,,Network Engineer,Senior,17000,26,Female,Female,0,Yes
+EMP01355,CORP048,Ashley Bates,,,Software Engineer,Senior,19000,37,Male,Female,1,Yes
+EMP01356,CORP048,Andrew Strong,,,Software Engineer,Mid,13000,40,Female,Male,3,Yes
+EMP01357,CORP048,Susan Martin,,,Network Engineer,Senior,17000,58,Male,Female,0,No
+EMP01358,CORP048,Megan Fernandez,,,Network Engineer,Senior,17000,43,Male,Female,1,Yes
+EMP01359,CORP048,Jose Walker,,,Software Engineer,Junior,8500,53,Female,Male,2,No
+EMP01360,CORP048,Matthew Liu,,,Software Engineer,Junior,8500,39,Male,Male,1,No
+EMP01361,CORP048,Christopher Myers,,,Software Engineer,Mid,13000,25,Male,Male,0,No
+EMP01362,CORP048,Olivia White,,,Software Engineer,Junior,8500,27,Female,Female,0,No
+EMP01363,CORP048,Marcus Fuller,,,Software Engineer,Mid,13000,31,Male,Male,1,No
+EMP01364,CORP048,John Wall,,,Network Engineer,Junior,7500,51,Female,Male,2,No
+EMP01365,CORP048,Michael Wilson,,,Network Engineer,Junior,7500,42,Female,Male,2,Yes
+EMP01366,CORP048,Meghan Nelson,,,Software Engineer,Senior,19000,34,Female,Female,2,No
+EMP01367,CORP048,Anna Giles,,DVM,Network Engineer,Mid,12000,42,Female,Female,1,No
+EMP01368,CORP048,William Terry,,,Software Engineer,Senior,19000,48,Male,Male,0,No
+EMP01369,CORP048,Joseph Cox,,,Software Engineer,Junior,8500,28,Female,Male,3,No
+EMP01370,CORP048,Robert Greer,,,Network Engineer,Junior,7500,51,Female,Male,2,Yes
+EMP01371,CORP048,Patricia Elliott,,,Network Engineer,Mid,12000,55,Male,Female,4,No
+EMP01372,CORP048,Oscar Ward,,,Software Engineer,Senior,19000,48,Male,Male,0,Yes
+EMP01373,CORP048,Laura Davis,,,Network Engineer,Junior,7500,55,Male,Female,2,No
+EMP01374,CORP048,Katelyn Edwards,,,Software Engineer,Mid,13000,28,Female,Female,0,No
+EMP01375,CORP049,Robert Anderson,,,Software Engineer,Senior,19000,54,Female,Male,3,No
+EMP01376,CORP049,Edward Powell,,,Network Engineer,Junior,7500,49,Female,Male,0,Yes
+EMP01377,CORP049,Teresa Johnston,,,Network Engineer,Senior,17000,51,Female,Female,2,Yes
+EMP01378,CORP049,Felicia Clarke,Mrs.,,Software Engineer,Mid,13000,45,Male,Female,4,No
+EMP01379,CORP049,Peter Fox,,,Network Engineer,Senior,17000,33,Female,Male,0,Yes
+EMP01380,CORP049,Mary Miller,,,Software Engineer,Mid,13000,23,Female,Female,1,No
+EMP01381,CORP049,Stacey Willis,,,Network Engineer,Mid,12000,28,Female,Female,0,No
+EMP01382,CORP049,Christopher Thornton,,,Software Engineer,Junior,8500,26,Male,Male,3,No
+EMP01383,CORP049,Tonya Parrish,,,Software Engineer,Senior,19000,50,Female,Female,2,No
+EMP01384,CORP049,Kayla Long,,,Software Engineer,Mid,13000,57,Female,Female,1,Yes
+EMP01385,CORP049,Cassandra Austin,,,Network Engineer,Senior,17000,36,Male,Female,3,No
+EMP01386,CORP049,Tanya Garza,,,Software Engineer,Mid,13000,52,Male,Female,0,Yes
+EMP01387,CORP049,Matthew Christian,,,Software Engineer,Mid,13000,34,Female,Male,0,Yes
+EMP01388,CORP049,Jordan Chung,,,Network Engineer,Junior,7500,47,Male,Male,2,Yes
+EMP01389,CORP049,Lauren Wilson,,,Network Engineer,Junior,7500,53,Female,Female,2,Yes
+EMP01390,CORP049,Sherry Washington,,,Network Engineer,Junior,7500,28,Female,Female,0,No
+EMP01391,CORP049,Brett Collins,,,Software Engineer,Senior,19000,42,Female,Male,3,Yes
+EMP01392,CORP049,Mario Lane,,,Software Engineer,Mid,13000,49,Female,Male,1,No
+EMP01393,CORP049,Scott Hill,,,Network Engineer,Junior,7500,44,Male,Male,2,Yes
+EMP01394,CORP049,Kelli Sheppard,,,Software Engineer,Senior,19000,29,Female,Female,4,Yes
+EMP01395,CORP049,Elaine Everett,,,Network Engineer,Mid,12000,51,Male,Female,2,Yes
+EMP01396,CORP049,Brittney Ward,,,Software Engineer,Mid,13000,26,Male,Female,3,No
+EMP01397,CORP049,Jessica Davis,,,Network Engineer,Senior,17000,45,Male,Female,2,No
+EMP01398,CORP049,Joshua Morgan,,DDS,Network Engineer,Junior,7500,40,Male,Male,1,No
+EMP01399,CORP049,Jason Burns,Mr.,MD,Software Engineer,Mid,13000,54,Male,Male,4,Yes
+EMP01400,CORP049,Jessica Mccall,,,Network Engineer,Mid,12000,47,Male,Female,0,No
+EMP01401,CORP050,Mark Blevins,,DVM,Accountant,Senior,13000,51,Female,Male,4,Yes
+EMP01402,CORP050,Samuel Hester,,,Accountant,Mid,8500,57,Male,Male,1,Yes
+EMP01403,CORP050,Charlotte Peters,,,Accountant,Senior,13000,25,Female,Female,2,No
+EMP01404,CORP050,Michael Chavez,,,Relationship Manager,Senior,14500,51,Male,Male,3,No
+EMP01405,CORP050,Samantha Clayton,,,Accountant,Mid,8500,54,Female,Female,3,Yes
+EMP01406,CORP050,Jane Foster,,,Accountant,Junior,5500,58,Female,Female,0,Yes
+EMP01407,CORP050,Carl Ross,Mr.,Jr.,Relationship Manager,Junior,6000,50,Female,Male,3,Yes
+EMP01408,CORP050,Andrew Macdonald,,,Accountant,Mid,8500,27,Male,Male,0,Yes
+EMP01409,CORP050,John Jones,,,Accountant,Senior,13000,24,Male,Male,1,Yes
+EMP01410,CORP050,Matthew Brown,,,Relationship Manager,Mid,9500,42,Male,Male,2,Yes
+EMP01411,CORP050,Janet Leblanc,,,Accountant,Junior,5500,32,Female,Female,1,Yes
+EMP01412,CORP050,Kimberly Sexton,,,Accountant,Senior,13000,54,Female,Female,2,Yes
+EMP01413,CORP050,Julia Byrd,,,Relationship Manager,Mid,9500,48,Male,Female,4,Yes
+EMP01414,CORP050,Alicia Sharp,,,Relationship Manager,Mid,9500,40,Male,Female,4,No
+EMP01415,CORP050,Douglas Phillips,,,Relationship Manager,Senior,14500,31,Male,Male,0,No
+EMP01416,CORP050,Luis Harris,,,Relationship Manager,Senior,14500,23,Female,Male,2,No
+EMP01417,CORP050,Sean Morgan,,,Accountant,Mid,8500,40,Female,Male,2,Yes
+EMP01418,CORP050,Sean Anderson,,,Relationship Manager,Mid,9500,26,Male,Male,3,No
+EMP01419,CORP050,Brittany Lowe,,,Relationship Manager,Senior,14500,38,Female,Female,1,No
+EMP01420,CORP051,Rhonda Edwards,,,Relationship Manager,Junior,6000,40,Female,Female,2,Yes
+EMP01421,CORP051,Zachary Lamb,,,Accountant,Senior,13000,57,Male,Male,1,Yes
+EMP01422,CORP051,Jessica Lowery,,,Accountant,Mid,8500,46,Female,Female,3,Yes
+EMP01423,CORP051,Marissa Walker,,,Relationship Manager,Mid,9500,28,Male,Female,1,Yes
+EMP01424,CORP051,Brian Bell,,,Relationship Manager,Junior,6000,58,Male,Male,1,Yes
+EMP01425,CORP051,Kristine Fuentes,,,Accountant,Mid,8500,25,Female,Female,3,No
+EMP01426,CORP051,Sherri Murphy,,,Relationship Manager,Junior,6000,42,Female,Female,1,No
+EMP01427,CORP051,Brittany Guerra,,,Relationship Manager,Senior,14500,44,Female,Female,2,Yes
+EMP01428,CORP051,Linda Wolfe,,,Accountant,Junior,5500,43,Female,Female,0,No
+EMP01429,CORP051,Michael Case,,,Relationship Manager,Junior,6000,42,Female,Male,2,No
+EMP01430,CORP051,Barbara Martin,,,Accountant,Junior,5500,37,Female,Female,4,Yes
+EMP01431,CORP051,Danielle Hubbard,,,Accountant,Senior,13000,25,Female,Female,3,No
+EMP01432,CORP051,Tracey Evans,,,Accountant,Mid,8500,23,Female,Female,2,Yes
+EMP01433,CORP051,Wendy Ewing,,,Relationship Manager,Mid,9500,41,Male,Female,3,No
+EMP01434,CORP051,Cory Morrow,,,Relationship Manager,Junior,6000,32,Male,Male,0,Yes
+EMP01435,CORP051,Sherry Turner,,,Relationship Manager,Senior,14500,35,Female,Female,4,No
+EMP01436,CORP051,Lori Chandler,,,Accountant,Senior,13000,37,Female,Female,3,Yes
+EMP01437,CORP051,Kevin Lee,,,Accountant,Senior,13000,46,Male,Male,2,Yes
+EMP01438,CORP051,John Blanchard,,,Accountant,Senior,13000,44,Male,Male,1,No
+EMP01439,CORP051,Tammy Delgado,,,Relationship Manager,Senior,14500,48,Male,Female,0,Yes
+EMP01440,CORP051,Luke Johnson,,,Accountant,Senior,13000,44,Male,Male,3,Yes
+EMP01441,CORP051,Jonathan Wright,,,Relationship Manager,Junior,6000,54,Male,Male,2,Yes
+EMP01442,CORP051,Kristina Ibarra,,,Accountant,Mid,8500,43,Male,Female,1,No
+EMP01443,CORP051,Jennifer Mcdaniel,,,Accountant,Senior,13000,39,Male,Female,0,No
+EMP01444,CORP051,Brittany Allison,,,Accountant,Junior,5500,27,Female,Female,0,Yes
+EMP01445,CORP051,Daniel Blevins,,,Accountant,Senior,13000,48,Male,Male,3,Yes
+EMP01446,CORP051,Heather Miles,,,Accountant,Mid,8500,50,Female,Female,4,No
+EMP01447,CORP051,Sally Lewis,,,Accountant,Mid,8500,49,Male,Female,4,Yes
+EMP01448,CORP051,Gary Wright,,,Relationship Manager,Mid,9500,23,Male,Male,1,Yes
+EMP01449,CORP051,Daniel Francis,,,Accountant,Junior,5500,41,Female,Male,3,Yes
+EMP01450,CORP051,Johnny Mendoza,,,Relationship Manager,Mid,9500,46,Female,Male,2,No
+EMP01451,CORP051,Kathy Watson,,,Relationship Manager,Junior,6000,33,Female,Female,2,No
+EMP01452,CORP051,Susan Reyes,,,Accountant,Senior,13000,35,Male,Female,4,Yes
+EMP01453,CORP052,Juan Jones,,,Relationship Manager,Senior,14500,43,Male,Male,4,No
+EMP01454,CORP052,Dustin Allen,,,Accountant,Junior,5500,53,Male,Male,2,No
+EMP01455,CORP052,Alyssa Ramirez,,,Accountant,Senior,13000,50,Female,Female,4,Yes
+EMP01456,CORP052,Heidi Ray,,,Accountant,Mid,8500,33,Female,Female,1,Yes
+EMP01457,CORP052,Joshua Jones,,,Relationship Manager,Mid,9500,54,Male,Male,0,Yes
+EMP01458,CORP052,Jasmine Townsend,,,Relationship Manager,Mid,9500,24,Female,Female,4,Yes
+EMP01459,CORP052,Jacob Thompson,,,Relationship Manager,Mid,9500,36,Female,Male,2,Yes
+EMP01460,CORP052,Pamela Parker,,,Accountant,Mid,8500,25,Female,Female,3,Yes
+EMP01461,CORP052,Joanne Pearson,,,Relationship Manager,Mid,9500,36,Male,Female,2,Yes
+EMP01462,CORP052,Beth Jordan,,,Accountant,Senior,13000,51,Male,Female,2,No
+EMP01463,CORP052,Kyle Young,,,Relationship Manager,Mid,9500,46,Male,Female,4,Yes
+EMP01464,CORP052,Dale Cook,,,Relationship Manager,Mid,9500,38,Female,Male,4,No
+EMP01465,CORP052,James Carr,,,Relationship Manager,Mid,9500,31,Female,Male,2,Yes
+EMP01466,CORP052,Jordan Pearson,,,Relationship Manager,Junior,6000,58,Female,Male,3,No
+EMP01467,CORP052,Susan Ortiz,,,Relationship Manager,Junior,6000,52,Male,Female,1,No
+EMP01468,CORP052,Kendra Nelson,,,Relationship Manager,Mid,9500,46,Male,Female,0,No
+EMP01469,CORP052,Michael Randall,,,Relationship Manager,Junior,6000,47,Female,Male,1,No
+EMP01470,CORP052,Christopher Wilson,,,Relationship Manager,Senior,14500,29,Male,Male,3,No
+EMP01471,CORP052,Sylvia Moore,,,Relationship Manager,Senior,14500,27,Female,Female,4,Yes
+EMP01472,CORP052,Bruce Gray,,,Relationship Manager,Mid,9500,24,Female,Male,1,Yes
+EMP01473,CORP052,William Mckenzie,,,Accountant,Junior,5500,57,Female,Male,0,Yes
+EMP01474,CORP052,Taylor Fisher,,,Relationship Manager,Senior,14500,43,Male,Male,2,No
+EMP01475,CORP052,Scott Beck,,,Accountant,Junior,5500,38,Male,Male,2,No
+EMP01476,CORP052,Loretta Simpson,,,Accountant,Senior,13000,39,Female,Female,1,No
+EMP01477,CORP052,David Briggs,,,Accountant,Senior,13000,37,Female,Male,2,Yes
+EMP01478,CORP052,Gary Thomas,,,Relationship Manager,Mid,9500,56,Male,Male,0,No
+EMP01479,CORP052,Eric Hurst,,,Accountant,Junior,5500,46,Male,Male,3,No
+EMP01480,CORP052,Kaitlyn Dodson,,,Relationship Manager,Senior,14500,52,Male,Female,0,Yes
+EMP01481,CORP052,Gabriel Edwards,,,Relationship Manager,Senior,14500,34,Female,Male,2,Yes
+EMP01482,CORP052,Katrina Boyd,,,Relationship Manager,Junior,6000,24,Male,Female,3,No
+EMP01483,CORP052,Julie Wagner,,,Accountant,Senior,13000,42,Female,Female,4,No
+EMP01484,CORP053,Shelby Martinez,,,Accountant,Mid,8500,48,Female,Female,0,No
+EMP01485,CORP053,George Schmidt,,,Relationship Manager,Senior,14500,41,Male,Male,2,No
+EMP01486,CORP053,Rebecca Cox,,,Relationship Manager,Junior,6000,30,Male,Female,3,No
+EMP01487,CORP053,Adam Russell,,,Relationship Manager,Junior,6000,48,Male,Male,3,No
+EMP01488,CORP053,April Johnson,,,Accountant,Mid,8500,43,Male,Female,0,No
+EMP01489,CORP053,Kevin Walker,,,Relationship Manager,Junior,6000,38,Female,Male,3,Yes
+EMP01490,CORP053,Sherri Haley,,,Accountant,Senior,13000,44,Male,Female,1,Yes
+EMP01491,CORP053,Hannah Rodriguez,,,Accountant,Mid,8500,23,Female,Female,2,No
+EMP01492,CORP053,Elizabeth Stephens,,,Accountant,Mid,8500,27,Male,Female,0,No
+EMP01493,CORP053,Erik Jones,,,Accountant,Senior,13000,25,Male,Male,2,No
+EMP01494,CORP053,Paul Fisher,,,Accountant,Senior,13000,48,Male,Male,3,No
+EMP01495,CORP053,Stephen Weaver,,,Relationship Manager,Mid,9500,23,Female,Male,1,No
+EMP01496,CORP053,Benjamin Merritt,,,Accountant,Mid,8500,32,Male,Male,1,Yes
+EMP01497,CORP053,Marcia Williams,,,Relationship Manager,Senior,14500,28,Male,Female,4,Yes
+EMP01498,CORP053,Melissa Martinez,,,Accountant,Senior,13000,51,Male,Female,1,Yes
+EMP01499,CORP053,Henry Day,,,Accountant,Junior,5500,40,Male,Male,0,No
+EMP01500,CORP053,Justin Robbins,,,Relationship Manager,Junior,6000,50,Male,Male,0,No
+EMP01501,CORP053,Renee Gallagher,,,Accountant,Senior,13000,32,Female,Female,1,No
+EMP01502,CORP053,Travis Jones,,,Accountant,Mid,8500,39,Male,Male,4,No
+EMP01503,CORP053,Joseph Li,,,Relationship Manager,Senior,14500,34,Female,Male,4,Yes
+EMP01504,CORP053,Joseph Chavez,,,Accountant,Senior,13000,45,Male,Male,3,No
+EMP01505,CORP053,Christopher Crawford,,,Relationship Manager,Mid,9500,54,Male,Male,2,No
+EMP01506,CORP053,April Hughes,,,Relationship Manager,Mid,9500,40,Female,Female,0,Yes
+EMP01507,CORP053,Jonathan Cline,,,Relationship Manager,Junior,6000,45,Male,Male,0,No
+EMP01508,CORP053,Lisa Wells,,,Relationship Manager,Senior,14500,55,Male,Female,0,Yes
+EMP01509,CORP053,Angela Adkins,,,Relationship Manager,Junior,6000,39,Male,Female,0,No
+EMP01510,CORP053,Amanda Torres,,,Relationship Manager,Mid,9500,23,Male,Female,1,Yes
+EMP01511,CORP053,Brianna James,,,Relationship Manager,Junior,6000,57,Female,Female,2,No
+EMP01512,CORP054,Catherine Neal,,,Accountant,Mid,8500,28,Female,Female,3,No
+EMP01513,CORP054,Zachary Elliott,,,Accountant,Mid,8500,33,Female,Male,2,No
+EMP01514,CORP054,Lisa Wagner,,,Relationship Manager,Senior,14500,34,Female,Female,4,No
+EMP01515,CORP054,Jonathan Watson,,,Relationship Manager,Mid,9500,37,Male,Male,3,Yes
+EMP01516,CORP054,Cory Jordan,,,Relationship Manager,Mid,9500,41,Male,Male,1,No
+EMP01517,CORP054,Isabel Powers,,,Accountant,Senior,13000,24,Male,Female,1,No
+EMP01518,CORP054,Zachary King,,DVM,Accountant,Senior,13000,42,Male,Male,4,No
+EMP01519,CORP054,Beverly Frye,,,Accountant,Mid,8500,46,Male,Female,0,Yes
+EMP01520,CORP054,Laura Caldwell,,,Accountant,Mid,8500,24,Male,Female,2,No
+EMP01521,CORP054,Ethan Montgomery,,,Accountant,Mid,8500,49,Female,Male,4,Yes
+EMP01522,CORP054,Christian Pearson,,,Accountant,Senior,13000,50,Female,Male,4,Yes
+EMP01523,CORP054,David Santos,,,Accountant,Mid,8500,44,Female,Male,4,No
+EMP01524,CORP054,Vicki Mcbride,,,Relationship Manager,Mid,9500,58,Male,Female,2,Yes
+EMP01525,CORP054,Jennifer Williams,,,Accountant,Mid,8500,52,Male,Female,0,No
+EMP01526,CORP054,Kevin Tran,,,Accountant,Senior,13000,33,Female,Male,0,No
+EMP01527,CORP054,David Johnson,,,Relationship Manager,Junior,6000,53,Male,Male,4,No
+EMP01528,CORP054,Carrie Kline,,,Accountant,Senior,13000,54,Female,Female,2,Yes
+EMP01529,CORP054,Deborah Waters,,,Accountant,Junior,5500,47,Male,Female,4,No
+EMP01530,CORP054,Austin Brown,,,Relationship Manager,Junior,6000,44,Female,Male,3,Yes
+EMP01531,CORP054,William Phillips,,,Relationship Manager,Mid,9500,41,Female,Male,4,Yes
+EMP01532,CORP054,Michelle Lewis,,,Accountant,Senior,13000,30,Male,Female,1,Yes
+EMP01533,CORP054,Jennifer Brennan,,,Accountant,Senior,13000,52,Male,Female,0,Yes
+EMP01534,CORP054,Heidi Gibson,,,Relationship Manager,Mid,9500,47,Female,Female,4,No
+EMP01535,CORP054,Steven Richard,,,Relationship Manager,Junior,6000,45,Female,Male,1,Yes
+EMP01536,CORP054,Frank Soto,,,Accountant,Senior,13000,49,Female,Male,3,Yes
+EMP01537,CORP054,Susan Stephens,,,Relationship Manager,Mid,9500,48,Male,Female,4,Yes
+EMP01538,CORP054,Mark Wang,,,Accountant,Junior,5500,27,Male,Male,0,No
+EMP01539,CORP054,Nancy Jones,,,Accountant,Mid,8500,43,Male,Female,4,Yes
+EMP01540,CORP054,Emily Schroeder,,,Relationship Manager,Junior,6000,31,Female,Female,3,No
+EMP01541,CORP054,George Stokes,,,Relationship Manager,Senior,14500,27,Male,Male,0,No
+EMP01542,CORP055,Kelsey Abbott,,,Production Supervisor,Mid,7000,49,Female,Female,4,No
+EMP01543,CORP055,Jonathan Harper,,,Machine Operator,Junior,3500,47,Male,Male,0,No
+EMP01544,CORP055,Laura Sweeney,,,Machine Operator,Senior,7000,32,Male,Female,4,Yes
+EMP01545,CORP055,Amanda Rodriguez,,,Machine Operator,Mid,5000,27,Male,Female,1,No
+EMP01546,CORP055,Frank Quinn,,,Machine Operator,Senior,7000,47,Female,Male,0,No
+EMP01547,CORP055,Elizabeth Rodriguez,,,Production Supervisor,Junior,5000,23,Male,Female,0,No
+EMP01548,CORP055,Sara Tanner,,,Production Supervisor,Junior,5000,57,Female,Female,2,No
+EMP01549,CORP055,Margaret Johnson,,,Machine Operator,Junior,3500,49,Male,Female,4,No
+EMP01550,CORP055,Deborah Carr,,,Machine Operator,Senior,7000,53,Female,Female,4,Yes
+EMP01551,CORP055,Debra Snyder,,,Machine Operator,Mid,5000,50,Male,Female,1,No
+EMP01552,CORP055,Shaun Ramirez,,,Production Supervisor,Senior,9500,51,Male,Male,2,Yes
+EMP01553,CORP055,Kevin Skinner,,,Production Supervisor,Mid,7000,41,Female,Male,4,No
+EMP01554,CORP055,Paul Gonzalez,,,Production Supervisor,Senior,9500,34,Male,Male,1,Yes
+EMP01555,CORP055,Todd Rice,,,Machine Operator,Junior,3500,30,Male,Male,1,No
+EMP01556,CORP055,Gary Butler,,,Production Supervisor,Junior,5000,42,Male,Male,0,No
+EMP01557,CORP055,Brian Smith,,,Production Supervisor,Mid,7000,43,Female,Male,1,Yes
+EMP01558,CORP055,Michele Wall,,,Machine Operator,Junior,3500,58,Female,Female,4,No
+EMP01559,CORP055,Christopher Cummings,,,Production Supervisor,Junior,5000,30,Male,Male,0,Yes
+EMP01560,CORP055,Anthony Murphy,,,Production Supervisor,Junior,5000,30,Male,Male,3,Yes
+EMP01561,CORP055,Brittany Fernandez,,,Production Supervisor,Senior,9500,33,Male,Female,3,Yes
+EMP01562,CORP055,April Lopez,,,Machine Operator,Mid,5000,35,Female,Female,4,Yes
+EMP01563,CORP055,Amy Wade,,,Production Supervisor,Mid,7000,51,Male,Female,4,Yes
+EMP01564,CORP055,Mark Gross,,,Production Supervisor,Mid,7000,42,Male,Male,0,No
+EMP01565,CORP055,Stephen Sanchez,,,Production Supervisor,Senior,9500,49,Female,Male,1,No
+EMP01566,CORP055,Sarah Gonzalez,,,Production Supervisor,Junior,5000,27,Female,Female,4,Yes
+EMP01567,CORP055,Patricia Davis,,,Production Supervisor,Mid,7000,38,Female,Female,0,Yes
+EMP01568,CORP055,Chelsea Nunez,,,Production Supervisor,Mid,7000,45,Female,Female,3,No
+EMP01569,CORP056,Joseph Mcgrath,,,Production Supervisor,Junior,5000,58,Female,Male,2,Yes
+EMP01570,CORP056,Amanda Hernandez,,,Machine Operator,Junior,3500,40,Female,Female,0,No
+EMP01571,CORP056,Benjamin Moore,,,Production Supervisor,Mid,7000,47,Male,Male,2,No
+EMP01572,CORP056,Rachel Yang,,,Production Supervisor,Senior,9500,39,Male,Female,2,No
+EMP01573,CORP056,Laura Powers,,,Machine Operator,Mid,5000,56,Female,Female,4,No
+EMP01574,CORP056,Michael Duncan,,,Machine Operator,Junior,3500,46,Male,Male,4,Yes
+EMP01575,CORP056,Jessica Zamora,,,Production Supervisor,Junior,5000,44,Male,Female,4,No
+EMP01576,CORP056,Brenda Malone,,,Machine Operator,Senior,7000,35,Female,Female,3,Yes
+EMP01577,CORP056,Laurie Fuller,,,Machine Operator,Junior,3500,40,Male,Female,3,Yes
+EMP01578,CORP056,Stephanie Gordon,Mrs.,,Production Supervisor,Senior,9500,42,Female,Female,4,Yes
+EMP01579,CORP056,Gregory Green,,,Machine Operator,Junior,3500,32,Male,Male,0,Yes
+EMP01580,CORP056,Sean Macdonald,,,Machine Operator,Senior,7000,26,Female,Male,2,No
+EMP01581,CORP056,James Bush,,Jr.,Production Supervisor,Mid,7000,39,Female,Male,3,Yes
+EMP01582,CORP056,Nicole Bender,,,Production Supervisor,Senior,9500,53,Female,Female,0,No
+EMP01583,CORP056,Jeffrey Cook,,,Production Supervisor,Senior,9500,33,Male,Male,0,Yes
+EMP01584,CORP056,Michelle Woods,,,Production Supervisor,Mid,7000,50,Female,Female,3,No
+EMP01585,CORP056,Sandra Kelly,,,Machine Operator,Junior,3500,55,Female,Female,3,Yes
+EMP01586,CORP056,Whitney Francis,,,Production Supervisor,Mid,7000,53,Male,Male,2,No
+EMP01587,CORP056,Steven Young,,,Production Supervisor,Senior,9500,54,Male,Male,1,Yes
+EMP01588,CORP056,Rebecca Hooper,,,Production Supervisor,Mid,7000,23,Male,Female,2,No
+EMP01589,CORP056,Cory Fox,,,Production Supervisor,Senior,9500,57,Male,Male,0,No
+EMP01590,CORP056,Bradley Lawrence,,,Machine Operator,Junior,3500,32,Male,Male,0,No
+EMP01591,CORP056,Nicholas Andrews,,,Production Supervisor,Mid,7000,49,Female,Male,2,No
+EMP01592,CORP056,Donna Bishop,,,Machine Operator,Mid,5000,38,Male,Female,0,Yes
+EMP01593,CORP056,John Parks,,,Production Supervisor,Junior,5000,54,Female,Male,2,Yes
+EMP01594,CORP056,Michele Lane,,,Machine Operator,Mid,5000,26,Male,Female,3,No
+EMP01595,CORP057,Carlos Williams,,,Machine Operator,Junior,3500,49,Male,Male,0,No
+EMP01596,CORP057,Pamela Carter,,,Machine Operator,Junior,3500,51,Female,Female,1,Yes
+EMP01597,CORP057,Barbara Taylor,,,Production Supervisor,Senior,9500,58,Male,Female,2,No
+EMP01598,CORP057,Christine Higgins,,,Production Supervisor,Mid,7000,37,Male,Female,4,No
+EMP01599,CORP057,Brad Barnett,,,Machine Operator,Senior,7000,29,Female,Male,4,No
+EMP01600,CORP057,Sheri Frazier,,,Machine Operator,Senior,7000,57,Male,Female,2,No
+EMP01601,CORP057,Clifford Wheeler,,,Production Supervisor,Mid,7000,43,Female,Male,2,Yes
+EMP01602,CORP057,Michael Powell,,,Machine Operator,Junior,3500,44,Male,Male,2,Yes
+EMP01603,CORP057,Anthony Reed,,,Machine Operator,Mid,5000,36,Female,Male,1,Yes
+EMP01604,CORP057,Teresa Garcia,,,Production Supervisor,Senior,9500,23,Male,Female,0,Yes
+EMP01605,CORP057,Todd Elliott,,,Machine Operator,Junior,3500,35,Male,Male,2,No
+EMP01606,CORP057,Peter Christensen,,,Machine Operator,Junior,3500,31,Female,Male,0,No
+EMP01607,CORP057,Cassandra Walker,,,Production Supervisor,Senior,9500,52,Female,Female,4,No
+EMP01608,CORP057,Anthony Sandoval,,,Machine Operator,Mid,5000,35,Female,Male,2,No
+EMP01609,CORP057,Jonathan Freeman,,,Production Supervisor,Junior,5000,30,Male,Male,0,No
+EMP01610,CORP057,Lori Ortiz,,,Machine Operator,Mid,5000,42,Male,Female,2,No
+EMP01611,CORP057,John Hoover,,,Production Supervisor,Junior,5000,42,Male,Male,3,Yes
+EMP01612,CORP057,Kathryn Arias,,,Production Supervisor,Mid,7000,37,Female,Female,2,No
+EMP01613,CORP057,Kevin Murphy,,,Machine Operator,Mid,5000,32,Female,Male,0,No
+EMP01614,CORP057,Lori Dixon,,,Production Supervisor,Mid,7000,43,Female,Female,0,No
+EMP01615,CORP057,Ashley Murray,,,Production Supervisor,Mid,7000,50,Male,Female,1,Yes
+EMP01616,CORP057,Travis Sanders,,,Machine Operator,Junior,3500,30,Male,Male,4,No
+EMP01617,CORP057,Samuel Johnson,,,Machine Operator,Junior,3500,56,Female,Male,2,No
+EMP01618,CORP057,Colleen Phillips,,,Machine Operator,Senior,7000,49,Female,Female,4,No
+EMP01619,CORP057,Michael Clark,,,Machine Operator,Senior,7000,34,Male,Male,0,No
+EMP01620,CORP057,Lori Chapman,,,Production Supervisor,Mid,7000,34,Male,Female,1,No
+EMP01621,CORP057,James Mcknight,,,Machine Operator,Senior,7000,39,Female,Male,4,Yes
+EMP01622,CORP057,Kevin Henderson,,,Production Supervisor,Mid,7000,32,Female,Male,3,No
+EMP01623,CORP057,Joyce Howard,,,Machine Operator,Junior,3500,52,Female,Female,3,No
+EMP01624,CORP057,Chloe Miller,,,Production Supervisor,Senior,9500,39,Female,Female,4,No
+EMP01625,CORP058,Taylor Chambers,,,Safety Officer,Junior,7000,32,Male,Male,2,No
+EMP01626,CORP058,Michael Osborne,,,Mining Engineer,Mid,16000,49,Female,Male,1,No
+EMP01627,CORP058,Richard Moore,,,Safety Officer,Junior,7000,51,Female,Male,2,No
+EMP01628,CORP058,Adam May,,,Mining Engineer,Junior,11000,50,Female,Male,3,Yes
+EMP01629,CORP058,Alice Payne,,,Mining Engineer,Junior,11000,52,Male,Female,4,Yes
+EMP01630,CORP058,Cole Pierce,,,Safety Officer,Mid,10000,56,Male,Male,0,Yes
+EMP01631,CORP058,Angela Brown,,,Mining Engineer,Senior,24000,40,Female,Female,0,No
+EMP01632,CORP058,Gregory Flores,,,Mining Engineer,Mid,16000,52,Female,Male,3,No
+EMP01633,CORP058,Jessica Daniel,,,Safety Officer,Junior,7000,49,Female,Female,1,No
+EMP01634,CORP058,Kelly Patel,,,Safety Officer,Mid,10000,53,Female,Female,0,Yes
+EMP01635,CORP058,Gloria Dominguez,,DDS,Mining Engineer,Mid,16000,23,Female,Female,3,Yes
+EMP01636,CORP058,Rachel Peterson,,,Safety Officer,Junior,7000,35,Female,Female,3,No
+EMP01637,CORP058,Jeffrey Pope,,,Mining Engineer,Junior,11000,40,Female,Male,0,Yes
+EMP01638,CORP058,Brandi Smith,,,Mining Engineer,Junior,11000,58,Female,Female,3,Yes
+EMP01639,CORP058,Jesse Jensen,,,Mining Engineer,Junior,11000,53,Male,Male,2,Yes
+EMP01640,CORP058,Rebecca Sullivan,,DVM,Safety Officer,Mid,10000,39,Female,Female,0,Yes
+EMP01641,CORP058,Cassandra Weaver,,,Mining Engineer,Mid,16000,30,Male,Female,2,Yes
+EMP01642,CORP058,Timothy Lee,,,Safety Officer,Junior,7000,41,Female,Male,4,No
+EMP01643,CORP058,Christian Miller,,,Safety Officer,Mid,10000,52,Female,Male,0,Yes
+EMP01644,CORP059,Kaitlyn Harris,,,Mining Engineer,Junior,11000,24,Female,Female,4,Yes
+EMP01645,CORP059,Matthew Reese,,,Safety Officer,Senior,14000,26,Male,Male,2,No
+EMP01646,CORP059,Eric Wilson,,,Mining Engineer,Mid,16000,45,Female,Male,0,No
+EMP01647,CORP059,Travis Forbes,,,Safety Officer,Senior,14000,46,Male,Male,3,No
+EMP01648,CORP059,George Evans,,,Mining Engineer,Junior,11000,24,Female,Male,1,No
+EMP01649,CORP059,Erin Smith,,,Mining Engineer,Mid,16000,42,Male,Female,2,Yes
+EMP01650,CORP059,Tracy Mays,,,Mining Engineer,Mid,16000,43,Female,Female,4,No
+EMP01651,CORP059,Christopher Cisneros,,,Safety Officer,Junior,7000,58,Female,Male,2,No
+EMP01652,CORP059,Kevin Brown,,,Safety Officer,Senior,14000,40,Female,Male,4,No
+EMP01653,CORP059,Erin Smith,,,Mining Engineer,Junior,11000,46,Male,Female,4,No
+EMP01654,CORP059,Dylan Mendoza,,,Mining Engineer,Senior,24000,35,Male,Male,2,No
+EMP01655,CORP059,John Reilly,,,Safety Officer,Mid,10000,45,Female,Male,3,No
+EMP01656,CORP059,Jason Martinez,,,Safety Officer,Mid,10000,50,Male,Male,2,No
+EMP01657,CORP059,Brenda Burke,,,Safety Officer,Mid,10000,51,Female,Female,3,No
+EMP01658,CORP059,Patricia Osborne,,,Mining Engineer,Senior,24000,43,Male,Female,1,Yes
+EMP01659,CORP059,Cassidy Ray,,,Mining Engineer,Mid,16000,29,Male,Female,3,No
+EMP01660,CORP059,Jennifer Hammond,,,Mining Engineer,Junior,11000,53,Male,Female,4,No
+EMP01661,CORP059,Matthew Brown,,,Safety Officer,Senior,14000,26,Female,Male,2,No
+EMP01662,CORP059,Stephanie Hansen,,,Safety Officer,Junior,7000,32,Female,Female,4,Yes
+EMP01663,CORP059,Jeffrey Gray,,,Safety Officer,Junior,7000,50,Female,Male,3,No
+EMP01664,CORP059,Michelle Jackson,,,Safety Officer,Junior,7000,48,Male,Female,2,No
+EMP01665,CORP059,Craig Haynes,,,Mining Engineer,Senior,24000,28,Female,Male,1,No
+EMP01666,CORP059,Joshua Dickerson,,,Mining Engineer,Senior,24000,40,Female,Male,3,No
+EMP01667,CORP059,Reginald Miller,,,Mining Engineer,Junior,11000,46,Female,Male,0,No
+EMP01668,CORP059,Ronald Baxter,,,Mining Engineer,Senior,24000,24,Female,Male,0,Yes
+EMP01669,CORP059,Christopher Sandoval,,,Safety Officer,Mid,10000,47,Female,Male,0,Yes
+EMP01670,CORP059,Richard Johnson,,,Safety Officer,Senior,14000,42,Female,Male,1,Yes
+EMP01671,CORP059,Charles Lewis,,,Safety Officer,Mid,10000,35,Female,Male,3,Yes
+EMP01672,CORP059,Patricia Sanchez,,,Safety Officer,Senior,14000,33,Female,Female,1,No
+EMP01673,CORP059,Ryan Campbell,,,Mining Engineer,Senior,24000,28,Male,Male,3,Yes
+EMP01674,CORP060,Yvette West,,,Lecturer,Mid,9000,49,Male,Female,4,No
+EMP01675,CORP060,Cheryl King,Dr.,DDS,Lecturer,Mid,9000,40,Male,Female,3,Yes
+EMP01676,CORP060,Jacob Edwards,,,Teacher,Senior,7000,39,Male,Male,1,Yes
+EMP01677,CORP060,Jennifer George,,,Lecturer,Senior,13000,40,Male,Female,0,No
+EMP01678,CORP060,Amber French,,,Teacher,Junior,3500,46,Female,Female,2,No
+EMP01679,CORP060,Jeffery Grant,,,Teacher,Mid,5000,44,Male,Male,2,No
+EMP01680,CORP060,Edward Mays,,,Lecturer,Mid,9000,51,Male,Male,0,Yes
+EMP01681,CORP060,Laura Acosta,,,Teacher,Senior,7000,31,Female,Female,3,No
+EMP01682,CORP060,Alexander Powell,,,Lecturer,Senior,13000,31,Female,Male,2,No
+EMP01683,CORP060,Jack Smith,,,Lecturer,Senior,13000,43,Female,Male,2,No
+EMP01684,CORP060,Megan Griffin,,,Lecturer,Junior,6000,36,Female,Female,2,Yes
+EMP01685,CORP060,Timothy Crosby,,,Teacher,Senior,7000,53,Female,Male,4,Yes
+EMP01686,CORP060,Martin Lewis,,,Teacher,Junior,3500,58,Female,Male,4,Yes
+EMP01687,CORP060,Aaron Rogers,,,Lecturer,Junior,6000,46,Female,Male,0,No
+EMP01688,CORP060,Monica Young,,,Lecturer,Junior,6000,34,Male,Female,4,No
+EMP01689,CORP060,Laura Martin,,,Teacher,Senior,7000,43,Male,Female,2,No
+EMP01690,CORP060,David Banks,,,Teacher,Junior,3500,39,Female,Male,2,Yes
+EMP01691,CORP060,Mary Garza,,,Teacher,Junior,3500,51,Female,Female,1,Yes
+EMP01692,CORP060,Nicholas Williams,,,Teacher,Mid,5000,54,Female,Male,1,No
+EMP01693,CORP060,Bobby Taylor,,,Teacher,Senior,7000,53,Female,Male,3,No
+EMP01694,CORP060,Jonathan Schmidt,,,Teacher,Senior,7000,39,Male,Male,3,No
+EMP01695,CORP060,Stacey Gaines,,,Lecturer,Junior,6000,44,Male,Female,1,Yes
+EMP01696,CORP060,Patricia Rogers,,,Lecturer,Junior,6000,29,Female,Female,3,No
+EMP01697,CORP060,Richard Alvarez,,,Teacher,Mid,5000,25,Male,Male,3,Yes
+EMP01698,CORP060,Jennifer Gregory,,,Teacher,Junior,3500,55,Male,Female,3,Yes
+EMP01699,CORP060,April Frazier,,,Teacher,Senior,7000,52,Female,Female,4,Yes
+EMP01700,CORP060,Gerald Brown,,,Lecturer,Mid,9000,58,Male,Male,4,Yes
+EMP01701,CORP060,Eric Dunlap,,,Lecturer,Mid,9000,33,Female,Male,1,Yes
+EMP01702,CORP060,Ryan Gutierrez,,,Lecturer,Junior,6000,49,Female,Male,4,No
+EMP01703,CORP060,Robert Ho,,,Lecturer,Senior,13000,43,Female,Male,4,Yes
+EMP01704,CORP060,Roy Wilson,Dr.,,Teacher,Senior,7000,34,Male,Male,1,Yes
+EMP01705,CORP060,Lisa Mendoza,,,Teacher,Senior,7000,40,Male,Female,3,Yes
+EMP01706,CORP060,Jose Rivera,,,Lecturer,Junior,6000,40,Male,Male,0,No
+EMP01707,CORP060,Zachary Washington,Dr.,,Lecturer,Senior,13000,26,Female,Male,3,No
+EMP01708,CORP060,Christine Weaver,,,Lecturer,Senior,13000,45,Female,Female,0,No
+EMP01709,CORP061,Leah Flowers,,,Fleet Manager,Mid,8500,36,Female,Female,1,Yes
+EMP01710,CORP061,Yolanda Gomez,,,Warehouse Officer,Senior,7000,53,Female,Female,2,No
+EMP01711,CORP061,Christy Harrington,,,Warehouse Officer,Senior,7000,41,Female,Female,3,No
+EMP01712,CORP061,William Mills,,,Fleet Manager,Junior,6000,37,Male,Male,0,No
+EMP01713,CORP061,Randy Thornton,,,Warehouse Officer,Mid,5000,28,Male,Male,1,No
+EMP01714,CORP061,John Ward,,,Fleet Manager,Junior,6000,56,Male,Male,3,Yes
+EMP01715,CORP061,Brandon Branch,,,Fleet Manager,Mid,8500,26,Male,Male,4,No
+EMP01716,CORP061,Cheryl Lane,,,Warehouse Officer,Mid,5000,53,Female,Female,1,No
+EMP01717,CORP061,Laura Dawson,,MD,Warehouse Officer,Mid,5000,54,Male,Female,3,No
+EMP01718,CORP061,Matthew Williams,,,Fleet Manager,Senior,12000,40,Male,Male,4,No
+EMP01719,CORP061,Meghan Levy,,,Warehouse Officer,Senior,7000,49,Male,Female,1,No
+EMP01720,CORP061,Steven Warner,,,Warehouse Officer,Junior,3500,34,Male,Male,3,Yes
+EMP01721,CORP061,Amber Flores,,,Warehouse Officer,Mid,5000,49,Male,Female,3,No
+EMP01722,CORP061,Marc Kim,,,Fleet Manager,Junior,6000,58,Male,Male,3,Yes
+EMP01723,CORP061,Belinda Smith,,,Warehouse Officer,Senior,7000,56,Female,Female,1,Yes
+EMP01724,CORP061,Carrie Farrell,,,Fleet Manager,Mid,8500,27,Male,Female,4,No
+EMP01725,CORP061,Joseph Wiggins,,,Fleet Manager,Senior,12000,40,Female,Male,2,No
+EMP01726,CORP061,Michael Richardson,,,Fleet Manager,Junior,6000,28,Male,Male,3,No
+EMP01727,CORP062,Pamela Finley,,,Fleet Manager,Senior,12000,23,Male,Female,2,No
+EMP01728,CORP062,Stephanie Rivera,,,Warehouse Officer,Senior,7000,57,Female,Female,1,No
+EMP01729,CORP062,Julia Floyd,,,Fleet Manager,Senior,12000,50,Female,Female,2,No
+EMP01730,CORP062,Stephanie King,,,Fleet Manager,Junior,6000,27,Male,Female,4,No
+EMP01731,CORP062,Lisa Smith,,,Fleet Manager,Mid,8500,31,Male,Female,0,No
+EMP01732,CORP062,Michael Wilson,,,Warehouse Officer,Senior,7000,30,Male,Male,0,No
+EMP01733,CORP062,Catherine Galvan,,,Fleet Manager,Junior,6000,29,Female,Female,1,Yes
+EMP01734,CORP062,Kristin Mccormick,,,Warehouse Officer,Mid,5000,55,Female,Female,2,Yes
+EMP01735,CORP062,Cynthia Haynes,,,Warehouse Officer,Senior,7000,44,Male,Female,1,No
+EMP01736,CORP062,Michael Lee,,,Fleet Manager,Senior,12000,33,Male,Male,0,Yes
+EMP01737,CORP062,Jennifer Diaz,,,Fleet Manager,Mid,8500,27,Male,Female,3,Yes
+EMP01738,CORP062,Brandon Aguilar,,,Fleet Manager,Junior,6000,34,Male,Male,0,Yes
+EMP01739,CORP062,Keith Nelson,,,Warehouse Officer,Senior,7000,33,Male,Male,2,No
+EMP01740,CORP062,Andrea Nelson,,,Warehouse Officer,Mid,5000,27,Female,Female,3,Yes
+EMP01741,CORP062,Teresa Wolfe,,,Warehouse Officer,Mid,5000,51,Female,Female,2,No
+EMP01742,CORP062,Michelle Gilbert,,,Fleet Manager,Mid,8500,30,Female,Female,1,Yes
+EMP01743,CORP062,Scott Decker,,,Fleet Manager,Mid,8500,49,Female,Male,4,Yes
+EMP01744,CORP062,Dawn Hardy,,,Fleet Manager,Mid,8500,37,Male,Female,4,Yes
+EMP01745,CORP062,Teresa Farrell,,,Fleet Manager,Junior,6000,58,Female,Female,4,No
+EMP01746,CORP063,Patrick Martinez,,,Warehouse Officer,Senior,7000,25,Female,Male,1,No
+EMP01747,CORP063,Cameron Smith,,,Warehouse Officer,Mid,5000,54,Male,Male,4,Yes
+EMP01748,CORP063,Jeffery Brady,,,Warehouse Officer,Mid,5000,47,Male,Male,2,Yes
+EMP01749,CORP063,Kristopher Cannon,,,Warehouse Officer,Senior,7000,55,Female,Male,1,Yes
+EMP01750,CORP063,Tammy Jones,,,Warehouse Officer,Junior,3500,51,Male,Female,2,No
+EMP01751,CORP063,Brian Fischer,,,Warehouse Officer,Mid,5000,47,Male,Male,4,No
+EMP01752,CORP063,Adam Gomez,,,Warehouse Officer,Mid,5000,45,Male,Male,2,No
+EMP01753,CORP063,Jay Simpson,,,Fleet Manager,Junior,6000,41,Male,Male,3,No
+EMP01754,CORP063,Angela Myers,,,Fleet Manager,Mid,8500,30,Female,Female,0,No
+EMP01755,CORP063,Gina Armstrong,,,Fleet Manager,Junior,6000,44,Male,Female,1,No
+EMP01756,CORP063,William Stone,Mr.,,Warehouse Officer,Senior,7000,53,Female,Male,4,No
+EMP01757,CORP063,Ian Rose,,,Fleet Manager,Senior,12000,38,Female,Male,3,No
+EMP01758,CORP063,Gary Rodriguez,,,Fleet Manager,Senior,12000,30,Female,Male,3,Yes
+EMP01759,CORP063,Katherine Conley,,,Fleet Manager,Junior,6000,58,Female,Female,2,No
+EMP01760,CORP063,Jessica Lane,,,Warehouse Officer,Senior,7000,42,Female,Female,3,No
+EMP01761,CORP063,Lindsey Duran,,,Fleet Manager,Junior,6000,29,Female,Female,1,Yes
+EMP01762,CORP063,Erika Jones,,,Fleet Manager,Junior,6000,46,Male,Female,3,No
+EMP01763,CORP063,Trevor Garcia,,,Warehouse Officer,Mid,5000,35,Male,Male,3,No
+EMP01764,CORP063,Lynn Jones,,,Warehouse Officer,Senior,7000,37,Male,Female,0,No
+EMP01765,CORP063,Kevin Pugh,,,Fleet Manager,Senior,12000,27,Male,Male,4,Yes
+EMP01766,CORP063,Melissa Hayes,,,Fleet Manager,Junior,6000,37,Male,Female,3,No
+EMP01767,CORP063,Jenna Mcguire,,,Fleet Manager,Junior,6000,24,Female,Female,4,Yes
+EMP01768,CORP063,William Hayes,,,Warehouse Officer,Mid,5000,40,Male,Male,0,Yes
+EMP01769,CORP063,Francisco Diaz,,,Warehouse Officer,Junior,3500,48,Male,Male,3,Yes
+EMP01770,CORP063,Elizabeth Hayes,,,Fleet Manager,Senior,12000,44,Male,Female,0,No
+EMP01771,CORP063,Dawn Patel,,,Fleet Manager,Mid,8500,52,Female,Female,1,No
+EMP01772,CORP063,Katherine Gonzalez,,,Fleet Manager,Junior,6000,51,Female,Female,0,Yes
+EMP01773,CORP064,Hailey Wells,,,Insurance Officer,Senior,12000,39,Male,Female,1,No
+EMP01774,CORP064,Arthur Gould,,,Insurance Officer,Senior,12000,54,Female,Male,0,Yes
+EMP01775,CORP064,Steven James,,,Insurance Officer,Junior,5000,32,Male,Male,3,No
+EMP01776,CORP064,Steven Meyer,,,Insurance Officer,Mid,8000,51,Male,Male,2,No
+EMP01777,CORP064,Stephen Davis,,,Claims Analyst,Senior,14000,46,Male,Male,0,No
+EMP01778,CORP064,Casey Dawson,,,Insurance Officer,Mid,8000,58,Female,Unknown,0,Yes
+EMP01779,CORP064,Jasmine Maynard,,,Claims Analyst,Mid,9000,30,Female,Female,0,No
+EMP01780,CORP064,Paul Carter,,,Claims Analyst,Mid,9000,53,Male,Male,4,No
+EMP01781,CORP064,Marie Parks,,,Insurance Officer,Senior,12000,44,Male,Female,0,No
+EMP01782,CORP064,Brandon Howard,,,Claims Analyst,Senior,14000,54,Male,Male,0,No
+EMP01783,CORP064,Nicole Patel,,,Claims Analyst,Junior,6000,23,Male,Female,0,Yes
+EMP01784,CORP064,Jason Rosales,,,Claims Analyst,Senior,14000,42,Female,Male,3,Yes
+EMP01785,CORP064,Scott Russell,,,Claims Analyst,Mid,9000,36,Male,Male,4,Yes
+EMP01786,CORP064,Elizabeth Harris,,,Claims Analyst,Mid,9000,55,Male,Female,3,No
+EMP01787,CORP064,Patricia Fuentes,,MD,Insurance Officer,Senior,12000,52,Female,Female,1,Yes
+EMP01788,CORP064,Heidi Good,,,Claims Analyst,Junior,6000,39,Female,Female,0,Yes
+EMP01789,CORP064,Melinda Perry,,,Insurance Officer,Senior,12000,23,Male,Female,0,Yes
+EMP01790,CORP064,Lauren King,,,Claims Analyst,Senior,14000,35,Male,Female,2,No
+EMP01791,CORP064,Jacob Wright,,,Insurance Officer,Senior,12000,41,Male,Male,0,No
+EMP01792,CORP064,Angela Hernandez,,,Claims Analyst,Senior,14000,58,Male,Female,0,Yes
+EMP01793,CORP064,Laura Williams,,,Claims Analyst,Senior,14000,31,Male,Female,2,No
+EMP01794,CORP064,Lauren Austin,,,Claims Analyst,Junior,6000,37,Male,Female,2,No
+EMP01795,CORP064,Michael Chapman,,,Claims Analyst,Senior,14000,25,Male,Male,0,No
+EMP01796,CORP064,Dustin Jackson,,,Claims Analyst,Senior,14000,50,Male,Male,1,No
+EMP01797,CORP064,James Davis,,,Insurance Officer,Mid,8000,53,Male,Male,3,Yes
+EMP01798,CORP064,Elizabeth Hanson,,,Claims Analyst,Mid,9000,24,Male,Female,1,No
+EMP01799,CORP064,Courtney Vasquez,,,Insurance Officer,Junior,5000,52,Female,Female,4,No
+EMP01800,CORP064,Justin Smith,,,Claims Analyst,Mid,9000,26,Female,Male,2,No
+EMP01801,CORP064,Alexandra Weiss,,,Claims Analyst,Junior,6000,53,Male,Female,0,Yes
+EMP01802,CORP064,Stephanie Conner,,,Insurance Officer,Junior,5000,41,Male,Female,2,Yes
+EMP01803,CORP064,Jason Lawson,,,Insurance Officer,Senior,12000,51,Female,Male,3,No
+EMP01804,CORP064,James Rosales,,,Insurance Officer,Mid,8000,54,Female,Male,4,Yes
+EMP01805,CORP064,Christopher Myers,,,Insurance Officer,Junior,5000,57,Female,Male,0,No
+EMP01806,CORP064,Melissa Nguyen,,,Insurance Officer,Mid,8000,29,Male,Female,2,Yes
+EMP01807,CORP064,Raymond Spencer,,,Insurance Officer,Mid,8000,30,Male,Male,2,Yes
+EMP01808,CORP064,Kristen Smith,,,Insurance Officer,Senior,12000,43,Female,Female,1,No
+EMP01809,CORP064,Nicholas Evans,,,Insurance Officer,Senior,12000,58,Male,Male,0,No
+EMP01810,CORP065,Michele Page,,,Claims Analyst,Mid,9000,49,Female,Female,3,Yes
+EMP01811,CORP065,Jacob Gordon,,,Claims Analyst,Mid,9000,57,Female,Male,1,Yes
+EMP01812,CORP065,Jade Hayes,,,Claims Analyst,Mid,9000,29,Male,Female,1,No
+EMP01813,CORP065,Diane Scott,,DVM,Insurance Officer,Junior,5000,55,Male,Female,3,Yes
+EMP01814,CORP065,Kelly Brown,,,Claims Analyst,Mid,9000,29,Male,Female,0,No
+EMP01815,CORP065,Kim Martin,,,Claims Analyst,Mid,9000,34,Male,Female,4,No
+EMP01816,CORP065,Glen Powers,,,Insurance Officer,Senior,12000,54,Male,Male,3,No
+EMP01817,CORP065,Robert Mills,,,Claims Analyst,Mid,9000,49,Female,Male,4,Yes
+EMP01818,CORP065,Alyssa Marshall,,,Insurance Officer,Mid,8000,40,Female,Female,2,Yes
+EMP01819,CORP065,Lisa Vance,,,Claims Analyst,Mid,9000,27,Female,Female,2,No
+EMP01820,CORP065,Debra Harper,,,Insurance Officer,Mid,8000,55,Female,Female,2,Yes
+EMP01821,CORP065,Andrew Frazier,,,Insurance Officer,Junior,5000,51,Female,Male,3,Yes
+EMP01822,CORP065,William Henry,,,Insurance Officer,Mid,8000,44,Male,Male,3,Yes
+EMP01823,CORP065,Denise Hughes,,,Insurance Officer,Junior,5000,29,Male,Female,4,No
+EMP01824,CORP065,Brenda Larsen,,,Insurance Officer,Junior,5000,41,Female,Female,2,No
+EMP01825,CORP065,Paula Johnston,,,Insurance Officer,Senior,12000,39,Male,Female,2,No
+EMP01826,CORP065,Phillip Stout,,,Insurance Officer,Mid,8000,52,Male,Male,1,Yes
+EMP01827,CORP065,Tim Harris,,,Insurance Officer,Senior,12000,41,Male,Male,2,Yes
+EMP01828,CORP065,Jacob Decker,,,Claims Analyst,Senior,14000,37,Male,Male,3,Yes
+EMP01829,CORP065,Wendy Roberts,,,Claims Analyst,Senior,14000,40,Female,Female,4,No
+EMP01830,CORP065,Joseph Reid,,,Insurance Officer,Mid,8000,40,Male,Male,1,Yes
+EMP01831,CORP065,Karen Carter,,,Claims Analyst,Senior,14000,24,Male,Female,3,Yes
+EMP01832,CORP065,Ian Hall,,,Insurance Officer,Senior,12000,32,Female,Male,3,No
+EMP01833,CORP065,Alexandria Johnson,,,Claims Analyst,Junior,6000,42,Male,Female,0,Yes
+EMP01834,CORP065,Stacy Johnson,,,Insurance Officer,Junior,5000,50,Female,Female,4,Yes
+EMP01835,CORP065,Virginia Allen,,,Insurance Officer,Senior,12000,35,Male,Female,0,Yes
+EMP01836,CORP065,Mark Bridges,,,Claims Analyst,Mid,9000,35,Female,Male,3,Yes
+EMP01837,CORP065,Christian Murphy,,,Insurance Officer,Mid,8000,47,Male,Male,3,No
+EMP01838,CORP065,Lisa Davis,,,Claims Analyst,Senior,14000,51,Female,Female,2,No
+EMP01839,CORP065,Kathryn Stark,,,Claims Analyst,Junior,6000,31,Female,Female,2,No
+EMP01840,CORP065,Stephanie Beck,,,Insurance Officer,Mid,8000,30,Female,Female,3,No
+EMP01841,CORP065,Joseph Gilbert,,,Claims Analyst,Senior,14000,38,Male,Male,0,Yes
+EMP01842,CORP065,Amanda Brown,,,Insurance Officer,Senior,12000,55,Male,Female,2,No
+EMP01843,CORP065,Lori Hess,,,Insurance Officer,Senior,12000,35,Male,Female,2,Yes
+EMP01844,CORP065,Alicia Hopkins,,,Insurance Officer,Senior,12000,45,Male,Female,2,No
+EMP01845,CORP065,Emily White,,,Claims Analyst,Junior,6000,52,Female,Female,3,No
+EMP01846,CORP066,Steven Castro,,,Insurance Officer,Junior,5000,43,Male,Male,3,No
+EMP01847,CORP066,Sierra Daniel,,,Insurance Officer,Mid,8000,57,Male,Female,0,No
+EMP01848,CORP066,Crystal Robinson,,,Claims Analyst,Junior,6000,54,Female,Female,3,No
+EMP01849,CORP066,Richard Jensen,,,Insurance Officer,Senior,12000,23,Female,Male,3,Yes
+EMP01850,CORP066,Joshua Robles,,,Claims Analyst,Junior,6000,36,Male,Male,1,Yes
+EMP01851,CORP066,Sean Walker,,,Insurance Officer,Junior,5000,41,Female,Male,0,No
+EMP01852,CORP066,Bridget Turner,,,Claims Analyst,Junior,6000,32,Male,Female,0,Yes
+EMP01853,CORP066,Michael Cruz,,,Claims Analyst,Mid,9000,46,Male,Male,1,Yes
+EMP01854,CORP066,Yolanda Hernandez,,,Insurance Officer,Junior,5000,52,Male,Female,4,Yes
+EMP01855,CORP066,Jessica Hall,,,Insurance Officer,Senior,12000,48,Female,Female,3,Yes
+EMP01856,CORP066,Carlos Hodges,,,Claims Analyst,Mid,9000,35,Female,Male,3,Yes
+EMP01857,CORP066,Elizabeth Hill,,,Claims Analyst,Senior,14000,55,Female,Female,4,No
+EMP01858,CORP066,Pamela Jordan,,,Claims Analyst,Senior,14000,34,Male,Female,0,No
+EMP01859,CORP066,Shannon Hicks,,,Claims Analyst,Mid,9000,43,Female,Female,4,No
+EMP01860,CORP066,Cindy Morgan,,,Insurance Officer,Junior,5000,23,Female,Female,0,Yes
+EMP01861,CORP066,Wanda Scott,,,Claims Analyst,Senior,14000,37,Male,Female,3,No
+EMP01862,CORP066,Timothy Gillespie,,,Claims Analyst,Mid,9000,43,Male,Male,1,No
+EMP01863,CORP066,Edward Sanford,,,Claims Analyst,Senior,14000,34,Male,Male,4,No
+EMP01864,CORP066,Matthew Potts,,,Claims Analyst,Junior,6000,55,Male,Male,2,Yes
+EMP01865,CORP066,Brian Jimenez,,,Claims Analyst,Mid,9000,31,Female,Male,4,No
+EMP01866,CORP066,Deborah Wilkins,,,Claims Analyst,Mid,9000,41,Female,Female,1,No
+EMP01867,CORP066,Dennis Gutierrez,,,Insurance Officer,Mid,8000,46,Female,Male,3,Yes
+EMP01868,CORP066,Todd Gutierrez,,,Claims Analyst,Junior,6000,50,Male,Male,4,No
+EMP01869,CORP066,Jo Johnson,,,Insurance Officer,Mid,8000,33,Female,Unknown,0,Yes
+EMP01870,CORP067,Phyllis Ryan,,,Network Engineer,Junior,7500,37,Male,Female,0,Yes
+EMP01871,CORP067,Jeffery Davis,,,Software Engineer,Mid,13000,38,Female,Male,3,No
+EMP01872,CORP067,Steve Scott,,,Software Engineer,Senior,19000,25,Female,Male,4,No
+EMP01873,CORP067,Catherine Craig,,,Software Engineer,Junior,8500,48,Female,Female,4,Yes
+EMP01874,CORP067,Joseph Rogers,,,Network Engineer,Senior,17000,52,Female,Male,2,No
+EMP01875,CORP067,Adam Williams,,,Network Engineer,Mid,12000,54,Male,Male,3,Yes
+EMP01876,CORP067,Terry Taylor,,,Network Engineer,Junior,7500,31,Female,Male,2,No
+EMP01877,CORP067,Kathy Flores,,,Software Engineer,Mid,13000,28,Male,Female,3,Yes
+EMP01878,CORP067,James Johnson,,,Software Engineer,Mid,13000,47,Female,Male,0,Yes
+EMP01879,CORP067,Bradley Hudson,,,Software Engineer,Junior,8500,34,Female,Male,4,No
+EMP01880,CORP067,Wendy Gonzalez,,,Network Engineer,Junior,7500,29,Female,Female,4,Yes
+EMP01881,CORP067,Michelle Sanchez,,,Network Engineer,Senior,17000,26,Male,Female,0,Yes
+EMP01882,CORP067,Donna Lopez,,,Network Engineer,Mid,12000,53,Female,Female,2,No
+EMP01883,CORP067,Tina Jimenez,,,Network Engineer,Senior,17000,26,Male,Female,2,No
+EMP01884,CORP067,Dylan Brown,,,Software Engineer,Junior,8500,54,Male,Male,4,No
+EMP01885,CORP067,Sean Michael,,,Network Engineer,Senior,17000,46,Male,Male,4,Yes
+EMP01886,CORP067,John Weber,,,Network Engineer,Senior,17000,24,Male,Male,3,No
+EMP01887,CORP067,Eric Mendoza,,,Network Engineer,Junior,7500,53,Male,Male,2,No
+EMP01888,CORP067,Lindsey Hayes,,,Software Engineer,Mid,13000,44,Male,Female,1,Yes
+EMP01889,CORP067,Jesus Bryant,,,Network Engineer,Mid,12000,26,Male,Male,2,Yes
+EMP01890,CORP067,Michael Silva,,,Software Engineer,Senior,19000,24,Female,Male,4,Yes
+EMP01891,CORP068,Nicole Davis,,,Network Engineer,Junior,7500,27,Female,Female,2,Yes
+EMP01892,CORP068,David Fletcher,,,Network Engineer,Senior,17000,34,Male,Male,1,Yes
+EMP01893,CORP068,Eric Kane,,,Network Engineer,Junior,7500,35,Female,Male,2,Yes
+EMP01894,CORP068,Casey Mitchell,,,Network Engineer,Senior,17000,26,Female,Unknown,3,No
+EMP01895,CORP068,Christopher Chandler,,,Software Engineer,Senior,19000,49,Male,Male,2,No
+EMP01896,CORP068,John Lewis,,Jr.,Software Engineer,Junior,8500,24,Female,Male,3,No
+EMP01897,CORP068,Michael Bowen,,PhD,Network Engineer,Mid,12000,45,Male,Male,2,Yes
+EMP01898,CORP068,Robert Ballard,,,Network Engineer,Mid,12000,41,Male,Male,4,Yes
+EMP01899,CORP068,Brian Warner,,,Software Engineer,Junior,8500,55,Female,Male,4,No
+EMP01900,CORP068,Fernando Jenkins,,,Network Engineer,Mid,12000,29,Male,Male,3,No
+EMP01901,CORP068,Deborah Webb,,,Software Engineer,Junior,8500,24,Female,Female,0,Yes
+EMP01902,CORP068,Michael Woodard,,,Network Engineer,Senior,17000,38,Female,Male,1,No
+EMP01903,CORP068,Justin Nguyen,,,Network Engineer,Mid,12000,26,Male,Male,1,No
+EMP01904,CORP068,Christopher Moore,,,Network Engineer,Senior,17000,50,Male,Male,1,No
+EMP01905,CORP068,Maria Gonzales,,,Network Engineer,Mid,12000,34,Female,Female,3,Yes
+EMP01906,CORP068,Heather Saunders,,,Network Engineer,Junior,7500,41,Male,Female,2,No
+EMP01907,CORP068,Emily Fitzgerald,,,Network Engineer,Senior,17000,26,Male,Female,1,No
+EMP01908,CORP068,Michael Harrison,,,Software Engineer,Junior,8500,45,Male,Male,1,No
+EMP01909,CORP068,Scott Evans,,,Network Engineer,Mid,12000,53,Female,Male,4,No
+EMP01910,CORP068,Emily Curry,,,Network Engineer,Senior,17000,34,Male,Female,3,Yes
+EMP01911,CORP068,Thomas Velazquez,,,Network Engineer,Junior,7500,37,Female,Male,1,No
+EMP01912,CORP068,Amber Anderson,,,Software Engineer,Mid,13000,39,Female,Female,3,No
+EMP01913,CORP068,Audrey Salas,,,Network Engineer,Mid,12000,51,Female,Female,1,No
+EMP01914,CORP068,Robert Edwards,,,Network Engineer,Junior,7500,26,Male,Male,2,Yes
+EMP01915,CORP069,Sheila Sanchez,,,Software Engineer,Junior,8500,52,Male,Female,1,Yes
+EMP01916,CORP069,Crystal Reynolds,,,Software Engineer,Mid,13000,53,Female,Female,0,No
+EMP01917,CORP069,Jeffery Mitchell,,,Network Engineer,Mid,12000,44,Male,Male,3,No
+EMP01918,CORP069,Vicki Jenkins,,,Network Engineer,Mid,12000,27,Male,Female,4,Yes
+EMP01919,CORP069,Sharon Cantu,,,Network Engineer,Junior,7500,28,Male,Female,2,Yes
+EMP01920,CORP069,Stephen Juarez,,,Software Engineer,Junior,8500,50,Female,Male,1,Yes
+EMP01921,CORP069,Jennifer James,,,Software Engineer,Mid,13000,54,Female,Female,3,No
+EMP01922,CORP069,Mary Adams,,,Software Engineer,Junior,8500,52,Female,Female,1,Yes
+EMP01923,CORP069,Kathryn Zimmerman,,,Software Engineer,Mid,13000,40,Female,Female,1,Yes
+EMP01924,CORP069,Stephanie Jones,,,Network Engineer,Junior,7500,28,Male,Female,3,Yes
+EMP01925,CORP069,William Parker,,,Software Engineer,Junior,8500,34,Male,Male,2,No
+EMP01926,CORP069,Kyle Hansen,,,Network Engineer,Senior,17000,25,Female,Female,1,No
+EMP01927,CORP069,Lauren Rios,,,Network Engineer,Senior,17000,48,Male,Female,0,No
+EMP01928,CORP069,Kendra Reed,,,Software Engineer,Junior,8500,53,Female,Female,0,No
+EMP01929,CORP069,Matthew Hill,,,Software Engineer,Junior,8500,47,Male,Male,4,Yes
+EMP01930,CORP069,Willie Sharp,,,Network Engineer,Mid,12000,49,Male,Male,2,No
+EMP01931,CORP069,Leah Zuniga,,,Software Engineer,Senior,19000,24,Female,Female,4,Yes
+EMP01932,CORP069,Tammie Jennings,,,Network Engineer,Junior,7500,36,Male,Female,3,Yes
+EMP01933,CORP069,Tony Rasmussen,,,Software Engineer,Mid,13000,56,Male,Male,1,No
+EMP01934,CORP069,Angela Cruz,,,Network Engineer,Mid,12000,50,Male,Female,0,Yes
+EMP01935,CORP069,Samantha Davila,,,Software Engineer,Junior,8500,37,Female,Female,0,Yes
+EMP01936,CORP069,Sarah Reed,,,Software Engineer,Junior,8500,45,Male,Female,2,Yes
+EMP01937,CORP069,Suzanne Martin,,,Network Engineer,Senior,17000,57,Female,Female,1,No
+EMP01938,CORP069,Manuel Smith,,,Software Engineer,Mid,13000,31,Male,Male,3,No
+EMP01939,CORP069,Ashley Price,,,Software Engineer,Junior,8500,51,Female,Female,1,No
+EMP01940,CORP069,Brian Owens,,,Network Engineer,Junior,7500,48,Female,Male,3,Yes
+EMP01941,CORP069,Aaron Simon,,,Software Engineer,Mid,13000,48,Female,Male,1,No
+EMP01942,CORP069,Christopher Donovan,,,Network Engineer,Senior,17000,30,Female,Male,1,No
+EMP01943,CORP069,David Johnson,,,Network Engineer,Junior,7500,27,Female,Male,4,Yes
+EMP01944,CORP069,Zachary Shaw,,,Software Engineer,Senior,19000,45,Male,Male,4,Yes
+EMP01945,CORP069,Jodi Wade,,,Network Engineer,Mid,12000,54,Male,Female,3,No
+EMP01946,CORP069,Joseph Dean,,,Software Engineer,Junior,8500,37,Male,Male,0,No
+EMP01947,CORP069,Jasmine Garcia,,,Network Engineer,Junior,7500,30,Male,Female,4,Yes
+EMP01948,CORP069,Tiffany Carroll,,,Software Engineer,Mid,13000,38,Male,Female,3,No
+EMP01949,CORP069,Robert Ochoa,,,Network Engineer,Junior,7500,34,Female,Male,0,No
+EMP01950,CORP069,Rebecca Griffin,,,Software Engineer,Junior,8500,25,Male,Female,0,No
+EMP01951,CORP070,James Hughes,,,Software Engineer,Mid,13000,57,Female,Male,0,Yes
+EMP01952,CORP070,Carla Oliver,,,Software Engineer,Mid,13000,44,Female,Female,4,No
+EMP01953,CORP070,Carol Stephens,,,Network Engineer,Junior,7500,36,Female,Female,2,No
+EMP01954,CORP070,Darrell Johnson,,,Network Engineer,Senior,17000,23,Female,Male,3,Yes
+EMP01955,CORP070,Samantha Dunn,,,Software Engineer,Senior,19000,42,Female,Female,4,No
+EMP01956,CORP070,Jessica Hill,,,Network Engineer,Mid,12000,53,Female,Female,4,No
+EMP01957,CORP070,Joshua Gibson,,,Network Engineer,Mid,12000,25,Male,Male,1,No
+EMP01958,CORP070,Michelle Daniels,,,Software Engineer,Junior,8500,28,Male,Female,0,Yes
+EMP01959,CORP070,Teresa Hooper,,,Network Engineer,Junior,7500,42,Female,Female,0,Yes
+EMP01960,CORP070,Jimmy Butler,,,Software Engineer,Senior,19000,39,Male,Male,1,Yes
+EMP01961,CORP070,Anna Barrett,,,Software Engineer,Junior,8500,39,Male,Female,1,No
+EMP01962,CORP070,Leah Jones,,,Software Engineer,Mid,13000,34,Male,Female,3,No
+EMP01963,CORP070,James Underwood,,,Network Engineer,Junior,7500,53,Female,Male,1,Yes
+EMP01964,CORP070,Daniel Walters,,,Software Engineer,Mid,13000,47,Male,Male,1,Yes
+EMP01965,CORP070,Teresa Henderson,,,Network Engineer,Mid,12000,33,Male,Female,2,No
+EMP01966,CORP070,Michael Hall,,,Network Engineer,Senior,17000,42,Female,Male,4,Yes
+EMP01967,CORP070,Elizabeth Gomez,,,Network Engineer,Junior,7500,39,Male,Female,0,No
+EMP01968,CORP070,Ryan Juarez,,,Network Engineer,Junior,7500,23,Female,Male,4,Yes
+EMP01969,CORP070,Michael Crane,,,Network Engineer,Mid,12000,40,Female,Male,0,Yes
+EMP01970,CORP070,Megan Jones,,,Software Engineer,Mid,13000,53,Male,Female,4,No
+EMP01971,CORP070,Teresa Lopez,,,Software Engineer,Senior,19000,53,Male,Female,3,Yes
+EMP01972,CORP070,Daniel Ross,Mr.,,Network Engineer,Mid,12000,37,Female,Male,0,Yes
+EMP01973,CORP070,Roy Smith,,,Network Engineer,Senior,17000,33,Male,Male,0,Yes
+EMP01974,CORP070,James Mendoza,,,Network Engineer,Mid,12000,45,Female,Male,1,No

@@ -1,0 +1,16 @@
+# Credentials - never push these
+credentials/
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

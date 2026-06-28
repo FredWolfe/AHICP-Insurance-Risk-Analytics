@@ -1,0 +1,71 @@
+Corporate_ID,Company_ID,Branch_ID,Estimated_Headcount,Insurance_Product,Premium_Per_Staff_GHS,Insurance_Purpose,Application_Date
+CORP001,COMP001,BR001,1800,Group Welfare Plan,248,HR Benefits,2025-11-15
+CORP002,COMP001,BR002,250,Group Welfare Plan,254,Employee Welfare,2024-11-08
+CORP003,COMP001,BR003,120,Group Funeral Insurance Plan,219,Talent Retention,2024-05-24
+CORP004,COMP001,BR004,80,Group Welfare Plan,232,Employee Welfare,2024-11-06
+CORP005,COMP001,BR005,35,Group Life Insurance Plan,226,Employee Welfare,2024-03-06
+CORP006,COMP002,BR006,1400,Group Welfare Plan,209,HR Benefits,2025-07-19
+CORP007,COMP002,BR007,220,Group Life Insurance Plan,129,Talent Retention,2024-12-04
+CORP008,COMP002,BR008,90,Group Funeral Insurance Plan,258,Corporate Responsibility,2025-04-13
+CORP009,COMP002,BR009,70,Group Welfare Plan,174,HR Benefits,2024-01-12
+CORP010,COMP002,BR010,30,Group Welfare Plan,164,HR Benefits,2024-11-23
+CORP011,COMP003,BR011,850,Group Life Insurance Plan,245,Employee Welfare,2024-10-31
+CORP012,COMP003,BR012,120,Group Welfare Plan,193,Employee Welfare,2024-11-06
+CORP013,COMP003,BR013,70,Group Funeral Insurance Plan,207,Corporate Responsibility,2025-01-14
+CORP014,COMP004,BR014,3200,Group Welfare Plan,242,Talent Retention,2024-05-03
+CORP015,COMP004,BR015,150,Group Life Insurance Plan,195,Talent Retention,2025-04-11
+CORP016,COMP005,BR016,280,Group Funeral Insurance Plan,199,HR Benefits,2025-08-09
+CORP017,COMP006,BR017,220,Group Funeral Insurance Plan,172,Employee Welfare,2024-07-06
+CORP018,COMP006,BR018,70,Group Funeral Insurance Plan,148,HR Benefits,2025-09-08
+CORP019,COMP006,BR019,40,Group Funeral Insurance Plan,129,HR Benefits,2024-01-26
+CORP020,COMP007,BR020,320,Group Life Insurance Plan,199,Employee Welfare,2025-05-15
+CORP021,COMP007,BR021,80,Group Life Insurance Plan,257,Employee Welfare,2024-02-14
+CORP022,COMP007,BR022,35,Group Life Insurance Plan,257,Talent Retention,2024-09-12
+CORP023,COMP001,BR023,1800,Group Funeral Insurance Plan,171,Employee Welfare,2025-11-12
+CORP024,COMP001,BR024,250,Group Funeral Insurance Plan,182,Employee Welfare,2024-08-19
+CORP025,COMP001,BR025,120,Group Funeral Insurance Plan,167,Corporate Responsibility,2024-01-26
+CORP026,COMP001,BR026,80,Group Life Insurance Plan,169,Corporate Responsibility,2024-12-24
+CORP027,COMP001,BR027,35,Group Welfare Plan,196,Employee Welfare,2024-03-30
+CORP028,COMP002,BR028,1400,Group Life Insurance Plan,254,HR Benefits,2024-11-15
+CORP029,COMP002,BR029,220,Group Welfare Plan,135,HR Benefits,2025-02-13
+CORP030,COMP002,BR030,90,Group Life Insurance Plan,172,Employee Welfare,2024-10-23
+CORP031,COMP002,BR031,70,Group Life Insurance Plan,139,Employee Welfare,2024-01-16
+CORP032,COMP002,BR032,30,Group Funeral Insurance Plan,141,Employee Welfare,2025-04-24
+CORP033,COMP003,BR033,850,Group Welfare Plan,217,Talent Retention,2024-01-31
+CORP034,COMP003,BR034,120,Group Funeral Insurance Plan,158,Corporate Responsibility,2024-08-24
+CORP035,COMP003,BR035,70,Group Welfare Plan,142,Talent Retention,2025-03-20
+CORP036,COMP004,BR036,3200,Group Life Insurance Plan,161,HR Benefits,2024-09-08
+CORP037,COMP004,BR037,150,Group Funeral Insurance Plan,225,Corporate Responsibility,2024-11-03
+CORP038,COMP005,BR038,280,Group Life Insurance Plan,185,Talent Retention,2025-06-01
+CORP039,COMP006,BR039,220,Group Welfare Plan,151,Employee Welfare,2025-08-08
+CORP040,COMP006,BR040,70,Group Funeral Insurance Plan,182,Talent Retention,2024-04-12
+CORP041,COMP006,BR041,40,Group Life Insurance Plan,212,Talent Retention,2025-06-19
+CORP042,COMP007,BR042,320,Group Funeral Insurance Plan,171,HR Benefits,2025-05-01
+CORP043,COMP007,BR043,80,Group Welfare Plan,260,HR Benefits,2024-04-16
+CORP044,COMP007,BR044,35,Group Welfare Plan,155,HR Benefits,2025-10-23
+CORP045,COMP001,BR045,1800,Group Funeral Insurance Plan,165,HR Benefits,2024-01-17
+CORP046,COMP001,BR046,250,Group Welfare Plan,129,Corporate Responsibility,2024-07-21
+CORP047,COMP001,BR047,120,Group Life Insurance Plan,167,Talent Retention,2025-03-25
+CORP048,COMP001,BR048,80,Group Life Insurance Plan,202,Employee Welfare,2024-10-17
+CORP049,COMP001,BR049,35,Group Funeral Insurance Plan,218,Talent Retention,2024-08-25
+CORP050,COMP002,BR050,1400,Group Welfare Plan,234,Talent Retention,2025-09-20
+CORP051,COMP002,BR051,220,Group Welfare Plan,232,Corporate Responsibility,2025-07-14
+CORP052,COMP002,BR052,90,Group Welfare Plan,137,Talent Retention,2024-08-26
+CORP053,COMP002,BR053,70,Group Life Insurance Plan,255,Corporate Responsibility,2025-03-26
+CORP054,COMP002,BR054,30,Group Welfare Plan,206,Corporate Responsibility,2024-06-01
+CORP055,COMP003,BR055,850,Group Funeral Insurance Plan,136,Corporate Responsibility,2025-10-06
+CORP056,COMP003,BR056,120,Group Funeral Insurance Plan,209,Employee Welfare,2024-05-05
+CORP057,COMP003,BR057,70,Group Welfare Plan,151,Corporate Responsibility,2024-04-25
+CORP058,COMP004,BR058,3200,Group Funeral Insurance Plan,140,Talent Retention,2024-02-15
+CORP059,COMP004,BR059,150,Group Welfare Plan,252,Talent Retention,2025-12-06
+CORP060,COMP005,BR060,280,Group Life Insurance Plan,136,Talent Retention,2025-01-25
+CORP061,COMP006,BR061,220,Group Funeral Insurance Plan,123,Corporate Responsibility,2024-12-20
+CORP062,COMP006,BR062,70,Group Funeral Insurance Plan,140,Talent Retention,2025-02-23
+CORP063,COMP006,BR063,40,Group Welfare Plan,173,Employee Welfare,2025-02-22
+CORP064,COMP007,BR064,320,Group Welfare Plan,189,Talent Retention,2025-02-14
+CORP065,COMP007,BR065,80,Group Funeral Insurance Plan,181,HR Benefits,2024-10-12
+CORP066,COMP007,BR066,35,Group Life Insurance Plan,179,Employee Welfare,2025-12-05
+CORP067,COMP001,BR067,1800,Group Life Insurance Plan,256,Corporate Responsibility,2025-03-08
+CORP068,COMP001,BR068,250,Group Welfare Plan,208,Talent Retention,2024-05-08
+CORP069,COMP001,BR069,120,Group Welfare Plan,208,Corporate Responsibility,2025-06-25
+CORP070,COMP001,BR070,80,Group Funeral Insurance Plan,204,HR Benefits,2025-08-23
